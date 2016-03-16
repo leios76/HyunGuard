@@ -4,6 +4,25 @@
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
+!-----------HyunGuard 시작------------!
+! 2016. 3. 16. 오후 9:33:10 http://www.tobest2.net/
+||www.tobest2.net/img/img_sweetbam_200x200.gif
+
+! 2016. 3. 16. 오후 9:33:15 http://www.tobest2.net/
+||www.tobest2.net/img/img_tech_200x200.gif
+
+! 2016. 3. 16. 오후 9:33:20 http://www.tobest2.net/
+||www.tobest2.net/img/img_slot_200x200.gif
+
+! 2016. 3. 16. 오후 9:33:24 http://www.tobest2.net/
+||www.tobest2.net/img/img_sadari_200x200.gif
+
+! 2016. 3. 16. 오후 9:33:28 http://www.tobest2.net/
+||www.tobest2.net/img/img_girtas_200x200.gif
+
+! 2016. 3. 16. 오후 9:33:32 http://www.tobest2.net/
+||www.tobest2.net/img/img_gold_200x200.gif
+
 !-----------여기서부터 (구)진보가드의 필터입니다.-----------!
 ! 2016. 3. 7. 오후 10:09:40 http://daily.hankooki.com/lpage/economy/201603/dh20160307173415138080.htm
 daily.hankooki.com###frm > .sideAdR
