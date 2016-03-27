@@ -3,8 +3,12 @@
 ! HyunGuard 프로젝트는 http://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
+! v20160327
 
 !-----------HyunGuard 시작------------!
+! 2016. 3. 26. 오전 10:41:51 http://m.naver.com/
+m.naver.com###nbp_da_img
+
 ! 2016. 3. 16. 오후 9:51:37 http://www.tosarang2.net/
 ||www.tosarang2.net/img/img_sweetbam_200x200.gif
 
@@ -41,7 +45,6 @@
 ! 2016. 3. 16. 오후 9:33:32 http://www.tobest2.net/
 ||www.tobest2.net/img/img_gold_200x200.gif
 
-!-----------여기서부터 (구)진보가드의 필터입니다.-----------!
 ! 2016. 3. 7. 오후 10:09:40 http://daily.hankooki.com/lpage/economy/201603/dh20160307173415138080.htm
 daily.hankooki.com###frm > .sideAdR
 
@@ -242,6 +245,9 @@ www.ytn.co.kr###newsContent > .articleAd_new
 
 ! 2016. 2. 19. 오후 8:45:13 http://news.mk.co.kr/newsRead.php?year=2016&no=135874
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
+
+!------HyunGuard 허용 필터------!
+@@||ssl.auction.co.kr/
 
 !-----------여기서부터 코르셋 필터의 Fork입니다. https://code.google.com/archive/p/abp-corset/ -----------!
 !------------------------------------코르셋 : 일반 차단 필터------------------------------------------!
