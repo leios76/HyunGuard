@@ -9,6 +9,12 @@
 ! 2016. 3. 26. 오전 10:41:51 http://m.naver.com/
 m.naver.com###nbp_da_img
 
+! 2016. 4. 3. 오후 1:32:52 http://www.tobest2.net/bbs/board.php?bo_table=torrent_kortv_ent&wr_id=44544
+www.tobest2.net###contents > center > a[href^="http://funpick.co.kr/intro/"] > img[alt="funpick.co.kr"]
+
+! 2016. 3. 26. 오전 10:41:51 http://m.naver.com/
+m.naver.com###nbp_da_img
+
 ! 2016. 3. 16. 오후 9:51:37 http://www.tosarang2.net/
 ||www.tosarang2.net/img/img_sweetbam_200x200.gif
 
