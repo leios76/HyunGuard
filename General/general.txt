@@ -6,6 +6,15 @@
 ! v20160327
 
 !-----------HyunGuard 시작------------!
+! 2016. 4. 3. 오후 1:32:52 http://www.tobest2.net/bbs/board.php?bo_table=torrent_kortv_ent&wr_id=44544
+www.tobest2.net###contents > center > a[href^="http://funpick.co.kr/intro/"] > img[alt="funpick.co.kr"]
+
+! 2016. 4. 14. 오후 6:09:42 https://torrentkim3.net/torrent_tv/63334.html
+torrentkim3.net###side1 > a[href="/to_toy.html"] > img
+
+! 2016. 4. 14. 오후 6:09:53 https://torrentkim3.net/torrent_tv/63334.html
+||event.winktv.co.kr/banner/160_545_01.gif
+
 ! 2016. 4. 11. 오전 3:02:52 http://www.uuoobe.kr/home.php
 ||www.uuoobe.kr/images/smallcam.gif
 
