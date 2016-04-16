@@ -6,6 +6,9 @@
 ! v20160327
 
 !-----------HyunGuard 시작------------!
+! 2016. 4. 16. 오후 6:22:03 http://m.daum.net/
+m.daum.net##.float_acm_banner.bnr_layer
+
 ! 2016. 4. 3. 오후 1:32:52 http://www.tobest2.net/bbs/board.php?bo_table=torrent_kortv_ent&wr_id=44544
 www.tobest2.net###contents > center > a[href^="http://funpick.co.kr/intro/"] > img[alt="funpick.co.kr"]
 
