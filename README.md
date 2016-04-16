@@ -25,7 +25,7 @@ Are you tired about Adult Ads or Illegal Ads? HyunGuard blocks Adult Ads and Ill
 ### 일반 필터 (General)
 일반 광고차단 필터입니다. 대부분의 일반 광고, 성인 광고, 불법 광고를 차단합니다.
 
-This is General AdBlock Filter. Blocks most of Ads, Adult Ads, Illegal Ads.)
+This is General AdBlock Filter. Blocks most of Ads, Adult Ads, Illegal Ads.
 
 ### 착한 사이트 (KindSites)
 광고가 컨텐츠를 가리지 않으며 유해한 광고를 보여주지 않는 착한 사이트들의 광고를 허용하는 필터입니다.
