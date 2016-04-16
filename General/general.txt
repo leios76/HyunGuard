@@ -78,9 +78,6 @@ www.matcl.com###banner
 ! 2016. 4. 11. 오후 10:50:17 http://www.coolenjoy.net/bbs/cboard.php?board=freeboard2
 ||image.coolenjoy.net/banner/upfile/*.jpg
 
-! 2016. 3. 26. 오전 10:41:51 http://m.naver.com/
-m.naver.com###nbp_da_img
-
 ! 2016. 4. 3. 오후 1:32:52 http://www.tobest2.net/bbs/board.php?bo_table=torrent_kortv_ent&wr_id=44544
 www.tobest2.net###contents > center > a[href^="http://funpick.co.kr/intro/"] > img[alt="funpick.co.kr"]
 
