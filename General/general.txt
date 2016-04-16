@@ -321,6 +321,65 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ! 2016. 2. 19. 오후 8:45:13 http://news.mk.co.kr/newsRead.php?year=2016&no=135874
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
+!------HyunGuard 불법,유해및 성인 광고 차단------!
+mingkyaa.com###layer_popup1 > table > tbody > tr:nth-of-type(1) > td > a[href="http://ynx324.com"] > img
+mingkyaa.com###footer > p:nth-of-type(1) > a[href="http://ynx324.com"] > img
+19bam.com###hd_pops_7
+19bam.com###container > div:nth-of-type(1) > div > a[href="http://yada19.com "] > img[alt="서울토토"]
+19bam.com###container > div:nth-of-type(1) > div > a[href="http://kr937.com"] > img[alt="오션파라다이스"]
+19bam.com###container > div:nth-of-type(1) > div > a[href^=" http://ffbqk.voluumtrk.com/4f618b7a-9661-4143-b8ea-573a4e596c8c"] > img[alt="에슐리메디슨"]
+19bam.com###container > div:nth-of-type(1) > div > a[href="http://www.winktv.co.kr/evt/19bam "] > img[alt="윙크티비"]
+19bam.com###container > div:nth-of-type(1) > div > a[href="http://rsfe93.com"] > img[alt="포커바둑이"]
+19bam.com###container > div:nth-of-type(1) > div > a[href="http://asp.cencloud.net/ASP_DAMOA_M.php"] > img[alt="060폰팅"]
+19bam.com###container > div:nth-of-type(2) > div > a[href="http://co293.com"] > img[alt="씨스토리"]
+19bam.com###container > div:nth-of-type(2) > div > a[href="http://rfo22.com"] > img[alt="3D바다이야기"]
+19bam.com###container > div:nth-of-type(2) > div > a[href^="http://hot.toonbar.com/"] > img[alt="썰만화"]
+19bam.com###container > div:nth-of-type(2) > div > a[href^="http://www.tvnori.com/tvrank/"] > img[alt="비제이방송"]
+19bam.com###container > div:nth-of-type(2) > div > a[href^="http://www.1tal.net/"] > img[alt="무료섹파찾기"]
+19bam.com###container > div:nth-of-type(2) > div > a[href="http://viazzang.com"] > img[alt="비아그라,씨알리스"]
+19bam.com###bo_v_atc > table:nth-of-type(3) > tbody > tr > td:nth-of-type(1) > a[href="http://ms-a1.com"] > img[alt="몬스터토토"]
+19bam.com###bo_v_atc > table:nth-of-type(3) > tbody > tr > td:nth-of-type(2) > a[href="http://www.winktv.co.kr/evt/19bam "] > img[alt="윙크티비"]
+19bam.com###bo_v_atc > table:nth-of-type(4) > tbody > tr > td:nth-of-type(1) > a[href="tel:060-707-2000"] > img[alt="060폰팅"]
+19bam.com###bo_v_atc > table:nth-of-type(4) > tbody > tr > td:nth-of-type(2) > a[href^="http://www.tvnori.com/tvrank/"] > img[alt="BJ사이트"]
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > a[href="http://rfo22.com"] > img[alt="3D바다이야기"]
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > a[href="http://nzq728.com"] > img[alt="월드카지노"]
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > a[href="http://kr937.com"] > img[alt="오션파라다이스"]
+19bam.com###bo_v_atc > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1) > a[href="tel:060-500-9399"] > img[alt="060폰팅"]
+19bam.com###bo_v_atc > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > a[href^="http://www.tvnori.com/tvrank/"] > img[alt="BJ사이트"]
+19bam.com###bo_v_atc > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3) > a[href="http://www.winktv.co.kr/evt/19bam "] > img[alt="윙크티비"]
+19bam.com###container > div:nth-of-type(2) > div > a[href="https://19bam.com"] > img[alt="카카오톡"]
+19bam.com###bo_v > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1) > a[href="tel:060-500-9399"] > img[alt="060폰팅"]
+19bam.com###bo_v > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > a[href="http://rfo22.com"] > img[alt="3D바다이야기"]
+19bam.com###bo_v > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > a[href^="http://www.tvnori.com/tvrank/"] > img[alt="BJ사이트"]
+19bam.com###bo_v > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3) > a[href="http://www.winktv.co.kr/evt/19bam "] > img[alt="윙크티비"]
+19bam.com###bo_v > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > a[href="http://kr937.com"] > img[alt="오션파라다이스"]
+19bam.com###bo_v > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > a[href="http://nzq728.com"] > img[alt="월드카지노"]
+19bam.com###bo_v_atc > a[href="tel:060-500-5151"] > img
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > a[href="http://ms-a1.com"] > img[alt="몬스터토토"]
+19bam.com###bo_v_atc > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1) > a[href="tel:060-707-2000"] > img[alt="060성고민"]
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > a[href="http://www.winktv.co.kr/evt/19bam "] > img[alt="윙크티비"]
+www.dosin8.com###left_bn_a > table > tbody > tr:nth-of-type(2) > td > a[href="http://www.yu493.com"] > img
+www.dosin8.com###left_bn > a[href="http://ada999.com/"] > img
+www.dosin8.com###header > .gnb > .clear.logo > dd > table > tbody > tr > td > a[href="http://coa440.com/"] > img
+www.dosin8.com###footer > .gnb > .copy_banner > a[href="http://coa440.com/"] > img
+www.yaboja14.com##.ko.wrapper > .at-content > .container > .row > .contentArea.pull-right.col-md-9 > div:nth-of-type(1) > div
+www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://모두서버.kr"] > img[alt="천사상단.gif"]
+www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://ditto1004.com"] > img[alt="섹티즌상단.gif"]
+www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://ada000.com"] > img[alt="982334917_nlfa3jRO_003.gif"]
+www.car-vov.com###doc > .header > .top_area > .logo > a[href^="http://www.mn.co.kr/"] > img[alt="천사상단.gif"]
+www.car-vov.com###doc > .body > a[href="http://fri295.com"] > img[alt="나인카지노"]
+www.car-vov.com###doc > .body > a[href="http://www.19mall.kr/sophia1"] > img[alt="빽보닷컴"]
+www.car-vov.com###doc > .body > a[href="http://ada000.com"] > img[alt="100x100.gif"]
+www.car-vov.com###doc > .body > img:nth-of-type(1)
+www.car-vov.com###doc > .body > img:nth-of-type(1)
+www.car-vov.com###doc > .body > img:nth-of-type(1)
+www.car-vov.com###doc > .body > a[href="#"] > img[alt="빽보닷컴"]
+www.car-vov.com###doc > .body > img:nth-of-type(2)
+www.car-vov.com###doc > .body > img:nth-of-type(2)
+www.car-vov.com###doc > .body > a[href="http://모두서버.kr"]
+www.car-vov.com###doc > .body > a[href^="http://www.tvnori.com/tvrank/"]
+www.car-vov.com###doc > .body > img:nth-of-type(3)
+
 !------HyunGuard 허용 필터------!
 @@||ssl.auction.co.kr/
 @@||static.news.naver.net/mnews/resources/
