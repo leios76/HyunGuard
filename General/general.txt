@@ -3,7 +3,7 @@
 ! HyunGuard 프로젝트는 http://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
-! v20160416
+! v20160417
 
 !-----------HyunGuard 시작------------!
 ! 2016. 4. 16. 오후 6:22:03 http://m.daum.net/
@@ -379,6 +379,17 @@ www.car-vov.com###doc > .body > img:nth-of-type(2)
 www.car-vov.com###doc > .body > a[href="http://모두서버.kr"]
 www.car-vov.com###doc > .body > a[href^="http://www.tvnori.com/tvrank/"]
 www.car-vov.com###doc > .body > img:nth-of-type(3)
+www.dosin8.com###left_bn_a > table > tbody > tr:nth-of-type(2) > td > a[href="http://cls356.com/"] > img
+www.dosin8.com###left_bn_a > table > tbody > tr:nth-of-type(4) > td > a[href="http://tt-cp101.com"] > img
+www.woori3.com###header > .bskr-search > a[href="http://ew332.com/"] > img
+www.woori3.com##.layer_right > p > a[href="http://ew332.com"] > img
+www.woori3.com###content > a[href="http://tyama0331.part77.com/"] > img
+www.woori3.com###content > a[href="http://xe.wu.ms/"] > img
+www.woori3.com##.layer_left > p > a[href="http://ses2015.w78.org/"] > img
+www.woori3.com##body > .container:nth-of-type(7) > .wrap.row > .col-md-3 > .text-center.left_banner > a[href="http://her303.com/"] > img
+www.car-vov.com###doc > .header > .top_area > .logo > a[href^="http://www.mn.co.kr/"] > img[alt="천사상단.gif"]
+www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://모두서버.kr"] > img[alt="천사상단.gif"]
+www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://ditto1004.com"] > img[alt="섹티즌상단.gif"]
 
 !------HyunGuard 허용 필터------!
 @@||ssl.auction.co.kr/
