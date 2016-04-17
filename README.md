@@ -32,5 +32,10 @@ This is General AdBlock Filter. Blocks most of Ads, Adult Ads, Illegal Ads.
 
 This filter allows Kind sites that doesn't Ads hide contents and doesn't display harmful ads.
 
+##호환성 (Compatibility)
+HyunGuard는 AdBlock Plus, uBlock 및 uBlock Origin과 호환됩니다.
+
+HyunGuard is compatible with AdBlock Plus, uBlock and uBlock Origin.
+
 ##라이센스 (License)
 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락)
