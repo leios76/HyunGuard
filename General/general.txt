@@ -322,6 +322,21 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .rree > .idx-sidebox > div
+19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .llee > .ban > div > div
+19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .ccee > .row
+19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .ccee > div:nth-of-type(6)
+19cream.com##.boxed.en.wrapper > .at-content > .container > .container > .row > .rree > .idx-sidebox
+19cream.com##.boxed.en.wrapper > .at-content > .container > .container > .row > .llee > .ban > div
+19cream.com##.boxed.en.wrapper > .at-content > .container > .container > .row > .ccee > .row
+19cream.com##.boxed.en.wrapper > .at-content > .container > .row > .rree > .idx-sidebox > div
+19cream.com##.boxed.en.wrapper > .at-content > .container > .row > .ccee > .row:nth-of-type(3) > .col-sm-6:nth-of-type(2)
+19cream.com##.boxed.en.wrapper > .at-content > .container > .row > .ccee > .row:nth-of-type(3) > .col-sm-6
+19cream.com##.boxed.en.wrapper > .at-content > .container > .row > .llee > .ban > div > div
+19cream.com###fboardlist > .container > .row > .rree > .idx-sidebox > div
+19cream.com###fboardlist > .container > .row > .ccee > .row > .col-sm-6:nth-of-type(2)
+19cream.com###fboardlist > .container > .row > .ccee > .row > .col-sm-6
+19cream.com###fboardlist > .container > .row > .llee > .ban > div > div
 mingkyaa.com###layer_popup1 > table > tbody > tr:nth-of-type(1) > td > a[href="http://ynx324.com"] > img
 mingkyaa.com###footer > p:nth-of-type(1) > a[href="http://ynx324.com"] > img
 19bam.com###hd_pops_7
