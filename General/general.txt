@@ -3,9 +3,21 @@
 ! HyunGuard 프로젝트는 http://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
-! v20160327
+! v20160417
 
 !-----------HyunGuard 시작------------!
+! 2016. 4. 17. 오후 3:57:39 http://www.wikitree.co.kr/
+www.wikitree.co.kr##.wrap > .header > .middle > .pt06.ad_left
+
+! 2016. 4. 17. 오후 3:57:45 http://www.wikitree.co.kr/
+www.wikitree.co.kr##.wrap > .header > .middle > .pt06.ad_right
+
+! 2016. 4. 17. 오후 3:58:01 http://www.wikitree.co.kr/main/news_view.php?id=256635
+www.wikitree.co.kr##.wrap > .header > .bottom > div:nth-of-type(5) > div > div > a[href^="http://newsstand.naver.com/"] > img[alt="위키네이버"]
+
+! 2016. 4. 16. 오후 6:22:03 http://m.daum.net/
+m.daum.net##.float_acm_banner.bnr_layer
+
 ! 2016. 4. 3. 오후 1:32:52 http://www.tobest2.net/bbs/board.php?bo_table=torrent_kortv_ent&wr_id=44544
 www.tobest2.net###contents > center > a[href^="http://funpick.co.kr/intro/"] > img[alt="funpick.co.kr"]
 
@@ -74,9 +86,6 @@ www.matcl.com###banner
 
 ! 2016. 4. 11. 오후 10:50:17 http://www.coolenjoy.net/bbs/cboard.php?board=freeboard2
 ||image.coolenjoy.net/banner/upfile/*.jpg
-
-! 2016. 3. 26. 오전 10:41:51 http://m.naver.com/
-m.naver.com###nbp_da_img
 
 ! 2016. 4. 3. 오후 1:32:52 http://www.tobest2.net/bbs/board.php?bo_table=torrent_kortv_ent&wr_id=44544
 www.tobest2.net###contents > center > a[href^="http://funpick.co.kr/intro/"] > img[alt="funpick.co.kr"]
@@ -321,9 +330,95 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ! 2016. 2. 19. 오후 8:45:13 http://news.mk.co.kr/newsRead.php?year=2016&no=135874
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
+!------HyunGuard 불법,유해및 성인 광고 차단------!
+19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .rree > .idx-sidebox > div
+19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .llee > .ban > div > div
+19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .ccee > .row
+19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .ccee > div:nth-of-type(6)
+19cream.com##.boxed.en.wrapper > .at-content > .container > .container > .row > .rree > .idx-sidebox
+19cream.com##.boxed.en.wrapper > .at-content > .container > .container > .row > .llee > .ban > div
+19cream.com##.boxed.en.wrapper > .at-content > .container > .container > .row > .ccee > .row
+19cream.com##.boxed.en.wrapper > .at-content > .container > .row > .rree > .idx-sidebox > div
+19cream.com##.boxed.en.wrapper > .at-content > .container > .row > .ccee > .row:nth-of-type(3) > .col-sm-6:nth-of-type(2)
+19cream.com##.boxed.en.wrapper > .at-content > .container > .row > .ccee > .row:nth-of-type(3) > .col-sm-6
+19cream.com##.boxed.en.wrapper > .at-content > .container > .row > .llee > .ban > div > div
+19cream.com###fboardlist > .container > .row > .rree > .idx-sidebox > div
+19cream.com###fboardlist > .container > .row > .ccee > .row > .col-sm-6:nth-of-type(2)
+19cream.com###fboardlist > .container > .row > .ccee > .row > .col-sm-6
+19cream.com###fboardlist > .container > .row > .llee > .ban > div > div
+mingkyaa.com###layer_popup1 > table > tbody > tr:nth-of-type(1) > td > a[href="http://ynx324.com"] > img
+mingkyaa.com###footer > p:nth-of-type(1) > a[href="http://ynx324.com"] > img
+19bam.com###hd_pops_7
+19bam.com###container > div:nth-of-type(1) > div > a[href="http://yada19.com "] > img[alt="서울토토"]
+19bam.com###container > div:nth-of-type(1) > div > a[href="http://kr937.com"] > img[alt="오션파라다이스"]
+19bam.com###container > div:nth-of-type(1) > div > a[href^=" http://ffbqk.voluumtrk.com/4f618b7a-9661-4143-b8ea-573a4e596c8c"] > img[alt="에슐리메디슨"]
+19bam.com###container > div:nth-of-type(1) > div > a[href="http://www.winktv.co.kr/evt/19bam "] > img[alt="윙크티비"]
+19bam.com###container > div:nth-of-type(1) > div > a[href="http://rsfe93.com"] > img[alt="포커바둑이"]
+19bam.com###container > div:nth-of-type(1) > div > a[href="http://asp.cencloud.net/ASP_DAMOA_M.php"] > img[alt="060폰팅"]
+19bam.com###container > div:nth-of-type(2) > div > a[href="http://co293.com"] > img[alt="씨스토리"]
+19bam.com###container > div:nth-of-type(2) > div > a[href="http://rfo22.com"] > img[alt="3D바다이야기"]
+19bam.com###container > div:nth-of-type(2) > div > a[href^="http://hot.toonbar.com/"] > img[alt="썰만화"]
+19bam.com###container > div:nth-of-type(2) > div > a[href^="http://www.tvnori.com/tvrank/"] > img[alt="비제이방송"]
+19bam.com###container > div:nth-of-type(2) > div > a[href^="http://www.1tal.net/"] > img[alt="무료섹파찾기"]
+19bam.com###container > div:nth-of-type(2) > div > a[href="http://viazzang.com"] > img[alt="비아그라,씨알리스"]
+19bam.com###bo_v_atc > table:nth-of-type(3) > tbody > tr > td:nth-of-type(1) > a[href="http://ms-a1.com"] > img[alt="몬스터토토"]
+19bam.com###bo_v_atc > table:nth-of-type(3) > tbody > tr > td:nth-of-type(2) > a[href="http://www.winktv.co.kr/evt/19bam "] > img[alt="윙크티비"]
+19bam.com###bo_v_atc > table:nth-of-type(4) > tbody > tr > td:nth-of-type(1) > a[href="tel:060-707-2000"] > img[alt="060폰팅"]
+19bam.com###bo_v_atc > table:nth-of-type(4) > tbody > tr > td:nth-of-type(2) > a[href^="http://www.tvnori.com/tvrank/"] > img[alt="BJ사이트"]
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > a[href="http://rfo22.com"] > img[alt="3D바다이야기"]
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > a[href="http://nzq728.com"] > img[alt="월드카지노"]
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > a[href="http://kr937.com"] > img[alt="오션파라다이스"]
+19bam.com###bo_v_atc > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1) > a[href="tel:060-500-9399"] > img[alt="060폰팅"]
+19bam.com###bo_v_atc > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > a[href^="http://www.tvnori.com/tvrank/"] > img[alt="BJ사이트"]
+19bam.com###bo_v_atc > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3) > a[href="http://www.winktv.co.kr/evt/19bam "] > img[alt="윙크티비"]
+19bam.com###container > div:nth-of-type(2) > div > a[href="https://19bam.com"] > img[alt="카카오톡"]
+19bam.com###bo_v > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1) > a[href="tel:060-500-9399"] > img[alt="060폰팅"]
+19bam.com###bo_v > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > a[href="http://rfo22.com"] > img[alt="3D바다이야기"]
+19bam.com###bo_v > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2) > a[href^="http://www.tvnori.com/tvrank/"] > img[alt="BJ사이트"]
+19bam.com###bo_v > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3) > a[href="http://www.winktv.co.kr/evt/19bam "] > img[alt="윙크티비"]
+19bam.com###bo_v > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3) > a[href="http://kr937.com"] > img[alt="오션파라다이스"]
+19bam.com###bo_v > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > a[href="http://nzq728.com"] > img[alt="월드카지노"]
+19bam.com###bo_v_atc > a[href="tel:060-500-5151"] > img
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(1) > a[href="http://ms-a1.com"] > img[alt="몬스터토토"]
+19bam.com###bo_v_atc > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1) > a[href="tel:060-707-2000"] > img[alt="060성고민"]
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > a[href="http://www.winktv.co.kr/evt/19bam "] > img[alt="윙크티비"]
+www.dosin8.com###left_bn_a > table > tbody > tr:nth-of-type(2) > td > a[href="http://www.yu493.com"] > img
+www.dosin8.com###left_bn > a[href="http://ada999.com/"] > img
+www.dosin8.com###header > .gnb > .clear.logo > dd > table > tbody > tr > td > a[href="http://coa440.com/"] > img
+www.dosin8.com###footer > .gnb > .copy_banner > a[href="http://coa440.com/"] > img
+www.yaboja14.com##.ko.wrapper > .at-content > .container > .row > .contentArea.pull-right.col-md-9 > div:nth-of-type(1) > div
+www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://모두서버.kr"] > img[alt="천사상단.gif"]
+www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://ditto1004.com"] > img[alt="섹티즌상단.gif"]
+www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://ada000.com"] > img[alt="982334917_nlfa3jRO_003.gif"]
+www.car-vov.com###doc > .header > .top_area > .logo > a[href^="http://www.mn.co.kr/"] > img[alt="천사상단.gif"]
+www.car-vov.com###doc > .body > a[href="http://fri295.com"] > img[alt="나인카지노"]
+www.car-vov.com###doc > .body > a[href="http://www.19mall.kr/sophia1"] > img[alt="빽보닷컴"]
+www.car-vov.com###doc > .body > a[href="http://ada000.com"] > img[alt="100x100.gif"]
+www.car-vov.com###doc > .body > img:nth-of-type(1)
+www.car-vov.com###doc > .body > img:nth-of-type(1)
+www.car-vov.com###doc > .body > img:nth-of-type(1)
+www.car-vov.com###doc > .body > a[href="#"] > img[alt="빽보닷컴"]
+www.car-vov.com###doc > .body > img:nth-of-type(2)
+www.car-vov.com###doc > .body > img:nth-of-type(2)
+www.car-vov.com###doc > .body > a[href="http://모두서버.kr"]
+www.car-vov.com###doc > .body > a[href^="http://www.tvnori.com/tvrank/"]
+www.car-vov.com###doc > .body > img:nth-of-type(3)
+www.dosin8.com###left_bn_a > table > tbody > tr:nth-of-type(2) > td > a[href="http://cls356.com/"] > img
+www.dosin8.com###left_bn_a > table > tbody > tr:nth-of-type(4) > td > a[href="http://tt-cp101.com"] > img
+www.woori3.com###header > .bskr-search > a[href="http://ew332.com/"] > img
+www.woori3.com##.layer_right > p > a[href="http://ew332.com"] > img
+www.woori3.com###content > a[href="http://tyama0331.part77.com/"] > img
+www.woori3.com###content > a[href="http://xe.wu.ms/"] > img
+www.woori3.com##.layer_left > p > a[href="http://ses2015.w78.org/"] > img
+www.woori3.com##body > .container:nth-of-type(7) > .wrap.row > .col-md-3 > .text-center.left_banner > a[href="http://her303.com/"] > img
+www.car-vov.com###doc > .header > .top_area > .logo > a[href^="http://www.mn.co.kr/"] > img[alt="천사상단.gif"]
+www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://모두서버.kr"] > img[alt="천사상단.gif"]
+www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://ditto1004.com"] > img[alt="섹티즌상단.gif"]
+
 !------HyunGuard 허용 필터------!
 @@||ssl.auction.co.kr/
 @@||static.news.naver.net/mnews/resources/
+@@/js/gamecenter/displayAd.min.js$domain=daum.net
 
 !-----------여기서부터 코르셋 필터의 Fork입니다. https://code.google.com/archive/p/abp-corset/ -----------!
 !------------------------------------코르셋 : 일반 차단 필터------------------------------------------!
