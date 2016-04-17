@@ -6,6 +6,15 @@
 ! v20160417
 
 !-----------HyunGuard 시작------------!
+! 2016. 4. 17. 오후 3:57:39 http://www.wikitree.co.kr/
+www.wikitree.co.kr##.wrap > .header > .middle > .pt06.ad_left
+
+! 2016. 4. 17. 오후 3:57:45 http://www.wikitree.co.kr/
+www.wikitree.co.kr##.wrap > .header > .middle > .pt06.ad_right
+
+! 2016. 4. 17. 오후 3:58:01 http://www.wikitree.co.kr/main/news_view.php?id=256635
+www.wikitree.co.kr##.wrap > .header > .bottom > div:nth-of-type(5) > div > div > a[href^="http://newsstand.naver.com/"] > img[alt="위키네이버"]
+
 ! 2016. 4. 16. 오후 6:22:03 http://m.daum.net/
 m.daum.net##.float_acm_banner.bnr_layer
 
