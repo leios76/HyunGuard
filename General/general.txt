@@ -30,6 +30,9 @@ www.hungryapp.co.kr###banner_new > .banner_new.fixed-top2
 ! 2016. 5. 1. 오후 12:25:05 http://www.1spoon.net/search.php?q=%EC%99%80%EB%A3%A1&pid=W_P_talmoin_13_new
 ||www.1spoon.net/images/1spoon_sub_banner151127.gif
 
+! 2016. 5. 3. 오후 10:59:19 http://tcafeaa.com/
+||img.imgtong.com/idc120.gif
+
 ! 2016. 4. 16. 오후 11:34:21 http://ruliweb.daum.net/
 ||i1.daumcdn.net/svc/image/U03/ruliweb/56F358220601390001
 
