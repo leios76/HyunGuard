@@ -6,6 +6,33 @@
 ! v20160423
 
 !-----------HyunGuard 시작------------!
+! 2016. 4. 23. 오후 5:18:54 http://www.hungryapp.co.kr/news/news_view.php?bcode=news&pid=44312&catecode=010
+||appdata.hungryapp.co.kr/banner/*
+
+! 2016. 4. 23. 오후 5:19:28 http://www.hungryapp.co.kr/news/news_view.php?bcode=news&pid=44312&catecode=010
+www.hungryapp.co.kr###banner_new > .banner_new.fixed-top2
+
+! 2016. 4. 25. 오전 12:26:33 http://tcafegg.com/bbs/board.php?bo_table=free&wr_id=1829031
+||img.imgtong.com/wind2016.gif
+
+! 2016. 4. 29. 오전 10:45:02 http://tcafeaa.com/
+||img.imgtong.com/namu320.gif
+
+! 2016. 4. 29. 오전 10:45:05 http://tcafeaa.com/
+||img.imgtong.com/mlbbet777.jpg
+
+! 2016. 4. 29. 오전 10:45:48 http://tcafeaa.com/bbs/board.php?bo_table=c_video&sca=&sfl=&stx=&page=2
+||img.imgtong.com/1000speed.png
+
+! 2016. 5. 1. 오후 12:25:01 http://www.1spoon.net/search.php?q=%EC%99%80%EB%A3%A1&pid=W_P_talmoin_13_new
+||leaderscpa.com/leadersclick/data_up/base/49XXFAP86MRG.jpg
+
+! 2016. 5. 1. 오후 12:25:05 http://www.1spoon.net/search.php?q=%EC%99%80%EB%A3%A1&pid=W_P_talmoin_13_new
+||www.1spoon.net/images/1spoon_sub_banner151127.gif
+
+! 2016. 5. 3. 오후 10:59:19 http://tcafeaa.com/
+||img.imgtong.com/idc120.gif
+
 ! 2016. 4. 16. 오후 11:34:21 http://ruliweb.daum.net/
 ||i1.daumcdn.net/svc/image/U03/ruliweb/56F358220601390001
 
