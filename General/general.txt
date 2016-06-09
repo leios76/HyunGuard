@@ -6,6 +6,60 @@
 ! v20160423
 
 !-----------HyunGuard 시작------------!
+! 2016. 4. 29. 오후 11:52:41 http://www.inven.co.kr/board/powerbbs.php?come_idx=2740&l=821736
+||upload2.inven.co.kr/upload/2016/04/07/data/i10914138326.jpg
+
+! 2016. 4. 29. 오후 11:52:48 http://www.inven.co.kr/board/powerbbs.php?come_idx=2740&l=821736
+||upload2.inven.co.kr/upload/2016/04/28/data/i10821180429.jpg
+
+! 2016. 4. 29. 오후 11:52:51 http://www.inven.co.kr/board/powerbbs.php?come_idx=2740&l=821736
+||upload2.inven.co.kr/upload/2016/04/05/data/i13207249490.jpg
+
+! 2016. 5. 1. 오후 12:25:01 http://www.1spoon.net/search.php?q=%EC%99%80%EB%A3%A1&pid=W_P_talmoin_13_new
+||leaderscpa.com/leadersclick/data_up/base/49XXFAP86MRG.jpg
+
+! 2016. 5. 11. 오전 11:13:48 http://diablo3.inven.co.kr/
+||pds.inven.co.kr/upload/2016/05/06/intro/i11107364288.jpg
+
+! 2016. 5. 21. 오후 12:18:53 http://giantt.co.kr/10091
+||giantt.co.kr/wp-content/uploads/2016/03/themeforest-ranking.gif
+
+! 2016. 5. 24. 오전 12:19:05 https://torrentkim3.net/torrent_mid/618261.html
+||torrentkim3.net/banner/tobanner.png
+
+! 2016. 5. 24. 오전 1:37:36 http://m.busan.com/m/News/view.jsp?newsId=20160524000080
+m.busan.com##.adi_animated.aditop.adistory
+
+! 2016. 5. 24. 오전 1:39:47 https://torrentkim3.net/torrent_mid/618261.html
+event.winktv.co.kr/banner/*
+
+! 2016. 5. 25. 오전 2:28:47 http://prod.danawa.com/list/?cate=1131351&15main_11_03
+||img.danawa.com/new/event/img/pop_bnr_cheerup.png
+
+! 2016. 5. 25. 오전 2:29:07 http://prod.danawa.com/list/?cate=1131351&15main_11_03
+prod.danawa.com###popStampBanner
+
+! 2016. 5. 25. 오전 10:30:46 http://www.thisisgame.com/
+||file.thisisgame.com/upload/site/common/banner/2016/05/23/20160523103139_6710.jpg
+
+! 2016. 5. 25. 오전 10:32:10 http://ruliweb.daum.net/
+||i1.daumcdn.net/svc/image/U03/ruliweb/57184317021E0E0003
+
+! 2016. 5. 25. 오전 10:33:12 http://ruliweb.daum.net/news/view/81753.daum
+||i1.daumcdn.net/svc/image/U03/ruliweb/5718A2A2020AE80001
+
+! 2016. 5. 25. 오전 10:33:16 http://ruliweb.daum.net/
+||i1.daumcdn.net/svc/image/U03/ruliweb/56A1E15F0201570001
+
+! 2016. 5. 28. 오후 7:47:42 http://www.cooln.kr/bbs/cboard.php?id=pds
+||on.coolenjoy.net/banner/*
+
+! 2016. 5. 30. 오전 10:43:38 http://tcafeaa.com/attendance/attendance.php?3
+||img.imgtong.com/chaos600.jpg
+
+! 2016. 5. 31. 오후 2:38:42 http://topstarnews.net/detail.php?number=197365
+||s01.static.topstarnews.net/html/default/html_tpl/AD/*.gif
+
 ! 2016. 4. 23. 오후 5:18:54 http://www.hungryapp.co.kr/news/news_view.php?bcode=news&pid=44312&catecode=010
 ||appdata.hungryapp.co.kr/banner/*
 
