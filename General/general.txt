@@ -6,6 +6,12 @@
 ! v20160612
 
 !-----------HyunGuard 시작------------!
+www.coolenjoy.net###logo_top3
+www.coolenjoy.net###jb-sidebar-left > .banner04.simple_banner_wrap
+playwares.com###owl-recent2 > .owl-wrapper-outer
+playwares.com##.all-wrap > .content-wrap > .container.pd-lr-10 > .hidden-xs.hidden-sm.col-md-3.col-lg-3.pd-lr-0 > .sub_banner_element[href^="../api/redirectAd.php"]:nth-of-type(1) > img
+playwares.com##.all-wrap > .content-wrap > .container.pd-lr-10 > .hidden-xs.hidden-sm.col-md-3.col-lg-3.pd-lr-0 > .sub_banner_element[href^="../api/redirectAd.php"]:nth-of-type(2) > img
+playwares.com###bd_62191_49669298 > .clear.rd_nav_style2.rd > .clear.rd_body > center
 ||www.tosarang.net/img/img_tech_718x90.gif
 ||upload2.inven.co.kr/upload/2016/04/07/data/i10914138326.jpg
 ||upload2.inven.co.kr/upload/2016/04/28/data/i10821180429.jpg
