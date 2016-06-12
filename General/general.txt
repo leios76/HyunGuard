@@ -650,6 +650,7 @@ www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://ditto1004.c
 @@||ssl.auction.co.kr/
 @@||static.news.naver.net/mnews/resources/
 @@/js/gamecenter/displayAd.min.js$domain=daum.net
+@@||http://static.danawa.com/js/
 
 !-----------여기서부터 코르셋 필터의 Fork입니다. https://code.google.com/archive/p/abp-corset/ -----------!
 !------------------------------------코르셋 : 일반 차단 필터------------------------------------------!
