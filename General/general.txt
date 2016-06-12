@@ -6,6 +6,81 @@
 ! v20160612
 
 !-----------HyunGuard 시작------------!
+daily.hankooki.com###slot02 > .bodyfr_v3 > .ad_icon
+daily.hankooki.com###BizCBox_1 > .num_pro
+daily.hankooki.com###slot10 > .bodyfr_v3 > .dotlist_n3 > .num_pro
+daily.hankooki.com###slot07 > .bodyfr_v3 > .webtoon_right > .box:nth-of-type(1) > .pic > a[href^="http://sports.hankooki.com/FunNFun/freecomic_view.php"] > img[alt="호접몽천야월"]
+daily.hankooki.com###slot07 > .bodyfr_v3 > .webtoon_right > .box:nth-of-type(1) > .writer
+daily.hankooki.com###slot07 > .bodyfr_v3 > .webtoon_right
+metroseoul.co.kr###content-body > .default-box > .body-right-box > div:nth-of-type(16) > a[href="http://metromall.co.kr/"] > img
+m.sportsseoul.com###container > .marginTop5.article_comicWrap > .paddingLR3 > iframe
+www.munhwa.com##body > div:nth-of-type(1) > table:nth-of-type(5) > tbody > tr > td:nth-of-type(1) > table:nth-of-type(15) > tbody > tr > td:nth-of-type(3)
+www.munhwa.com##body > div:nth-of-type(1) > table:nth-of-type(5) > tbody > tr > td:nth-of-type(1) > table:nth-of-type(15) > tbody > tr > td:nth-of-type(1)
+nanumnews.com##div > table:nth-of-type(2) > tbody > tr > td:nth-of-type(4) > table:nth-of-type(5) > tbody > tr > td > .bn:nth-of-type(1) > table > tbody > tr > td > a[href^="/ad_link.php"] > img[alt="광고"]
+nanumnews.com##div > table:nth-of-type(2) > tbody > tr > td:nth-of-type(4) > table:nth-of-type(5) > tbody > tr > td > .bn:nth-of-type(2) > table > tbody > tr > td > object > embed
+nanumnews.com##body > div:nth-of-type(4) > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(1) > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(1) > table > tbody > tr > td > table > tbody > tr > td > a[href^="./ad_link.php"] > img
+nanumnews.com##body > div:nth-of-type(4) > table:nth-of-type(2) > tbody > tr > td > table:nth-of-type(1) > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td:nth-of-type(3) > table > tbody > tr > td > table > tbody > tr > td > a[href^="/ad_link.php"] > img
+||web.n2s.co.kr/_n2s_nanumnews_310_180.html?id=nanumnews&cd=nanumnews_1&c_host=nanumnews.com
+nanumnews.com##body > div:nth-of-type(4) > table:nth-of-type(3) > tbody > tr > td:nth-of-type(5) > table:nth-of-type(5) > tbody > tr > td > .bn:nth-of-type(1) > table > tbody > tr > td > a[href^="/ad_link.php"]
+nanumnews.com##body > div:nth-of-type(4) > table:nth-of-type(3) > tbody > tr > td:nth-of-type(5) > table:nth-of-type(5) > tbody > tr > td > .bn:nth-of-type(2) > table
+wikitree.co.kr##.wrap > .header > .middle > .pt06.ad_left > div
+wikitree.co.kr##.wrap > .header > .middle > .pt06.ad_right > div
+wikitree.co.kr##.wrap > .header > .section > .section_md > .fr.right_main_v > div:nth-of-type(1) > iframe
+www.asiae.co.kr###content > .newsCont > .nconRight > .hotcontents
+www.asiae.co.kr###content > .newsCont > .nconRight > .banner_34047 > a[href^="http://www.asiae.co.kr/news/list_cardinfo.htm"] > img[alt="배너이미지"]
+www.dt.co.kr###right_skyWingBanner
+www.dt.co.kr###side_content > div:nth-of-type(15) > a[href="http://www.hyungcenter.com"] > img
+||img.dt.co.kr/images/ben_fic2016_55.jpg
+www.dt.co.kr###side_content > .hotnewsss
+||img.dt.co.kr/images/titl_mh.gif
+||img.dt.co.kr/images/DT_biz.jpg
+www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(6)
+www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(6)
+www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(7)
+www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(3)
+www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(3)
+www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(1)
+www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .tit_banner
+www.fnnews.com###bylineaAd1 > ul > .txt:nth-of-type(1)
+www.fnnews.com###bylineaAd1 > ul > .txt:nth-of-type(1)
+www.fnnews.com###bylineaAd1 > ul > .txt:nth-of-type(1)
+www.fnnews.com###bylineaAd1 > ul > .txt
+www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .news_cont > div:nth-of-type(3)
+www.fnnews.com###content > .byline_bottom_listBox
+www.focus.kr##.a_wrap > .header > .wrap > div:nth-of-type(2)
+www.focus.kr##.a_wrap > .contents > .wrap:nth-of-type(3) > .r_area > .g_area > div:nth-of-type(1)
+www.focus.kr##.a_wrap > .contents > .wrap:nth-of-type(3) > .r_area > .g_area > div:nth-of-type(3)
+www.focus.kr##.a_wrap > .contents > .wrap:nth-of-type(3) > .r_area > .g_area > div:nth-of-type(5)
+www.focus.kr##.a_wrap > .contents > .wrap:nth-of-type(3) > .pb100.l_area > .clearfix.av_con_area > div:nth-of-type(3) > div > iframe
+www.focus.kr##.a_wrap > .contents > .wrap:nth-of-type(3) > .pb100.l_area > .clearfix.av_con_area > div:nth-of-type(3)
+www.gamemeca.com###container > .aside > div:nth-of-type(2)
+www.gamemeca.com###content > .noborBtm.subMainList > .blogList > .ads_title_bottom
+gigglehd.com###content > div > div:nth-of-type(4) > div > div > div:nth-of-type(1) > div > div > a[href^="http://prod.danawa.com/info/"] > img[alt="MSI CX62-i5 6QD (1TB)"]
+gigglehd.com###column > div:nth-of-type(7) > a[href^="http://prod.danawa.com/info/"] > img[alt="MSI 지포스 GTX1080 게이밍 X D5X 8GB 트윈프로져6 "]
+gigglehd.com###column > div:nth-of-type(10) > div > .nw_box > div > .listTable > tbody > tr:nth-of-type(2) > td > a[href^="http://bbs.danawa.com/list.php"] > img[alt="다나와 커뮤니티"]
+gigglehd.com###column > div:nth-of-type(10) > div > .nw_box > div > .listTable > tbody > tr:nth-of-type(4) > td > a[href^="http://www.lenovo.com/kr/ko/"] > img[alt="레노버"]
+www.instiz.net###naverbox > .powerlink
+www.instiz.net###naverbox
+www.instiz.net##table > tbody > tr:nth-of-type(1) > td > table:nth-of-type(1) > tbody > tr:nth-of-type(4) > td > div > div
+www.instiz.net###write_go > .imgbox > div
+www.instiz.net##table > tbody > tr:nth-of-type(1) > td > table:nth-of-type(1) > tbody > tr:nth-of-type(4) > td > div
+||kookje.co.kr/news2011/banner/ucon_top.jpg
+kookje.co.kr###topArea > .rightArea_main > .right_margin_div:nth-of-type(3) > a[href="http://www.kit.ac.kr"]
+kookje.co.kr###main_academy > a[href^="/news2011/asp/list.asp"] > .academy_title
+kookje.co.kr###main_academy
+kookje.co.kr###topArea > .rightArea_main > .right_margin_div:nth-of-type(4) > a[href^="/news2011/asp/list.asp"]
+kookje.co.kr###topArea > .rightArea_main > .right_margin_div:nth-of-type(6)
+kookje.co.kr###hs_bnr
+kookje.co.kr###\32 016stats
+||kookje.co.kr/service/banner/gimhae/index01.htm
+kookje.co.kr###main_site
+m.chosun.com###fc1 > .ct_wrap0.ct_wrap > .ctl.ct_col > .app_ad.iad2.ad
+m.chosun.com###fc1 > .ct_wrap0.ct_wrap > .ctr.ct_col > .iad3.ad
+m.chosun.com###fc1 > .ct_wrap0.ct_wrap > .ctr.ct_col > .iad4.ad
+m.etnews.com###panel1 > .sectionMain > section:nth-of-type(2)
+m.segye.com###wide_wrap > div > iframe
+m.segye.com###aside_wrap > section:nth-of-type(1) > .mainadinfo > .titArea
+m.segye.com###aside_wrap > section:nth-of-type(1) > .mainadinfo
 www.coolenjoy.net###logo_top3
 www.coolenjoy.net###jb-sidebar-left > .banner04.simple_banner_wrap
 playwares.com###owl-recent2 > .owl-wrapper-outer
