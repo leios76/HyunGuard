@@ -27,11 +27,6 @@ Are you tired about Adult Ads or Illegal Ads? HyunGuard blocks Adult Ads and Ill
 
 This is General AdBlock Filter. Blocks most of Ads, Adult Ads, Illegal Ads.
 
-### 착한 사이트 (KindSites)
-광고가 컨텐츠를 가리지 않으며 유해한 광고를 보여주지 않는 착한 사이트들의 광고를 허용하는 필터입니다.
-
-This filter allows Kind sites that doesn't Ads hide contents and doesn't display harmful ads.
-
 ##호환성 (Compatibility)
 HyunGuard는 AdBlock Plus, uBlock 및 uBlock Origin과 호환됩니다.
 
