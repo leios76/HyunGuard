@@ -9,6 +9,8 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+news.donga.com###container > .article_title02 > .notice_banner > .notice_banner
+news.donga.com###sub_header > .sub_header_box > .bigtoon_banner > a[href^="http://bigtoon.donga.com"] > img[alt="무료만화"]
 ||news.inews24.com/inc/right_file_banner_125.php?mains=News
 news.inews24.com###ma_w_1
 news.inews24.com###ma_w_2
