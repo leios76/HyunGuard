@@ -19,12 +19,14 @@
 ||adps.missyusa.com/main_*.asp
 ||missyusa.com/fileServer/BusinessImg/powerdir/
 ||adps.missyusa.com/sub_right.asp
+||naver-webtoon.phinf.naver.net//20160613_171/1465788593807ptixB_PNG/upload_4ea44acd_8c74_4667_90cd_be8d213d2214_00000030.tmp.png
 ||ad-exchange.toast.com/
 ||www.yasarang.net/img/img_*_200x200.gif
 www.jisiklog.com###nbp0_link
 www.jisiklog.com###nbp1_link
 www.jisiklog.com###nbp2_link
 www.jisiklog.com##.lighten-5.grey.l12.m12.s12.col
+comic.naver.com##.event_emblem
 www.coolenjoy.net##.tab
 www.cooln.kr##.tab
 www.coolenjoy.net##.banner04.simple_banner_wrap
