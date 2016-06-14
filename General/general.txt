@@ -14,31 +14,15 @@ www.inven.co.kr###adHomeTop
 sportsseoul.com###SS_slides > .slidesjs-container > .slidesjs-control
 news.donga.com###container > .article_title02 > .notice_banner > .notice_banner
 news.donga.com###sub_header > .sub_header_box > .bigtoon_banner > a[href^="http://bigtoon.donga.com"] > img[alt="무료만화"]
-||news.inews24.com/inc/right_file_banner_125.php?mains=News
-news.inews24.com###ma_w_1
-news.inews24.com###ma_w_2
-||news.inews24.com/inc/right_file_banner.php?mains=News
-news.inews24.com###ma_w_17 > table > tbody > tr > td
-news.inews24.com###ma_w_3
-news.inews24.com###ma_w_4
-news.inews24.com###AD_LIVE_AREA_21803080
-news.inews24.com###ma_w_7
-news.inews24.com###ma_w_5
-news.inews24.com###rcView_inews6
-news.inews24.com###ma_w_12
-news.inews24.com###content > .ma_w_12_13
-news.inews24.com###ma_w_11 > iframe
-news.inews24.com###ma_w_11
-news.inews24.com###ma_w_10 > iframe
-news.inews24.com###ma_w_10
-www.clien.net###content > .board_main > div:nth-of-type(4) > div
-www.clien.net###content > .board_main > div:nth-of-type(4)
+news.inews24.com##DIV[id^="ma_w_"]
+news.inews24.com##DIV[class^="ma_w_"]
+||news.inews24.com/inc/right_file_banner_125.php$subdocument
+||inews24.com/tools/adpresso/inc_middle_banner2nd2.php$subdocument
+news.inews24.com##DIV[style="float:right; width:200px; height:200px; margin-left:10px;  margin-bottom:10px;overflow:hidden;"]
 www.clien.net###content > .board_main > div:nth-of-type(4)
 daily.hankooki.com###slot02 > .bodyfr_v3 > .ad_icon
 daily.hankooki.com###BizCBox_1 > .num_pro
 daily.hankooki.com###slot10 > .bodyfr_v3 > .dotlist_n3 > .num_pro
-daily.hankooki.com###slot07 > .bodyfr_v3 > .webtoon_right > .box:nth-of-type(1) > .pic > a[href^="http://sports.hankooki.com/FunNFun/freecomic_view.php"] > img[alt="호접몽천야월"]
-daily.hankooki.com###slot07 > .bodyfr_v3 > .webtoon_right > .box:nth-of-type(1) > .writer
 daily.hankooki.com###slot07 > .bodyfr_v3 > .webtoon_right
 metroseoul.co.kr###content-body > .default-box > .body-right-box > div:nth-of-type(16) > a[href="http://metromall.co.kr/"] > img
 m.sportsseoul.com###container > .marginTop5.article_comicWrap > .paddingLR3 > iframe
@@ -63,15 +47,10 @@ www.dt.co.kr###side_content > .hotnewsss
 ||img.dt.co.kr/images/titl_mh.gif
 ||img.dt.co.kr/images/DT_biz.jpg
 www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(6)
-www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(6)
 www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(7)
-www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(3)
 www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(3)
 www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(1)
 www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .tit_banner
-www.fnnews.com###bylineaAd1 > ul > .txt:nth-of-type(1)
-www.fnnews.com###bylineaAd1 > ul > .txt:nth-of-type(1)
-www.fnnews.com###bylineaAd1 > ul > .txt:nth-of-type(1)
 www.fnnews.com###bylineaAd1 > ul > .txt
 www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .news_cont > div:nth-of-type(3)
 www.fnnews.com###content > .byline_bottom_listBox
@@ -79,7 +58,6 @@ www.focus.kr##.a_wrap > .header > .wrap > div:nth-of-type(2)
 www.focus.kr##.a_wrap > .contents > .wrap:nth-of-type(3) > .r_area > .g_area > div:nth-of-type(1)
 www.focus.kr##.a_wrap > .contents > .wrap:nth-of-type(3) > .r_area > .g_area > div:nth-of-type(3)
 www.focus.kr##.a_wrap > .contents > .wrap:nth-of-type(3) > .r_area > .g_area > div:nth-of-type(5)
-www.focus.kr##.a_wrap > .contents > .wrap:nth-of-type(3) > .pb100.l_area > .clearfix.av_con_area > div:nth-of-type(3) > div > iframe
 www.focus.kr##.a_wrap > .contents > .wrap:nth-of-type(3) > .pb100.l_area > .clearfix.av_con_area > div:nth-of-type(3)
 www.gamemeca.com###container > .aside > div:nth-of-type(2)
 www.gamemeca.com###content > .noborBtm.subMainList > .blogList > .ads_title_bottom
@@ -87,9 +65,7 @@ gigglehd.com###content > div > div:nth-of-type(4) > div > div > div:nth-of-type(
 gigglehd.com###column > div:nth-of-type(7) > a[href^="http://prod.danawa.com/info/"] > img[alt="MSI 지포스 GTX1080 게이밍 X D5X 8GB 트윈프로져6 "]
 gigglehd.com###column > div:nth-of-type(10) > div > .nw_box > div > .listTable > tbody > tr:nth-of-type(2) > td > a[href^="http://bbs.danawa.com/list.php"] > img[alt="다나와 커뮤니티"]
 gigglehd.com###column > div:nth-of-type(10) > div > .nw_box > div > .listTable > tbody > tr:nth-of-type(4) > td > a[href^="http://www.lenovo.com/kr/ko/"] > img[alt="레노버"]
-www.instiz.net###naverbox > .powerlink
 www.instiz.net###naverbox
-www.instiz.net##table > tbody > tr:nth-of-type(1) > td > table:nth-of-type(1) > tbody > tr:nth-of-type(4) > td > div > div
 www.instiz.net###write_go > .imgbox > div
 www.instiz.net##table > tbody > tr:nth-of-type(1) > td > table:nth-of-type(1) > tbody > tr:nth-of-type(4) > td > div
 ||kookje.co.kr/news2011/banner/ucon_top.jpg
@@ -107,7 +83,6 @@ m.chosun.com###fc1 > .ct_wrap0.ct_wrap > .ctr.ct_col > .iad3.ad
 m.chosun.com###fc1 > .ct_wrap0.ct_wrap > .ctr.ct_col > .iad4.ad
 m.etnews.com###panel1 > .sectionMain > section:nth-of-type(2)
 m.segye.com###wide_wrap > div > iframe
-m.segye.com###aside_wrap > section:nth-of-type(1) > .mainadinfo > .titArea
 m.segye.com###aside_wrap > section:nth-of-type(1) > .mainadinfo
 www.coolenjoy.net###logo_top3
 www.coolenjoy.net###jb-sidebar-left > .banner04.simple_banner_wrap
@@ -311,11 +286,9 @@ www.ytn.co.kr###newsContent > .articleAd_new
 19cream.com##.boxed.en.wrapper > .at-content > .container > .container > .row > .llee > .ban > div
 19cream.com##.boxed.en.wrapper > .at-content > .container > .container > .row > .ccee > .row
 19cream.com##.boxed.en.wrapper > .at-content > .container > .row > .rree > .idx-sidebox > div
-19cream.com##.boxed.en.wrapper > .at-content > .container > .row > .ccee > .row:nth-of-type(3) > .col-sm-6:nth-of-type(2)
 19cream.com##.boxed.en.wrapper > .at-content > .container > .row > .ccee > .row:nth-of-type(3) > .col-sm-6
 19cream.com##.boxed.en.wrapper > .at-content > .container > .row > .llee > .ban > div > div
 19cream.com###fboardlist > .container > .row > .rree > .idx-sidebox > div
-19cream.com###fboardlist > .container > .row > .ccee > .row > .col-sm-6:nth-of-type(2)
 19cream.com###fboardlist > .container > .row > .ccee > .row > .col-sm-6
 19cream.com###fboardlist > .container > .row > .llee > .ban > div > div
 mingkyaa.com###layer_popup1 > table > tbody > tr:nth-of-type(1) > td > a[href="http://ynx324.com"] > img
@@ -367,10 +340,7 @@ www.car-vov.com###doc > .body > a[href="http://fri295.com"] > img[alt="나인카
 www.car-vov.com###doc > .body > a[href="http://www.19mall.kr/sophia1"] > img[alt="빽보닷컴"]
 www.car-vov.com###doc > .body > a[href="http://ada000.com"] > img[alt="100x100.gif"]
 www.car-vov.com###doc > .body > img:nth-of-type(1)
-www.car-vov.com###doc > .body > img:nth-of-type(1)
-www.car-vov.com###doc > .body > img:nth-of-type(1)
 www.car-vov.com###doc > .body > a[href="#"] > img[alt="빽보닷컴"]
-www.car-vov.com###doc > .body > img:nth-of-type(2)
 www.car-vov.com###doc > .body > img:nth-of-type(2)
 www.car-vov.com###doc > .body > a[href="http://모두서버.kr"]
 www.car-vov.com###doc > .body > a[href^="http://www.tvnori.com/tvrank/"]
