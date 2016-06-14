@@ -9,6 +9,9 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+
+
+
 media.daum.net###mAside > .newsview_ad
 www.inven.co.kr###adHomeTop
 sportsseoul.com###SS_slides > .slidesjs-container > .slidesjs-control
@@ -106,7 +109,7 @@ prod.danawa.com###popStampBanner
 ||i1.daumcdn.net/svc/image/U03/ruliweb/57184317021E0E0003
 ||i1.daumcdn.net/svc/image/U03/ruliweb/5718A2A2020AE80001
 ||i1.daumcdn.net/svc/image/U03/ruliweb/56A1E15F0201570001
-||on.coolenjoy.net/banner/*
+||coolenjoy.net/banner/
 ||img.imgtong.com/chaos600.jpg
 ||s01.static.topstarnews.net/html/default/html_tpl/AD/*.gif
 ||appdata.hungryapp.co.kr/banner/*
