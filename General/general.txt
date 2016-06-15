@@ -2,13 +2,45 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160613
+! Version: 20160615
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+zangsisi.net##body > center:nth-of-type(1)
+zangsisi.net##body > center:nth-of-type(2)
+zangsisi.net##body > .fixed-top:nth-of-type(6) > center
+zangsisi.net##body > center:nth-of-type(1) > a[href^="http://www.bananamall.co.kr/Alinker/"] > img
+zangsisi.net##body > center:nth-of-type(2) > a[href^="http://partner.zzamtoon.com/event/prologue"] > img
+zangsisi.net##body > .fixed-top:nth-of-type(6) > center > a[href^="http://partner.zzamtoon.com/event/prologue"] > img
+zangsisi.net##body > .fixed-top:nth-of-type(6) > center > a[href^="http://www.bananamall.co.kr/Alinker/"] > img
+||of.blogtoday.net/img/xbtn.png
+||etnews.com/tools/refresh_script.html
+||img.funfuntest.com/img/pic_file/ad_sleepyrain/
+||gigglehd.com/zbxe/files/attach/images/266/308/664/011/4bc26c711d7977724b2a38228fbbcbb8.jpg
+||manian.com/images/banner/
+||adps.missyusa.com/bbs_right.asp
+||missyusa.com/mainpage/img/logo_new.gif
+||adps.missyusa.com/main_*.asp
+||missyusa.com/fileServer/BusinessImg/powerdir/
+||adps.missyusa.com/sub_right.asp
+||naver-webtoon.phinf.naver.net//20160613_171/1465788593807ptixB_PNG/upload_4ea44acd_8c74_4667_90cd_be8d213d2214_00000030.tmp.png
+||ad-exchange.toast.com/
+||www.yasarang.net/img/img_*_200x200.gif
+www.jisiklog.com###nbp0_link
+www.jisiklog.com###nbp1_link
+www.jisiklog.com###nbp2_link
+www.jisiklog.com##.lighten-5.grey.l12.m12.s12.col
+comic.naver.com##.event_emblem
+www.coolenjoy.net##.tab
+www.cooln.kr##.tab
+www.coolenjoy.net##.banner04.simple_banner_wrap
+www.cooln.kr##.banner04.simple_banner_wrap
+of.blogtoday.net###loading_img
+of.blogtoday.net###loading_back
+of.blogtoday.net##div[style^="clear:both;position:relative;"]
 media.daum.net###mAside > .newsview_ad
 www.inven.co.kr###adHomeTop
 sportsseoul.com###SS_slides > .slidesjs-container > .slidesjs-control
@@ -99,17 +131,17 @@ playwares.com###bd_62191_49669298 > .clear.rd_nav_style2.rd > .clear.rd_body > c
 ||giantt.co.kr/wp-content/uploads/2016/03/themeforest-ranking.gif
 ||torrentkim3.net/banner/tobanner.png
 m.busan.com##.adi_animated.aditop.adistory
-event.winktv.co.kr/banner/*
+event.winktv.co.kr/banner/
 ||img.danawa.com/new/event/img/pop_bnr_cheerup.png
 prod.danawa.com###popStampBanner
 ||file.thisisgame.com/upload/site/common/banner/2016/05/23/20160523103139_6710.jpg
 ||i1.daumcdn.net/svc/image/U03/ruliweb/57184317021E0E0003
 ||i1.daumcdn.net/svc/image/U03/ruliweb/5718A2A2020AE80001
 ||i1.daumcdn.net/svc/image/U03/ruliweb/56A1E15F0201570001
-||on.coolenjoy.net/banner/*
+||coolenjoy.net/banner/
 ||img.imgtong.com/chaos600.jpg
 ||s01.static.topstarnews.net/html/default/html_tpl/AD/*.gif
-||appdata.hungryapp.co.kr/banner/*
+||appdata.hungryapp.co.kr/banner/
 www.hungryapp.co.kr###banner_new > .banner_new.fixed-top2
 ||img.imgtong.com/wind2016.gif
 ||img.imgtong.com/namu320.gif
