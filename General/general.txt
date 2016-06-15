@@ -9,6 +9,9 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+zangsisi.net##body > center:nth-of-type(1)
+zangsisi.net##body > center:nth-of-type(2)
+zangsisi.net##body > .fixed-top:nth-of-type(6) > center
 zangsisi.net##body > center:nth-of-type(1) > a[href^="http://www.bananamall.co.kr/Alinker/"] > img
 zangsisi.net##body > center:nth-of-type(2) > a[href^="http://partner.zzamtoon.com/event/prologue"] > img
 zangsisi.net##body > .fixed-top:nth-of-type(6) > center > a[href^="http://partner.zzamtoon.com/event/prologue"] > img
