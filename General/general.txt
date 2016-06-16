@@ -128,6 +128,7 @@ playwares.com###bd_62191_49669298 > .clear.rd_nav_style2.rd > .clear.rd_body > c
 ||upload2.inven.co.kr/upload/2016/04/05/data/i13207249490.jpg
 ||leaderscpa.com/leadersclick/data_up/base/49XXFAP86MRG.jpg
 ||pds.inven.co.kr/upload/2016/05/06/intro/i11107364288.jpg
+||pds.inven.co.kr/upload/2016/06/16/intro/i12764978750.jpg
 ||giantt.co.kr/wp-content/uploads/2016/03/themeforest-ranking.gif
 ||torrentkim3.net/banner/tobanner.png
 m.busan.com##.adi_animated.aditop.adistory
@@ -197,6 +198,7 @@ www.cooln.kr##body > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2) > tab
 www.tfreecag.com###popup
 ||img.imgtong.com/5star555.jpg
 ||i.imgur.com/UsgWIsw.gif
+||i.imgur.com/orYIJgz.jpg
 ||www.newsjoy.co.kr/images/banner_topleft.jpg
 ||www.newsjoy.co.kr/images/banner_topright.jpg
 www.wikitree.co.kr##.wrap > .header > .middle > .pt06.ad_left
