@@ -7,9 +7,9 @@ AdBlock Filter for block Korean web ads. Anyone can use.
 
 ## 특징(Features)
 ### 누구에게나 열려있습니다. (Open to everyone.)
-보통 한국형 광고차단 앱(유X콘, 와X퍼)는 자체 광고차단 필터를 공개하지 않습니다. 하지만 HyunGuard는 누구에게나 열려있고, 누구나 쓸 수 있으며, 누구나 개발에 참여할 수 있습니다.
+보통 한국 광고차단 앱은 자체 광고차단 필터를 공개하지 않습니다. 하지만 HyunGuard는 누구에게나 열려있고, 누구나 쓸 수 있으며, 누구나 개발에 참여할 수 있습니다.
 
-Most Korean AdBlocker app (ex: Uni...., Wi...) Doesn't open their AdBlock filter list. But HyunGuard is open to everyone, Anyone can use, Anyone can contribute.
+Most Korean AdBlocker app Doesn't open their AdBlock filter list. But HyunGuard is open to everyone, Anyone can use, Anyone can contribute.
 
 ### 뛰어난 광고차단 성능. (Excellent ad-blocking performance.)
 HyunGuard는 한국 웹에 최적화되어 있으며, 한국 웹의 광고를 대부분 차단합니다. 깨끗한 웹을 즐겨보세요. :)
