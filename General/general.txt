@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160615
+! Version: 20160617
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
@@ -51,6 +51,7 @@ news.inews24.com##DIV[class^="ma_w_"]
 ||news.inews24.com/inc/right_file_banner_125.php$subdocument
 ||inews24.com/tools/adpresso/inc_middle_banner2nd2.php$subdocument
 news.inews24.com##DIV[style="float:right; width:200px; height:200px; margin-left:10px;  margin-bottom:10px;overflow:hidden;"]
+clien.net###content > .board_main > div:nth-of-type(4)
 www.clien.net###content > .board_main > div:nth-of-type(4)
 daily.hankooki.com###slot02 > .bodyfr_v3 > .ad_icon
 daily.hankooki.com###BizCBox_1 > .num_pro
