@@ -2,20 +2,60 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160617
+! Version: 20160618
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+||t1.daumcdn.net/section/oc/
+||giantt.co.kr/wp-content/uploads/2016/03/themeforest-ranking.gif
+||i.imgur.com/orYIJgz.jpg$image
+||pds.inven.co.kr/upload/2016/06/16/intro/i12764978750.jpg
+||static.naver.com/m/comic/im/promo/
+||naver-webtoon.phinf.naver.net//20160428_26/1461826357592BPVIQ_JPEG/upload_c54c91a3_c478_4c11_bc89_5e6a6439c3f8_00000038.tmp.jpg
+||adcreative.naver.com/ad
+||www.naayo.co.kr/wp-content/uploads/2016/05/1min-promo.jpg
+m.daum.net##.box_bnr.box_g
+m.media.daum.net###daumAd
+m.media.daum.net##.rolling_banner_list
+www.daum.net###shopping > .\#todaytrend.cont_trendshop.cont_g
+media.daum.net###banner250NewsView
+1boon.kakao.com##.bar_gift.bar_fixed2.bar_fixed
+m.etnews.com###topBanner
+m.etnews.com##section[style="margin-left:2px;margin-right:8px;width:100%;height:107px; "]
+m.etnews.com###scrollWrapper
+m.etnews.com###remove_css
+m.huffpost.com##.advertisement__label
+m.inven.co.kr###diablo3MHome > .ns769.mobileDaNs2
+m.inven.co.kr##.mobileDaNs2
+www.inven.co.kr##.banCmtBottomEvent
+m.inven.co.kr##.mobileAdNs
+wow.inven.co.kr##.focusPart
+m.inven.co.kr###boardPart > DIV[style="text-align:center;height:50px;"]
+m.comic.naver.com###promotionLayerFirst
+m.comic.naver.com###ly_dim
+sports.news.naver.com##.banner
+m.comic.naver.com###pageList[class="toon_lst"] > li:nth-of-type(8)
+m.comic.naver.com###ppl_section
+www.naayo.co.kr##.snp-cursor-pointer.bld-el
+m.ppomppu.co.kr## [style="text-align: center; height:100px;padding-top:8px; padding-bottom:10px;"]
+m.ppomppu.co.kr##DIV[style="padding-top:10px;text-align:center;"]
+m.todayhumor.co.kr## [style="text-align:center;padding:15px 0;background-color:#e5e5e5"]
+m.todayhumor.co.kr###linkButtonsContainer
+m.viva100.com##.m_view_ad01
+m.viva100.com##.m_view_ad05
+m.viva100.com##.moblie_ad01
+m.viva100.com##DIV[style="width:100%;height:190px;text-align:center;"]
+m.viva100.com##DIV[style="width:100%;height:260px;text-align:center"]
+m.viva100.com##DIV[style="width:100%;height:250px;text-align:center;margin-bottom:10px"]
+mstoo.asiae.co.kr###news > table
+m.busan.com##.adi_animated.aditop.adistory
+www.clien.net##.content_hd_rgt
 zangsisi.net##body > center:nth-of-type(1)
 zangsisi.net##body > center:nth-of-type(2)
 zangsisi.net##body > .fixed-top:nth-of-type(6) > center
-zangsisi.net##body > center:nth-of-type(1) > a[href^="http://www.bananamall.co.kr/Alinker/"] > img
-zangsisi.net##body > center:nth-of-type(2) > a[href^="http://partner.zzamtoon.com/event/prologue"] > img
-zangsisi.net##body > .fixed-top:nth-of-type(6) > center > a[href^="http://partner.zzamtoon.com/event/prologue"] > img
-zangsisi.net##body > .fixed-top:nth-of-type(6) > center > a[href^="http://www.bananamall.co.kr/Alinker/"] > img
 ||of.blogtoday.net/img/xbtn.png
 ||etnews.com/tools/refresh_script.html
 ||img.funfuntest.com/img/pic_file/ad_sleepyrain/
@@ -312,6 +352,67 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+www.newya3.net###conLayer > table > tbody
+www.newya3.net##.layer_area_n > .layer_left_n
+www.newya3.net##.wrapper > .header-e1.header > .navbar-default.navbar > .container > .hidden-xs.hidden-sm.pull-right.header-banner:nth-of-type(4) > img
+www.newya3.net##.wrapper > .header-e1.header > .navbar-default.navbar > .container > .hidden-xs.hidden-sm.pull-right.header-banner:nth-of-type(3) > a[href="http://newya99.net/shop.html"] > img
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .left-main.col-md-9.basic-bs-main > .상단큰배너
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .col-md-3.basic-bs-side > .하단우측배너1
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .col-md-3.basic-bs-side > .하단우측배너2
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .col-md-3.basic-bs-side > .하단우측배너3
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .col-md-3.basic-bs-side > .하단우측배너4
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .col-md-3.basic-bs-side > .하단우측배너5
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .col-md-3.basic-bs-side > .하단우측배너6
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .col-md-3.basic-bs-side > .하단우측배너7
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .col-md-3.basic-bs-side > .하단우측배너8
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .left-main.col-md-9.basic-bs-main > .하단큰배너
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .left-main.col-md-9.basic-bs-main > .board-view > .board-view-atc > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .left-main.col-md-9.basic-bs-main > .board-view > .board-view-atc > table > tbody > tr:nth-of-type(2) > td:nth-of-type(2)
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .left-main.col-md-9.basic-bs-main > .board-view > .board-view-atc > div:nth-of-type(2) > div > a[href="http://newya99.net/idcc.html"] > img
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .left-main.col-md-9.basic-bs-main > .board-view > .board-view-atc > div:nth-of-type(2) > div > a[href="http://newya99.net/kyungsex.html"] > img
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .left-main.col-md-9.basic-bs-main > .board-view > .board-view-atc > div:nth-of-type(2) > div > a[href="http://newya99.net/beatles.html"] > img
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .left-main.col-md-9.basic-bs-main > .board-view > .board-view-atc > div:nth-of-type(2) > div > a[href="http://newya99.net/yamato.html"] > img
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .left-main.col-md-9.basic-bs-main > .board-view > .board-view-atc > div:nth-of-type(2) > div > a[href="http://newya99.net/homrun.html"] > img
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .left-main.col-md-9.basic-bs-main > .board-view > .board-view-atc > div:nth-of-type(2) > div > a[href="http://newya99.net/via.html"] > img
+www.newya3.net##.wrapper > .content.container.basic-bs-wrap.basic-bs > .row > .left-main.col-md-9.basic-bs-main > .board-view > .board-view-atc > table > tbody > tr:nth-of-type(2) > td:nth-of-type(3)
+cowlady.net###hd_pop
+cowlady.net###mw5 > .container > .wrapper > .main > a[href="/ad/casino"] > img
+cowlady.net###mw5 > .container > .wrapper > .main > table:nth-of-type(1)
+cowlady.net###mw5 > .container > .wrapper > .main > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
+cowlady.net###mw5 > .container > .wrapper > .main > table:nth-of-type(2)
+cowlady.net###mw5 > .container > .wrapper > .main > table:nth-of-type(3) > tbody > tr
+cowlady.net###mw5 > .container > .wrapper > .main > table:nth-of-type(4) > tbody > tr
+cowlady.net###bo_v > center > table:nth-of-type(1) > tbody > tr
+cowlady.net###bo_v > center > table:nth-of-type(3) > tbody > tr
+cowlady.net###bo_v > center > table:nth-of-type(4)
+cowlady.net###mw_mobile > table:nth-of-type(1)
+cowlady.net###box
+cowlady.net###bo_v > a[href="tel:060-500-4513"] > img
+cowlady.net###bo_v > table:nth-of-type(2)
+cowlady.net###bo_v > table:nth-of-type(4) > tbody > tr > td:nth-of-type(1) > a[href="/ad/casino"] > img
+cowlady.net###bo_v > table:nth-of-type(4) > tbody > tr > td:nth-of-type(1)
+cowlady.net###bo_v > table:nth-of-type(4) > tbody > tr > td:nth-of-type(1) > a[href="/ad/gsb8282"] > img
+cowlady.net###bo_v > table:nth-of-type(4) > tbody > tr > td:nth-of-type(1)
+cowlady.net###bo_v > table:nth-of-type(4) > tbody > tr > td > a[href="/ad/opa104"] > img
+cowlady.net###bo_v > table:nth-of-type(4) > tbody > tr > td:nth-of-type(3)
+cowlady.net###bo_v > table:nth-of-type(4) > tbody > tr > td:nth-of-type(2) > a[href="/ad/gsb8282"] > img
+cowlady.net###mw_mobile > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1) > a[href="/ad/sexmeeting"] > img
+cowlady.net###mw_mobile > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
+cowlady.net###mw_mobile > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1) > a[href="/ad/tvnori"] > img
+cowlady.net###mw_mobile > table:nth-of-type(2) > tbody > tr > td:nth-of-type(1)
+cowlady.net###mw_mobile > table:nth-of-type(2) > tbody > tr > td > a[href="/ad/sekpa"] > img
+cowlady.net###mw_mobile > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3)
+cowlady.net###mw_mobile > table:nth-of-type(2) > tbody > tr > td:nth-of-type(2)
+19bam.com###container > div:nth-of-type(1) > div
+19bam.com###container > div:nth-of-type(2) > div
+19bam.com###bo_v_atc > table:nth-of-type(3) > tbody > tr > td:nth-of-type(1)
+19bam.com###bo_v_atc > table:nth-of-type(3) > tbody > tr > td:nth-of-type(1)
+19bam.com###bo_v_atc > table:nth-of-type(3) > tbody > tr > td
+19bam.com###bo_v_atc > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3)
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3)
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
+19bam.com###bo_v_atc > table:nth-of-type(5)
+19bam.com###bo_v_atc > table:nth-of-type(4)
 19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .rree > .idx-sidebox > div
 19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .llee > .ban > div > div
 19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .ccee > .row
