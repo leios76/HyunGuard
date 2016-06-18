@@ -36,7 +36,7 @@ wow.inven.co.kr##.focusPart
 m.inven.co.kr###boardPart > DIV[style="text-align:center;height:50px;"]
 m.comic.naver.com###promotionLayerFirst
 m.comic.naver.com###ly_dim
-sports.news.naver.com###container > .main_colgroup > .aside > .banner
+sports.news.naver.com##.banner
 m.comic.naver.com###pageList[class="toon_lst"] > li:nth-of-type(8)
 m.comic.naver.com###ppl_section
 www.naayo.co.kr##.snp-cursor-pointer.bld-el
