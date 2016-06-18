@@ -12,10 +12,6 @@
 zangsisi.net##body > center:nth-of-type(1)
 zangsisi.net##body > center:nth-of-type(2)
 zangsisi.net##body > .fixed-top:nth-of-type(6) > center
-zangsisi.net##body > center:nth-of-type(1) > a[href^="http://www.bananamall.co.kr/Alinker/"] > img
-zangsisi.net##body > center:nth-of-type(2) > a[href^="http://partner.zzamtoon.com/event/prologue"] > img
-zangsisi.net##body > .fixed-top:nth-of-type(6) > center > a[href^="http://partner.zzamtoon.com/event/prologue"] > img
-zangsisi.net##body > .fixed-top:nth-of-type(6) > center > a[href^="http://www.bananamall.co.kr/Alinker/"] > img
 ||of.blogtoday.net/img/xbtn.png
 ||etnews.com/tools/refresh_script.html
 ||img.funfuntest.com/img/pic_file/ad_sleepyrain/
