@@ -352,6 +352,16 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+19bam.com###container > div:nth-of-type(1) > div
+19bam.com###container > div:nth-of-type(2) > div
+19bam.com###bo_v_atc > table:nth-of-type(3) > tbody > tr > td:nth-of-type(1)
+19bam.com###bo_v_atc > table:nth-of-type(3) > tbody > tr > td:nth-of-type(1)
+19bam.com###bo_v_atc > table:nth-of-type(3) > tbody > tr > td
+19bam.com###bo_v_atc > table:nth-of-type(2) > tbody > tr > td:nth-of-type(3)
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(3)
+19bam.com###bo_v_atc > table:nth-of-type(1) > tbody > tr > td:nth-of-type(2)
+19bam.com###bo_v_atc > table:nth-of-type(5)
+19bam.com###bo_v_atc > table:nth-of-type(4)
 19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .rree > .idx-sidebox > div
 19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .llee > .ban > div > div
 19cream.com##.boxed.en.wrapper > .at-content > .container > .board-list > .container > .row > .ccee > .row
