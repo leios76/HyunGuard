@@ -352,6 +352,8 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+penijoy3.com###search-content > .board_container > .content-table > tbody > tr > .content > div:nth-of-type(3) > .site-ad
+penijoy3.com##.site-main > .content-width.main-container > .right-container > .site-ad > div:nth-of-type(2)
 www.19gom.net##.wrap > .content-wrap > .wrapper-sticky:nth-of-type(3) > .rbar > .web-right-ad
 www.19gom.net###div_1:nth-of-type(1) > .web-content-top-ad > a[href^="http://www.adpicture.net/index.asp"] > img
 www.19gom.net##.wrap > .content-wrap > .content > .web-content-top-ad
