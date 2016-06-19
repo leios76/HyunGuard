@@ -352,6 +352,52 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+||sora6.com/data/file/banner/2372228471_FG7j1SA0_e49541a18b64a37d5b1e517b47e4c361974ce25d.gif
+||sora6.com/data/file/banner/3340469532_M1WEUge6_1e5fe77dd67bbffe922d858fd95ddc58cdc30e56.gif
+||sora6.com/data/file/banner/2372228189_bHaSRnFy_969b9db0af939a6ae9f8014f6331fd6249c97def.gif
+||sora6.com/data/file/banner/2372228194_s9eUwmd5_d0c0a28c956c490542d023729b3963b231904a06.gif
+||sora6.com/data/file/banner/2372228202_RFc0vH3G_75c87db276f19ad28fe5af6defe969e03b61f391.gif
+||sora6.com/data/file/banner/2728328715_2nXzTuVi_87b1b5c038dca620d273d107f992009a4519755f.gif
+||sora6.com/data/file/banner/2372228218_Dpmh4Elo_bc6789db980e7b8e62b61ed445dfa0228915b7a0.gif
+||sora6.com/data/file/banner/1822618947_WJkfyLQR_0d92f31c2789bebeb755877a32f4a8bc7d5e94e1.gif
+||sora6.com/data/file/banner/1822619223_rQbIvCKO_1b497ab7f96350778296b41c8bda4d0fd1b053c3.gif
+||sora6.com/data/file/banner/2372228443_fLJyoTZA_f8ace984d256e1ac143dbdd24c6186bace4ed03c.gif
+||sora6.com/data/file/banner/2372228189_rRpsM3AQ_7830bbb534e8bdebbe736599412750d66dfb60cb.gif
+||sora6.com/data/file/banner/1822618924_hkVrRILG_47a929c097cd89c8898fd0f641434609eba85183.gif
+||sora6.com/data/file/you1/1822618944_7GcA4P3T_017d3fd0f67f7444517e85201fef460852b82b26.gif
+||sora6.com/data/file/you1/1822618925_1kwn5DZq_8cefc15a00d21b226ed5e14a43d23af056729a10.gif
+||sora6.com/data/file/you1/2372228457_inFzbHOm_0bca978b77408268ee52c85fe74bc253464783a4.gif
+||sora6.com/data/file/you1/3340469515_ywJKBizH_8bde9137dbecafc89647a3e3634b2e0204ca9f9f.gif
+||sora6.com/data/file/you1/2728329129_XwbQ9uSj_4677e6c036af580735ee0963ed13a937ede968e6.gif
+||sora6.com/data/file/you1/2918527052_s436m0LP_6141f3c55f4aee71c5bab1c882283789fefc0523.gif
+||sora6.com/data/file/you1/2372228194_OHngwDa9_47f5cb8077826bebed19fd76efbae4a926c347b7.gif
+||sora6.com/data/file/you1/2372228189_bHaSRnFy_969b9db0af939a6ae9f8014f6331fd6249c97def.gif
+||sora6.com/data/file/you1/3340469532_ecqP3mid_c1ce709354148d3448ac103511238896e2313495.gif
+||sora6.com/data/file/you1/2372228194_s9eUwmd5_d0c0a28c956c490542d023729b3963b231904a06.gif
+||sora6.com/data/file/you1/2728329098_dscDyq4L_906136a41706a06f979aab750a7afa967d909e5d.gif
+||sora6.com/img/16a.png
+||sora6.com/img/7.png
+||sora6.com/img/8.png
+||sora6.com/img/12.png
+||sora6.com/img/13.png
+||sora6.com/img/14.png
+||sora6.com/img/15.png
+||sora6.com/img/16.png
+||sora6.com/img/1.png
+||sora6.com/img/2.png
+||sora6.com/img/3.png
+||sora6.com/img/4.png
+||sora6.com/img/5.png
+||sora6.com/img/6.png
+||sora6.com/img/8a.png
+||sora6.com/data/file/xia1/2728329129_eME4fPkl_c09fad5a80e0355c592a372f1cb3164b578c6df9.gif
+||sora6.com/data/file/xia1/2728328996_j6PO05hX_a29ba5e2a38eda3d8272661e67413218fb1f55d0.gif
+||sora6.com/data/file/xia1/3340468413_nN7ExQGU_55cdbc0f5d0e604ec77d3ab0d4fbc2b12a059391.gif
+||sora6.com/data/file/xia1/1822618925_9B1UhkPt_85313084969994d2485f4dffdbfda6a40d7a87e1.gif
+||sora6.com/data/file/xia1/2372228202_XHF8p9Bz_7890424027d5e6b3758371da7c911a3c36335e7a.gif
+||sora6.com/data/file/xia1/2372228471_dS8NIvsO_ed32515b0fe5e6944bea60a5f495d94bdd27b3df.gif
+||sora6.com/data/file/xia1/2728278177_nLxNuwWY_108a801215859f96940e8cd7a4954b9180ce21f4.gif
+||sora6.com/data/file/xia1/2728328996_QRyv29oI_cab025c87627e021edcc56839aa479f5ac069ce5.gif
 candy17.net###hd_pops_19
 candy17.net###content-forum-first > .content-forum-first-back > .container > .row > .col-md-2.col-sm-6:nth-of-type(1) > .ea-main-slider-box-h2:nth-of-type(3)
 candy17.net###content-forum-first > .content-forum-first-back > .container > .row > .col-md-2.col-sm-6:nth-of-type(4) > .ea-tiles:nth-of-type(1) > .ea-vertical-slider-box-ra2.col-xs-12
