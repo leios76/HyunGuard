@@ -352,6 +352,20 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+sexkr1.net##.boxed.en.wrapper > header > .at-header > .container > .header-container > .hidden-xs.hidden-sm.pull-right > a[href^="http://www.soramall.kr/intro.php"] > img
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > table > tbody > tr > td:nth-of-type(2)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > table > tbody > tr > td
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .sideArea.pull-left.col-md-3 > .idx-box-onlymargin:nth-of-type(4) > a[href="http://vke274.com/"] > .img-responsive
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .sideArea.pull-left.col-md-3 > .idx-box-onlymargin:nth-of-type(5) > a[href^="http://www.soramall.kr/intro.php"] > .img-responsive
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > .view-wrap > .view-content > a[href="http://060girl.com/"] > img
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .sideArea.pull-left.col-md-3 > .idx-box-onlymargin:nth-of-type(3)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .sideArea.pull-left.col-md-3 > .idx-box-onlymargin:nth-of-type(3)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .sideArea.pull-left.col-md-3 > .idx-box-onlymargin:nth-of-type(4)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > .fix-gutters-25.row:nth-of-type(2)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > .fix-gutters-25.row:nth-of-type(3) > .col-md-6:nth-of-type(1)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > .fix-gutters-25.row:nth-of-type(3)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > .fix-gutters-25.row:nth-of-type(4) > .col-md-6:nth-of-type(2) > .idx-box > a[href^="http://www.soramall.kr/intro.php"] > .img-responsive
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > .fix-gutters-25.row:nth-of-type(4) > .col-md-6:nth-of-type(1) > .idx-box > a[href="http://060girl.com/"] > img
 janor.net###side_banner_box
 janor.net###logo_head > .header-wrap > .header-box > .header-title.header-item > .row > .hidden-xs.col-sm-9
 janor.net###at_container > .at-content > .container > .at-row.row > .at-col.pull-right.col-md-9 > .at-content-main > .view-wrap > div:nth-of-type(6)
