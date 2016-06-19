@@ -1489,15 +1489,7 @@ reviewstar.hankooki.com###photo_top2
 @@||video.ad.naver.com^
 @@||wikitree.co.kr/ad/$image,subdocument
 @@||yes24.com^*/banner/bn_
-! [코르셋 프라이버시]
-!
-! 구독 필터 이름 : 코르셋 프라이버시 (Corset Privacy)
-! 구독 필터 설명 : 개인 정보 보호 (사이트 이용자의 이용행태에 대한 정보 수집을 막음)
-! 적용 범위 : 한국어를 사용하는 사이트
-! 필터 유지자의 마지막 수정 : $DATE
-! 구독 필터의 자동 업데이트 주기 : 24시간 (Expires : 24 hours)
-! 추적이나 통계 코드를 발견하면 웹 페이지의 주소를 복사해 알려주십시오.
-!                                                                                                                                         .
+
 !------------------------------------코르셋 프라이버시 : 일반 사이트--------------------------------!
 .com/logger/
 .loginside.
