@@ -352,6 +352,19 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+www.chunja19.net###container > center > a[href="http://mrqq03.com"] > img
+www.chunja19.net##body > div:nth-of-type(3) > center
+www.chunja19.net###container > center
+www.chunja19.net###aside > a[href^="/ad_link.php"] > img
+www.chunja19.net###aside > center > a[href="http://tafvvip.com"] > img
+www.chunja19.net###aside > center > a[href="http://dwdw88.com/"] > img
+www.chunja19.net###aside > center > a[href="http://tpy525.com"] > img
+www.chunja19.net###aside > center > a[href^="http://www.soramall.kr/intro.php"] > img
+www.chunja19.net###pc_board_text
+www.chunja19.net###bo_v_atc > a[href^="http://queendisk.com/"] > img
+www.chunja19.net###ad-zon > a[href^="http://mk.lstv.kr/"] > img
+www.chunja19.net###ad-zon > ul
+www.chunja19.net###wrapper > a[href^="http://mk.lstv.kr/"] > img
 www.newya3.net###conLayer > table > tbody
 www.newya3.net##.layer_area_n > .layer_left_n
 www.newya3.net##.wrapper > .header-e1.header > .navbar-default.navbar > .container > .hidden-xs.hidden-sm.pull-right.header-banner:nth-of-type(4) > img
