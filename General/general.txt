@@ -352,6 +352,12 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+candy18.net###wrapper > .container > .row > .col-sm-4.col-md-2 > div > div
+candy18.net###wrapper > .container > .row > aside > .col-sm-4.col-md-2 > .ea-right-sidebar > .ea-side-widget > .ea-side-box
+candy18.net###wrapper > .container > .row > .ea-board-box.col-sm-8.col-md-8 > .ea-google-board
+candy18.net###fboardlist > .ea-google-board
+candy18.net###bo_v_atc > div:nth-of-type(1)
+candy18.net###as-view > .ea-google-board
 redtorent7.com###popup > .inner_div
 redtorent7.com###popup_casino > .inner_div > a[href^="./ad_c.php"] > img
 redtorent7.com###popup_fun88 > .inner_div
