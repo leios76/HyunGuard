@@ -352,6 +352,21 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+jubeya.com###stv2_list
+jubeya.com###stv_list > a[href^="https://eggckor.com/"] > img[alt="에그벳 모바일 런칭"]
+jubeya.com###fboardlist > .border-red.div-box
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-3 > .at-content-side > .idx-sidebox:nth-of-type(8) > .box.npia-board-gallery > .widget-body
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery:nth-of-type(2) > .widget-head
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery:nth-of-type(2) > .widget-body > ul > li > .img
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery:nth-of-type(2) > .widget-body
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery:nth-of-type(8) > .widget-body
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-9 > .at-content-main > .view-wrap > .se2_quote6
+jubeya.com###hd_pops_7
+jubeya.com##.boxed.en.wrapper > .at-container > center
+jubeya.com##.boxed.en.wrapper > .at-container > .main-wrap > .main-content > .container > .main-row.row:nth-of-type(1) > .main-col.col-md-12 > .main-row.row > .main-col.col-sm-9 > .main-box
+jubeya.com##.boxed.en.wrapper > .at-container > .main-wrap > .main-content > .container > .main-row.row:nth-of-type(3) > .main-col.col-md-12 > .main-row.row > .main-col.col-sm-9
+jubeya.com##.boxed.en.wrapper > .at-container > .main-wrap > .main-content > .container > .main-row.row:nth-of-type(3) > .main-col.col-md-12 > .main-row.row
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery
 manbe69.com###at-body > .body-wrap.at-container > .body-box.at-box > .body-content > .content-box > .content-center > div:nth-of-type(3) > table > tbody > tr
 manbe69.com###at-body > .body-wrap.at-container > .body-box.at-box > .body-content > .content-box > .content-center > table > tbody > tr
 manbe69.com###at-header > .header-wrap.at-container > .header-box.at-box > .header-banner > .google-header > a[href="http://redtube.33.co.kr"] > img
