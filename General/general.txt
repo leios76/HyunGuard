@@ -352,6 +352,16 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+redtorent7.com###popup > .inner_div
+redtorent7.com###popup_casino > .inner_div > a[href^="./ad_c.php"] > img
+redtorent7.com###popup_fun88 > .inner_div
+redtorent7.com##.container > div:nth-of-type(1) > .right2 > .inner_div
+redtorent7.com##.container > div:nth-of-type(1) > .right3 > .inner_div
+redtorent7.com##.container > .col-md-10.container > .container:nth-of-type(1) > .container > .row.container:nth-of-type(5)
+redtorent7.com##.container > .col-md-10.container > .container:nth-of-type(1) > .container > .row.container:nth-of-type(5)
+redtorent7.com##.container > .col-md-10.container > .container:nth-of-type(1) > .container > .row.container:nth-of-type(5)
+redtorent7.com##.container > .col-md-10.container > .container:nth-of-type(1) > .container > .row.container:nth-of-type(5)
+redtorent7.com##.container > .col-md-10.container > .container:nth-of-type(1) > .container > .row.container
 freeyd.net##.ko.wrapper > .at-content > .container > .row > .contentArea.col-md-9 > div > div > div > p
 freeyd.net##.ko.wrapper > .at-content > .container > .row > .contentArea.col-md-9 > div > div > p:nth-of-type(3)
 freeyd.net##.ko.wrapper > .at-content > .container > .row > .contentArea.col-md-9 > div > div > p:nth-of-type(2)
