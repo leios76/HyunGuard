@@ -352,6 +352,16 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-main.at-col.pull-right.col-md-9 > table > tbody
+cocoking.info###hd_pops_3
+cocoking.info###hd_pops_10
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-side.at-col.pull-left.col-md-3 > .widget-side > .widget-box:nth-of-type(2)
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-side.at-col.pull-left.col-md-3 > .widget-side > .widget-box:nth-of-type(3)
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-side.at-col.pull-left.col-md-3 > .widget-side > .widget-box:nth-of-type(4)
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-side.at-col.pull-left.col-md-3 > .widget-side > .widget-box:nth-of-type(5) > table
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-side.at-col.pull-left.col-md-3 > .widget-side > .widget-box:nth-of-type(6) > table
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-main.at-col.pull-right.col-md-9 > p
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-main.at-col.pull-right.col-md-9 > .view-wrap > .kim-banner > .pull-left > .form-group > table > tbody > tr
 girl070.com###leftaside
 girl070.com###rightaside
 girl070.com###container > p:nth-of-type(1)
