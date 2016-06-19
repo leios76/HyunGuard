@@ -352,6 +352,14 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+woori3.com##.layer_left > p:nth-of-type(1) > a[href="http://wtaza8.com"] > img
+woori3.com##.layer_left > p:nth-of-type(2) > a[href="http://pb017.com"] > img
+woori3.com##.layer_left > p:nth-of-type(3) > a[href="http://mmv787.com"] > img
+woori3.com##.layer_right > p:nth-of-type(1) > a[href="http://ehd184.com"] > img
+woori3.com##.layer_right > p:nth-of-type(2) > a[href="http://woori.msbd.kr"] > img
+woori3.com##.layer_right > p:nth-of-type(3) > a[href="http://ses2015.w78.org/"] > img
+woori3.com##body > .container:nth-of-type(7) > .wrap.row > .col-md-3 > .text-center.left_banner
+woori3.com###vContent > .phone
 www.chunja19.net###container > center > a[href="http://mrqq03.com"] > img
 www.chunja19.net##body > div:nth-of-type(3) > center
 www.chunja19.net###container > center
