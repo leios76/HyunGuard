@@ -2,13 +2,23 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160618
+! Version: 20160620
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+www.etnews.com###right > .right_ad4
+www.etnews.com###adArea > .pos_r.today_photo_ad
+www.etnews.com###adArea > .bdt0.right_ad5
+www.etnews.com###adArea > div:nth-of-type(2)
+www.etnews.com###adArea > .ibk.right_ad1
+www.etnews.com###left2 > .pos_r.box_type1
+www.yonhapnews.co.kr###content > .contents > .contents02 > .list-style02.contents-box:nth-of-type(3)
+www.yonhapnews.co.kr###content > .contents > .contents02 > .banner-box06.list-style02.contents-box
+www.yonhapnews.co.kr###content > .contents > .contents02 > .aside-banner.contents-box > ul
+www.yonhapnews.co.kr###content > .contents > .contents02 > .aside-banner.contents-box
 ||t1.daumcdn.net/section/oc/
 ||giantt.co.kr/wp-content/uploads/2016/03/themeforest-ranking.gif
 ||i.imgur.com/orYIJgz.jpg$image
@@ -352,6 +362,186 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-main.at-col.pull-right.col-md-9 > table > tbody
+cocoking.info###hd_pops_3
+cocoking.info###hd_pops_10
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-side.at-col.pull-left.col-md-3 > .widget-side > .widget-box:nth-of-type(2)
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-side.at-col.pull-left.col-md-3 > .widget-side > .widget-box:nth-of-type(3)
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-side.at-col.pull-left.col-md-3 > .widget-side > .widget-box:nth-of-type(4)
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-side.at-col.pull-left.col-md-3 > .widget-side > .widget-box:nth-of-type(5) > table
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-side.at-col.pull-left.col-md-3 > .widget-side > .widget-box:nth-of-type(6) > table
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-main.at-col.pull-right.col-md-9 > p
+cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-main.at-col.pull-right.col-md-9 > .view-wrap > .kim-banner > .pull-left > .form-group > table > tbody > tr
+girl070.com###leftaside
+girl070.com###rightaside
+girl070.com###container > p:nth-of-type(1)
+girl070.com###container > p
+girl070.com###bo_v_top > .btn_b01[href="http://hera55.com"]
+girl070.com###bo_v_top > .btn_b01[href="http://ga45.info"]
+girl070.com###bo_v_top > .btn_b01[href="http://girl.msbd.kr"]
+girl070.com###bo_v_bot > .btn_b01[href="http://hera55.com"]
+girl070.com###bo_v_bot > .btn_b01[href="http://ga45.info"]
+girl070.com###bo_v_bot > .btn_b01[href="http://girl.msbd.kr"]
+girl070.com###wrapper > div:nth-of-type(1) > p
+girl070.com###bo_gall > div:nth-of-type(2) > a[href="http://ga45.info"] > img
+girl070.com###bo_gall > div:nth-of-type(1) > a[href="http://www.mnc01.com/main/ot/agent/100021"] > img
+||sora6.com/data/file/banner/2372228471_FG7j1SA0_e49541a18b64a37d5b1e517b47e4c361974ce25d.gif
+||sora6.com/data/file/banner/3340469532_M1WEUge6_1e5fe77dd67bbffe922d858fd95ddc58cdc30e56.gif
+||sora6.com/data/file/banner/2372228189_bHaSRnFy_969b9db0af939a6ae9f8014f6331fd6249c97def.gif
+||sora6.com/data/file/banner/2372228194_s9eUwmd5_d0c0a28c956c490542d023729b3963b231904a06.gif
+||sora6.com/data/file/banner/2372228202_RFc0vH3G_75c87db276f19ad28fe5af6defe969e03b61f391.gif
+||sora6.com/data/file/banner/2728328715_2nXzTuVi_87b1b5c038dca620d273d107f992009a4519755f.gif
+||sora6.com/data/file/banner/2372228218_Dpmh4Elo_bc6789db980e7b8e62b61ed445dfa0228915b7a0.gif
+||sora6.com/data/file/banner/1822618947_WJkfyLQR_0d92f31c2789bebeb755877a32f4a8bc7d5e94e1.gif
+||sora6.com/data/file/banner/1822619223_rQbIvCKO_1b497ab7f96350778296b41c8bda4d0fd1b053c3.gif
+||sora6.com/data/file/banner/2372228443_fLJyoTZA_f8ace984d256e1ac143dbdd24c6186bace4ed03c.gif
+||sora6.com/data/file/banner/2372228189_rRpsM3AQ_7830bbb534e8bdebbe736599412750d66dfb60cb.gif
+||sora6.com/data/file/banner/1822618924_hkVrRILG_47a929c097cd89c8898fd0f641434609eba85183.gif
+||sora6.com/data/file/you1/1822618944_7GcA4P3T_017d3fd0f67f7444517e85201fef460852b82b26.gif
+||sora6.com/data/file/you1/1822618925_1kwn5DZq_8cefc15a00d21b226ed5e14a43d23af056729a10.gif
+||sora6.com/data/file/you1/2372228457_inFzbHOm_0bca978b77408268ee52c85fe74bc253464783a4.gif
+||sora6.com/data/file/you1/3340469515_ywJKBizH_8bde9137dbecafc89647a3e3634b2e0204ca9f9f.gif
+||sora6.com/data/file/you1/2728329129_XwbQ9uSj_4677e6c036af580735ee0963ed13a937ede968e6.gif
+||sora6.com/data/file/you1/2918527052_s436m0LP_6141f3c55f4aee71c5bab1c882283789fefc0523.gif
+||sora6.com/data/file/you1/2372228194_OHngwDa9_47f5cb8077826bebed19fd76efbae4a926c347b7.gif
+||sora6.com/data/file/you1/2372228189_bHaSRnFy_969b9db0af939a6ae9f8014f6331fd6249c97def.gif
+||sora6.com/data/file/you1/3340469532_ecqP3mid_c1ce709354148d3448ac103511238896e2313495.gif
+||sora6.com/data/file/you1/2372228194_s9eUwmd5_d0c0a28c956c490542d023729b3963b231904a06.gif
+||sora6.com/data/file/you1/2728329098_dscDyq4L_906136a41706a06f979aab750a7afa967d909e5d.gif
+||sora6.com/img/16a.png
+||sora6.com/img/7.png
+||sora6.com/img/8.png
+||sora6.com/img/12.png
+||sora6.com/img/13.png
+||sora6.com/img/14.png
+||sora6.com/img/15.png
+||sora6.com/img/16.png
+||sora6.com/img/1.png
+||sora6.com/img/2.png
+||sora6.com/img/3.png
+||sora6.com/img/4.png
+||sora6.com/img/5.png
+||sora6.com/img/6.png
+||sora6.com/img/8a.png
+||sora6.com/data/file/xia1/2728329129_eME4fPkl_c09fad5a80e0355c592a372f1cb3164b578c6df9.gif
+||sora6.com/data/file/xia1/2728328996_j6PO05hX_a29ba5e2a38eda3d8272661e67413218fb1f55d0.gif
+||sora6.com/data/file/xia1/3340468413_nN7ExQGU_55cdbc0f5d0e604ec77d3ab0d4fbc2b12a059391.gif
+||sora6.com/data/file/xia1/1822618925_9B1UhkPt_85313084969994d2485f4dffdbfda6a40d7a87e1.gif
+||sora6.com/data/file/xia1/2372228202_XHF8p9Bz_7890424027d5e6b3758371da7c911a3c36335e7a.gif
+||sora6.com/data/file/xia1/2372228471_dS8NIvsO_ed32515b0fe5e6944bea60a5f495d94bdd27b3df.gif
+||sora6.com/data/file/xia1/2728278177_nLxNuwWY_108a801215859f96940e8cd7a4954b9180ce21f4.gif
+||sora6.com/data/file/xia1/2728328996_QRyv29oI_cab025c87627e021edcc56839aa479f5ac069ce5.gif
+candy17.net###hd_pops_19
+candy17.net###content-forum-first > .content-forum-first-back > .container > .row > .col-md-2.col-sm-6:nth-of-type(1) > .ea-main-slider-box-h2:nth-of-type(3)
+candy17.net###content-forum-first > .content-forum-first-back > .container > .row > .col-md-2.col-sm-6:nth-of-type(4) > .ea-tiles:nth-of-type(1) > .ea-vertical-slider-box-ra2.col-xs-12
+candy18.net###wrapper > .container > .row > .col-sm-4.col-md-2 > div > div
+candy18.net###wrapper > .container > .row > aside > .col-sm-4.col-md-2 > .ea-right-sidebar > .ea-side-widget > .ea-side-box
+candy18.net###wrapper > .container > .row > .ea-board-box.col-sm-8.col-md-8 > .ea-google-board
+candy18.net###fboardlist > .ea-google-board
+candy18.net###bo_v_atc > div:nth-of-type(1)
+candy18.net###as-view > .ea-google-board
+redtorent7.com###popup > .inner_div
+redtorent7.com###popup_casino > .inner_div > a[href^="./ad_c.php"] > img
+redtorent7.com###popup_fun88 > .inner_div
+redtorent7.com##.container > div:nth-of-type(1) > .right2 > .inner_div
+redtorent7.com##.container > div:nth-of-type(1) > .right3 > .inner_div
+redtorent7.com##.container > .col-md-10.container > .container:nth-of-type(1) > .container > .row.container:nth-of-type(5)
+redtorent7.com##.container > .col-md-10.container > .container:nth-of-type(1) > .container > .row.container:nth-of-type(5)
+redtorent7.com##.container > .col-md-10.container > .container:nth-of-type(1) > .container > .row.container:nth-of-type(5)
+redtorent7.com##.container > .col-md-10.container > .container:nth-of-type(1) > .container > .row.container:nth-of-type(5)
+redtorent7.com##.container > .col-md-10.container > .container:nth-of-type(1) > .container > .row.container
+freeyd.net##.ko.wrapper > .at-content > .container > .row > .contentArea.col-md-9 > div > div > div > p
+freeyd.net##.ko.wrapper > .at-content > .container > .row > .contentArea.col-md-9 > div > div > p:nth-of-type(3)
+freeyd.net##.ko.wrapper > .at-content > .container > .row > .contentArea.col-md-9 > div > div > p:nth-of-type(2)
+freeyd.net##.ko.wrapper > .at-content > .container > .row > .contentArea.col-md-9 > div > div > p
+freeyd.net##.ko.wrapper > .at-content > .container > .row > .sideArea.col-md-3 > .__se_tbl > tbody
+freeyd.net##.ko.wrapper > .at-content > .container > .row > .contentArea.col-md-9 > .view-wrap > div:nth-of-type(4) > div > div:nth-of-type(1)
+freeyd.net##.ko.wrapper > .at-content > .container > .row > .contentArea.col-md-9 > .view-wrap > div:nth-of-type(4) > div > div
+www.car-vov.com###doc > .body > .article_1 > .xe-widget-wrapper.xe_content:nth-of-type(5)
+www.car-vov.com###doc > .body > .article_1 > .xe-widget-wrapper.xe_content > div > p:nth-of-type(1)
+www.car-vov.com###doc > .body > .article_1 > .xe-widget-wrapper.xe_content > div > p
+www.car-vov.com###doc > .body > .article_1 > .xe-widget-wrapper.xe_content
+www.car-vov.com###doc > .body > a[href="http://"]:nth-of-type(4) > img[alt="영역7.gif"]
+www.car-vov.com###doc > .body > a[href="http://"]:nth-of-type(5) > img[alt="영역8.gif"]
+www.car-vov.com###doc > .body > img[alt="영역5.gif"]
+www.car-vov.com###doc > .body > img[alt="영역6.gif"]
+www.car-vov.com###doc > .body > img[alt="영역7.gif"]
+www.car-vov.com###doc > .body > img[alt="영역8.gif"]
+www.car-vov.com###flashContent > .flash-link[href="http://www.ulala98.com"]
+www.car-vov.com###flashContent > object
+www.car-vov.com###doc > .body > .article_1 > .board > .board_read > .read_body > div:nth-of-type(3)
+www.car-vov.com###doc > .body > .article_1 > .board > .board_read > .read_body > div:nth-of-type(5)
+www.dosin8.com###header > .gnb > .clear.logo > dd > table > tbody > tr > td
+www.dosin8.com###left_bn_a > table > tbody > tr:nth-of-type(4) > td
+penijoy3.com###search-content > .board_container > .content-table > tbody > tr > .content > div:nth-of-type(3) > .site-ad
+penijoy3.com##.site-main > .content-width.main-container > .right-container > .site-ad > div:nth-of-type(2)
+www.19gom.net##.wrap > .content-wrap > .wrapper-sticky:nth-of-type(3) > .rbar > .web-right-ad
+www.19gom.net###div_1:nth-of-type(1) > .web-content-top-ad > a[href^="http://www.adpicture.net/index.asp"] > img
+www.19gom.net##.wrap > .content-wrap > .content > .web-content-top-ad
+www.19gom.net##.wrap > .content-wrap > .wrapper-sticky:nth-of-type(1) > .web-left-banner > div
+jubeya.com###stv2_list
+jubeya.com###stv_list > a[href^="https://eggckor.com/"] > img[alt="에그벳 모바일 런칭"]
+jubeya.com###fboardlist > .border-red.div-box
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-3 > .at-content-side > .idx-sidebox:nth-of-type(8) > .box.npia-board-gallery > .widget-body
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery:nth-of-type(2) > .widget-head
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery:nth-of-type(2) > .widget-body > ul > li > .img
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery:nth-of-type(2) > .widget-body
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery:nth-of-type(8) > .widget-body
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-9 > .at-content-main > .view-wrap > .se2_quote6
+jubeya.com###hd_pops_7
+jubeya.com##.boxed.en.wrapper > .at-container > center
+jubeya.com##.boxed.en.wrapper > .at-container > .main-wrap > .main-content > .container > .main-row.row:nth-of-type(1) > .main-col.col-md-12 > .main-row.row > .main-col.col-sm-9 > .main-box
+jubeya.com##.boxed.en.wrapper > .at-container > .main-wrap > .main-content > .container > .main-row.row:nth-of-type(3) > .main-col.col-md-12 > .main-row.row > .main-col.col-sm-9
+jubeya.com##.boxed.en.wrapper > .at-container > .main-wrap > .main-content > .container > .main-row.row:nth-of-type(3) > .main-col.col-md-12 > .main-row.row
+jubeya.com##.boxed.en.wrapper > .at-container > .at-content > .container > .at-row.row > .at-col.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery
+manbe69.com###at-body > .body-wrap.at-container > .body-box.at-box > .body-content > .content-box > .content-center > div:nth-of-type(3) > table > tbody > tr
+manbe69.com###at-body > .body-wrap.at-container > .body-box.at-box > .body-content > .content-box > .content-center > table > tbody > tr
+manbe69.com###at-header > .header-wrap.at-container > .header-box.at-box > .header-banner > .google-header > a[href="http://redtube.33.co.kr"] > img
+manbe69.com###at-body > .body-wrap.at-container > .body-box.at-box > .body-content > .content-box > .content-center > div:nth-of-type(2)
+manbe69.com###at-body > .body-wrap.at-container > .body-box.at-box > .body-content > .content-box > .content-center > div:nth-of-type(1)
+ttalki.com##.wrapper > .basic-layout > .header > .container > div:nth-of-type(1) > table
+ttalki.com##.wrapper > .basic-layout > .header > .container > div:nth-of-type(4) > table
+sexkr1.net##.boxed.en.wrapper > header > .at-header > .container > .header-container > .hidden-xs.hidden-sm.pull-right > a[href^="http://www.soramall.kr/intro.php"] > img
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > table > tbody > tr > td:nth-of-type(2)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > table > tbody > tr > td
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .sideArea.pull-left.col-md-3 > .idx-box-onlymargin:nth-of-type(4) > a[href="http://vke274.com/"] > .img-responsive
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .sideArea.pull-left.col-md-3 > .idx-box-onlymargin:nth-of-type(5) > a[href^="http://www.soramall.kr/intro.php"] > .img-responsive
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > .view-wrap > .view-content > a[href="http://060girl.com/"] > img
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .sideArea.pull-left.col-md-3 > .idx-box-onlymargin:nth-of-type(3)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .sideArea.pull-left.col-md-3 > .idx-box-onlymargin:nth-of-type(3)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .sideArea.pull-left.col-md-3 > .idx-box-onlymargin:nth-of-type(4)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > .fix-gutters-25.row:nth-of-type(2)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > .fix-gutters-25.row:nth-of-type(3) > .col-md-6:nth-of-type(1)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > .fix-gutters-25.row:nth-of-type(3)
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > .fix-gutters-25.row:nth-of-type(4) > .col-md-6:nth-of-type(2) > .idx-box > a[href^="http://www.soramall.kr/intro.php"] > .img-responsive
+sexkr1.net##.boxed.en.wrapper > .at-content > .container > .fix-gutters-25.row > .contentArea.pull-right.col-md-9 > .fix-gutters-25.row:nth-of-type(4) > .col-md-6:nth-of-type(1) > .idx-box > a[href="http://060girl.com/"] > img
+janor.net###side_banner_box
+janor.net###logo_head > .header-wrap > .header-box > .header-title.header-item > .row > .hidden-xs.col-sm-9
+janor.net###at_container > .at-content > .container > .at-row.row > .at-col.pull-right.col-md-9 > .at-content-main > .view-wrap > div:nth-of-type(6)
+janor.net###at_container > .at-content > .container > .at-row.row > .at-col.pull-right.col-md-9 > .at-content-main > .view-wrap > section > article > div:nth-of-type(6) > p:nth-of-type(1) > a[href^="http://hot.toonbar.com/"] > img
+janor.net###at_container > .at-content > .container > .at-row.row > .at-col.pull-right.col-md-9 > .at-content-main > .view-wrap > section > article > div:nth-of-type(6) > p:nth-of-type(2) > img
+janor.net###at_container > .at-content > .container > .at-row.row > .at-col.pull-right.col-md-9 > .at-content-main > .view-wrap > section > article > div:nth-of-type(6) > p:nth-of-type(3) > a[href^="http://event.sensetv.co.kr/link.php"] > img
+woori3.com##.layer_left > p:nth-of-type(1) > a[href="http://wtaza8.com"] > img
+woori3.com##.layer_left > p:nth-of-type(2) > a[href="http://pb017.com"] > img
+woori3.com##.layer_left > p:nth-of-type(3) > a[href="http://mmv787.com"] > img
+woori3.com##.layer_right > p:nth-of-type(1) > a[href="http://ehd184.com"] > img
+woori3.com##.layer_right > p:nth-of-type(2) > a[href="http://woori.msbd.kr"] > img
+woori3.com##.layer_right > p:nth-of-type(3) > a[href="http://ses2015.w78.org/"] > img
+woori3.com##body > .container:nth-of-type(7) > .wrap.row > .col-md-3 > .text-center.left_banner
+woori3.com###vContent > .phone
+www.chunja19.net###container > center > a[href="http://mrqq03.com"] > img
+www.chunja19.net##body > div:nth-of-type(3) > center
+www.chunja19.net###container > center
+www.chunja19.net###aside > a[href^="/ad_link.php"] > img
+www.chunja19.net###aside > center > a[href="http://tafvvip.com"] > img
+www.chunja19.net###aside > center > a[href="http://dwdw88.com/"] > img
+www.chunja19.net###aside > center > a[href="http://tpy525.com"] > img
+www.chunja19.net###aside > center > a[href^="http://www.soramall.kr/intro.php"] > img
+www.chunja19.net###pc_board_text
+www.chunja19.net###bo_v_atc > a[href^="http://queendisk.com/"] > img
+www.chunja19.net###ad-zon > a[href^="http://mk.lstv.kr/"] > img
+www.chunja19.net###ad-zon > ul
+www.chunja19.net###wrapper > a[href^="http://mk.lstv.kr/"] > img
 www.newya3.net###conLayer > table > tbody
 www.newya3.net##.layer_area_n > .layer_left_n
 www.newya3.net##.wrapper > .header-e1.header > .navbar-default.navbar > .container > .hidden-xs.hidden-sm.pull-right.header-banner:nth-of-type(4) > img
@@ -1489,15 +1679,7 @@ reviewstar.hankooki.com###photo_top2
 @@||video.ad.naver.com^
 @@||wikitree.co.kr/ad/$image,subdocument
 @@||yes24.com^*/banner/bn_
-! [코르셋 프라이버시]
-!
-! 구독 필터 이름 : 코르셋 프라이버시 (Corset Privacy)
-! 구독 필터 설명 : 개인 정보 보호 (사이트 이용자의 이용행태에 대한 정보 수집을 막음)
-! 적용 범위 : 한국어를 사용하는 사이트
-! 필터 유지자의 마지막 수정 : $DATE
-! 구독 필터의 자동 업데이트 주기 : 24시간 (Expires : 24 hours)
-! 추적이나 통계 코드를 발견하면 웹 페이지의 주소를 복사해 알려주십시오.
-!                                                                                                                                         .
+
 !------------------------------------코르셋 프라이버시 : 일반 사이트--------------------------------!
 .com/logger/
 .loginside.
