@@ -9,9 +9,6 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
-ggobbo.net###thema_wrapper > .wrapper > .main-wrap > .main-content > .container > center
-ggobbo.net###at_container > .at-content > .container > .at-row.row > .at-col.pull-right.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery > .widget-body > ul > li > .img:nth-of-type(1)
-ggobbo.net###at_container > .at-content > .container > .at-row.row > .at-col.pull-right.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery > .widget-body
 gall.dcinside.com###zzbang_img > .google_banner
 www.etnews.com###right > .right_ad4
 www.etnews.com###adArea > .pos_r.today_photo_ad
@@ -366,6 +363,9 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+ggobbo.net###thema_wrapper > .wrapper > .main-wrap > .main-content > .container > center
+ggobbo.net###at_container > .at-content > .container > .at-row.row > .at-col.pull-right.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery > .widget-body > ul > li > .img:nth-of-type(1)
+ggobbo.net###at_container > .at-content > .container > .at-row.row > .at-col.pull-right.col-md-9 > .at-content-main > .view-wrap > .box.npia-board-gallery > .widget-body
 cocoking.info###thema_wrapper > .wrapper > .container > .at-row.row > .at-main.at-col.pull-right.col-md-9 > table > tbody
 cocoking.info###hd_pops_3
 cocoking.info###hd_pops_10
