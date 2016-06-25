@@ -9,6 +9,127 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+||s1.pan.bdstatic.com/box-static/function-widget-1-cdn/guide/util/mboxTip/images/tips-2014-11/mbox-tips-bg_9f86e6b.gif
+||betagam.net/data/banner/
+||image.cauly.co.kr/websdk/common/lasted//template/banner_template.html
+||nad.cbs.co.kr/RealMedia/ads/
+javascript:window["contents"]$domain=m.dcinside.com,subdocument
+||image.devpia.com/DEXTSolution/banner/DEXT5_180_170.gif
+||image.devpia.com/NewDevpia/main/071224/tit_promotion.gif
+||image.devpia.com/NewDevpia/main/2016_banner/main_left_5editor.gif
+||image.devpia.com/NewDevpia/main/2016_banner/main_left_5upload.gif
+||image.devpia.com/NewDevpia/main/2016_banner/main_left_X5.gif
+||jboa24.com/$subdocument,domain=kbench.com
+||kweather.co.kr/images/main/banner^$image
+||kweather.co.kr/uploads/banner/^$image
+||kweather.co.kr/630_mobile_new/ad_img/air.jpg
+||m.kweather.co.kr/view_ad/cauly.php$subdocument
+||cyad1.nate.com/
+||imguser.pandora.tv/pandora/_groups_img/forum/1466380896.jpg
+||cdnprism.pandora.tv/_adv_img/prism_ad/
+||parkoz.com/data/sponsor/
+||syncmedia.macc.skcdn.com/3dpop/mp4/bar/
+||underkg.co.kr/banner/$image
+||zdnet.co.kr/img/right_border.gif
+||ad.zumst.com/
+view.asiae.co.kr##.ad_300260
+view.asiae.co.kr##.ad_300130_01
+view.asiae.co.kr##.ad_view04
+view.asiae.co.kr##.ad_today
+view.asiae.co.kr##.ad_view05
+view.asiae.co.kr##.ad_p
+view.asiae.co.kr##.ad_300210
+view.asiae.co.kr##.aside_view_ad
+view.asiae.co.kr##.cbbm
+stoo.asiae.co.kr##.ad_240x240
+stoo.asiae.co.kr##.ad_premium
+m.asiae.co.kr##.photo_slide2.photo_slide
+m.asiae.co.kr##.newView_line.line_double
+cwstoo.asiae.co.kr##.ad_shoopng
+yun.baidu.com##.dlg-hd
+betagam.net###mw_basic > table:nth-of-type(2)
+betagam.net##.mw_basic_page 
+betagam.net###content_beta > DIV[style="text-align:center;"]
+betagam.net###content_beta > TABLE[width="960"]
+betagam.net###content_board > TABLE[width="960"]
+betagam.net###wing_bc > .wing_left > .img_wing
+m.clien.net###ct > section > .board_view > .signature > .scalable.signature_txt > img
+m.clien.net###ct > section > .board_view > .signature > .scalable.signature_txt > a > img
+devpia.com###Table1
+devpia.com##TABLE[style="LINE-HEIGHT:17px"]
+m.dcinside.com###set_auto_picture_ad
+news.donga.com###view_body_middle_iframe1
+goal.com##.module-predict.module
+hani.co.kr##.ad_img3
+hani.co.kr###laAdArea
+hotcoa.com##.vtop_ads
+m.ilyo.co.kr##.adw
+jjan.kr###livereContentsContainer
+kbench.com###block-block-4
+kbench.com###block-block-15
+kbench.com##.region-content-in-bottom.region
+m.khan.co.kr##.btm_notice_wrap
+kweather.co.kr###main_banner_slides
+kweather.co.kr##.main_bottom_banner
+m.kweather.co.kr###ad_0
+m.kweather.co.kr###mmaDisplay1
+m.kweather.co.kr##.iframe_bottom
+kweather.co.kr##.airguardk_center
+kweather.co.kr##.airguard_banner2
+kweather.co.kr##.banner
+matcl.com##.xe-widget-wrapper.xe_content
+matcl.com##P[style="margin:0px; border:0px;height: 98px;"]
+matcl.com##.clear.rd_body > P[style="margin:0px; border:0px;height: 249px;"]
+m.mediatoday.co.kr###s3dpop_player
+m.mediatoday.co.kr###s3dpop_wrap_div
+mediatoday.co.kr###banner_header_wide
+mediatoday.co.kr##.float_banner[data-wing="left"]
+mediatoday.co.kr##.float_banner[data-wing="right"][data-type="fix"]
+mediatoday.co.kr##.drag_sync1.container
+mediatoday.co.kr##.avwr_1.height_auto
+mediatoday.co.kr##.arl_view_category
+mediatoday.co.kr###talklink_contents > .not_print
+mediatoday.co.kr##.drag_sync2.lo_1
+munhwa.com###fscr_mbon_ifr
+munhwa.com###aswift_0
+munhwa.com###aswift_0_anchor
+munhwa.com###aswift_0_expand
+blog.naver.com##._adPost.end_pl
+m.search.naver.com###ct > .sp_power.sc
+nate.com##.area_ad09
+nate.com##.area_ad10
+nate.com###ad_sponsorBar
+nate.com###googleAd_wrap
+nbamania.com###ad_comment_bottom
+nbamania.com###cto_async_content
+newdaily.co.kr###livereContentsContainer
+newdaily.co.kr###iw_ad11
+newdaily.co.kr###ndArtBody > DIV[style="width:610px;height:250px;padding-bottom:10px;"]
+newdaily.co.kr##body > DIV[style="width:300px;height:250px;margin:10px auto 10px auto;"]
+newdaily.co.kr##body > DIV[style="width: 300px; height: 250px; margin: 10px auto; display: none !important;"]
+m.nocutnews.co.kr###divContent > DIV[style="width:200px; height:200px;float:right; padding:5px 0 0 5px;"]
+pann.nate.com###bannerBtm
+pann.nate.com##.top_btn_boxtype
+pandora.tv##.banner
+pandora.tv##.sh_top_contact
+redpost.co.kr##.bnr_970_90
+redpost.co.kr##.sch_banner
+redpost.co.kr##r3
+redpost.co.kr##DIV[style="background-color: #fafafa;border-bottom: #e9e9ec solid 1px;padding:15px 0;"]
+techholic.co.kr##.clearfix.ads
+underkg.co.kr##.clear.rd_ft_nav
+underkg.co.kr##.damn_banner
+underkg.co.kr###prev_next
+uuoobe.kr###gnb_area > .menu_bottom
+wemakeprice.com##.email_layerpopup.float_layer_popup_null
+zdnet.co.kr##.ad_txt
+m.zdnet.co.kr##DIV[style="top:0px; position:relative; float:right; width:200px; height:200px; padding:0 0 10px 10px;"]
+zdnet.co.kr##.power_center
+m.search.zum.com###sc_sponsor
+m.zum.com##.da_banner
+search.zum.com##.no_border_top.sboundary.section.sponsor_sc
+zum.com###wrap_ad_main
+zum.com###adx_zum_main_leftwing
 lezin.co.kr##.wrapper > .header-e1.header > .navbar-default.navbar > .container > .navbar-header > div > a[href="http://lezin.co.kr/main2.php"] > img
 lezin.co.kr##.wrapper > .header-e1.header > .navbar-default.navbar > .container > .navbar-header > div > a[href="http://tinyurl.com/o3gjrze"] > img
 lezin.co.kr##.wrapper > .header-e1.header > .navbar-default.navbar > .container > .hidden-xs.hidden-sm.pull-right.header-banner > a[href="http://pagemoa.co.kr"] > .img-responsive
