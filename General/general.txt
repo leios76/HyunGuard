@@ -9,6 +9,16 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+www.asiatoday.co.kr###section_main > .view_ad_658 > div
+www.asiatoday.co.kr###section_aside > .tac.aside_google_304
+javascript:window["contents"]$domain=www.asiatoday.co.kr,subdocument
+||ad.adinc.kr/cgi-bin/PelicanC.dll?impr?pageid=00ax&out=iframe$subdocument
+||candy.ad9.kr/s/2015/08/28/z9110346145.html$subdocument
+www.asiatoday.co.kr###section_main > .news_info_box > iframe
+www.asiatoday.co.kr###ad_optima_wrap
+www.asiatoday.co.kr###section_main > .view_ad_658
+www.asiatoday.co.kr###wingBnLeft
+www.asiatoday.co.kr###wingBnRight
 www.asiae.co.kr###content > .news_view_ad
 www.asiae.co.kr###aside > .ad_p
 www.asiae.co.kr###aside > .ad_300210
