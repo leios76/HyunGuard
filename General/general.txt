@@ -9,6 +9,12 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+www.asiae.co.kr###content > .news_view_ad
+www.asiae.co.kr###aside > .ad_p
+www.asiae.co.kr###aside > .ad_300210
+www.asiae.co.kr###aside > .ad_300260
+www.asiae.co.kr###content > .ad_today
+www.asiae.co.kr###content > .ad_view04 > .banner_list_n11
 it.chosun.com###container > .layout_container > .container > .section_h123 > .c_right > .section_8:nth-of-type(4) > div:nth-of-type(5) > a[href^="http://it.chosun.com/news/banner_click.php"] > img[alt="배너"]
 it.chosun.com###container > .layout_container > .container > .section_h123 > .section_h12 > .section_22:nth-of-type(2) > .m01_arv2 > .newsinfo2:nth-of-type(9)
 ||ad.reople.co.kr/$subdocument
