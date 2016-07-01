@@ -2,13 +2,223 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160629
+! Version: 20160702
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+||compass.adop.cc/RD/e7d1921b-bb98-4787-8f46-62be48e60ace
+||mtvdaily.asiae.co.kr/img/movie.jpg
+||tvdaily.asiae.co.kr/mainimg/mynews.gif$image
+||tvdaily.asiae.co.kr/mainimg/close.gif$image
+||adv.imadrep.co.kr/822_01.html
+||champstudy.com/img_file/newtoeic_GNB_160330.gif$image
+||champstudy.com/img_file/zeroevent_600x400.jpg
+||champstudy.com/img_file/850newtoeic_640x120.jpg
+||champstudy.com/img_file/doug2_lec_750x108.jpg
+||champstudy.com/img_file/hackerseng_pcbanner_startmp3_new_750x108.jpg$image
+||champstudy.com/img_file/champ_all_freepass_750x108.jpg$image
+||sports.chosun.com/update/20160317.png
+||cas.criteo.com/delivery/afr.php?zoneid=327613&ct0=INSERT_CLICK_URL&ttx_page_url=http://star.mbn.co.kr/view.php?year=2016&no=453268&refer=mobile$subdocument
+||i1.cartoon.daumcdn.net/svc/image/U03/cartoon/567A3A09026FCC0001
+||i1.cartoon.daumcdn.net/svc/image/U03/cartoon/572810E40132AA0001
+||t1.daumcdn.net/adam/IMAGE/2016-06/53a017bf52b0f0aaf6e58b28274af2cc8fa112d0$image
+||t1.daumcdn.net/adam/IMAGE/2016-06/dc46089377f417abbd18c38ccb6907a5b7454b5b$image
+||t1.daumcdn.net/adam/IMAGE/2015-09/c11ca7881f0b996ddd2b5bce46ff471908ed2f1e$image
+||ddaily.co.kr/data/banner/$image
+||ddaily.co.kr/iframe/banner/$image
+||dennis9.cdn3.cafe24.com/banner/$image
+||fnnews.com/resources/images/banner/$image
+||hackers.gscdn.com/hackers/files/banner/$image
+||hackers.ac/site/foot_link_2016.php
+||hackers.co.kr/pages/event/2015/1217/event.php
+||hackers.gscdn.com/hackers/files/bbs/ce4b55d4aa123f65b9a519e0b8efb975.jpg
+||hackers.gscdn.com/hackers/images/module/contents/dic/lc_w_img01.gif$image
+||m1.daumcdn.net/img-contents/mtoon/m320/bg_banner.png
+||i1.cartoon.daumcdn.net/svc/image/U03/cartoon/575E792F0259930001
+||i1.cartoon.daumcdn.net/svc/image/U03/cartoon/575E590A0235920001
+||i1.cartoon.daumcdn.net/svc/image/U03/cartoon/575E7752051C940001
+||i1.cartoon.daumcdn.net/svc/image/U03/cartoon/575E6F2905447C0001$image
+||i1.cartoon.daumcdn.net/svc/image/U03/cartoon/575E6D5C02396A0001$image
+||i1.cartoon.daumcdn.net/svc/image/U03/cartoon/5767552104420A0001
+||i1.daumcdn.net/img-section/cartoon/webtoon2015/tit_comm_160205.png$image
+||i1.cartoon.daumcdn.net/svc/image/U03/cartoon/573D5EAF0171BC0002
+||img.imgtong.com/tcafe.png$image
+||img.imgtong.com/idc_pop250.gif$image
+||img.imgtong.com/idc120.gif$image
+||img.imgtong.com/vt888.gif$image
+||img.imgtong.com/3d139.gif$image
+||img.imgtong.com/mlbbet777.jpg$image
+||img.imgtong.com/fry626_120.gif$image
+||img.imgtong.com/worldfree.gif$image
+||img.imgtong.com/ikon61_750.gif$image
+||img.imgtong.com/b-time550.jpg$image
+||img.imgtong.com/3dbada550.jpg$image
+||insightsemicon.com/data/banner/$image
+||itdaily.kr/image2006/news/20150223.jpg$image
+||static.inven.co.kr/image_2011/common/module/kakao/wrap_167_yellow1_head.png$image
+||static.inven.co.kr/image_2011/imart/module/wrap_head_imart_b.png$image
+||static.inven.co.kr/image_2011/common/module/preregi/wrap_167_blue1_head.png$image
+||static.inven.co.kr/image_2011/common/module/eventbox/event_box_title.png$image
+||upload2.inven.co.kr/upload/2016/04/21/data/i12052836455.jpg$image
+||upload2.inven.co.kr/upload/2016/06/27/data/i11531783056.jpg$image
+||jumphackers.com/v2/html/freelecture/freelecture_iframe_basic_content.php?outsite=ht
+||adv.khan.co.kr/RealMedia/ads/adstream_sx.ads/sports.khan.co.kr/mainpage@Right1$subdocument
+||img.koreatimes.com/banner/$image
+||101.livere.co.kr/images/ver8/sticker/sticker_guide_btn.png
+||img1.matcl.com/files/thumbnails/363/704/002/428x250.crop.jpg
+||damovie.dn.naver.com/ad3/
+||newsjoy.co.kr/images/banner_topleft.gif
+||newsjoy.co.kr/images/banner_right.jpg
+||quasarzone.co.kr/data/file/qsz_banner/$image
+||image.sportsseoul.com/2016/06/17/edit/20160617100650_10.jpg$image
+||tinman.co.kr/board/data/file/banner/$image
+||image.tvdaily.co.kr/newimg/site2.gif$image
+||imp.valuepotion.com/mimp
+||youtube.com/embed/xPm8ItxxNPc?autoplay=1$subdocument,domain=champstudy.com
+||m.zdnet.co.kr/-1
+apkmirror.com##.OUTBRAIN
+mtvdaily.asiae.co.kr##center
+mtvdaily.asiae.co.kr###news_content:nth-of-type(5)
+mtvdaily.asiae.co.kr###news_content:nth-of-type(6)
+mtvdaily.asiae.co.kr###news_content:nth-of-type(7)
+mtvdaily.asiae.co.kr###news_content:nth-of-type(10)
+mtvdaily.asiae.co.kr###news_content:nth-of-type(12)
+tvdaily.asiae.co.kr##body > div:nth-of-type(2) > table:nth-of-type(9) > tbody > tr:nth-of-type(2)
+tvdaily.asiae.co.kr##TABLE[style="margin-right:10px"][width="200"][height="200"][align="left"]
+tvdaily.asiae.co.kr##TD[style="padding-top:300px"]
+mstoo.asiae.co.kr##.ad_m05
+mstoo.asiae.co.kr##.ad_m07
+mstoo.asiae.co.kr##.btm_banner
+mstoo.asiae.co.kr###livereHome
+stoo.asiae.co.kr##.ad_240x240
+cwstoo.asiae.co.kr##.ad_premium
+cwstoo.asiae.co.kr##.ad_shoopng
+cwstoo.asiae.co.kr###livereStickerGuideBtn
+champstudy.com###main_container > .sub_main > .contents > .js-movie-quick.layer_movie_wrap0610
+champstudy.com###header_new > .pos-r.top_linebox
+champstudy.com###lineBannerBottom > .bnr_footer_160330 > .right_bg
+champstudy.com###lineBannerBottom > .bnr_footer_160330 > .left_bg
+m.cine21.com##.hanad_area
+cine21.com##.mgB40.banner_han_230x180
+cine21.com##.banner_iframe_wrap
+clien.net##.content_hd_rgt
+sports.media.daum.net###banner250wing
+sports.media.daum.net##.wing_bnr2
+m.webtoon.daum.net##.link_ad
+m.webtoon.daum.net###promotionBnr
+m.webtoon.daum.net###valuepotionBotWrap
+m.webtoon.daum.net###valuepotionWrap1007
+m.webtoon.daum.net###eventBanner
+webtoon.daum.net##.link_bnrbig.link_bnr
+webtoon.daum.net##.top_banner
+webtoon.daum.net###midBnr
+webtoon.daum.net###botBnr
+m.daum.net##DIV[id^="bnrAd_channel_"]
+m.daum.net##.box_bnr.box_g
+tvpot.daum.net##.dummy_panel_logo_list
+tvpot.daum.net###adSideBar1
+m.ddaily.co.kr##.mo_ban
+ddaily.co.kr##.section_h13
+ddaily.co.kr##.section_3 > a > img[width="270"][height="80"]
+dealbada.com###aside > a > img
+m.donga.com##DIV[style="height:50px; width:100%;align:center;position:fixed; bottom:0;z-index:9999;"]
+dogdrip.net##.adbox
+econovill.com##div[style="float:right; width:250px;height:250px; margin-left:10px;"]
+econovill.com##DIV[style="margin-top:10px;"]
+m.hackers.co.kr###app_down_wrap > .app_down
+m.hackers.co.kr###container > section:nth-of-type(1) > .app_download_box
+m.hackers.co.kr##.small_banner
+m.hackers.co.kr##.banner_top
+m.hackers.co.kr###container > .board_view > .widget-banner > img
+m.hackers.co.kr##.board_bottom_banner
+m.hackers.co.kr###container > .board_view > a > img[style="width:57.8125%; display:block; margin:0 auto;"]
+m.hackers.co.kr##.focus_title
+hackers.co.kr###floor_layer_pop
+hackers.co.kr###poplayer81 > .popupbody
+hackers.co.kr###main_breand_layer
+hackers.co.kr###topLayer
+hackers.co.kr###container > .content > .content_box > iframe
+hackers.co.kr##.text_book_area
+hackers.co.kr###_hidden_layer_ > .popupwrap
+hackers.co.kr###container > .content > .content_box > div:nth-of-type(5)
+hackers.co.kr###bbsview > .bottom:nth-of-type(3)
+hackers.co.kr###container > .content > .content_box > div:nth-of-type(4)
+m.humoruniv.com###cauly_nad2
+m.humoruniv.com###comment > ul > table[bgcolor="#dddddd"][width="100%"]
+hwbattle.com###main_sponser
+hwbattle.com###partner
+insightsemicon.com##.right_bnr
+inven.co.kr###rms_banner2
+inven.co.kr###rms_list1
+inven.co.kr###eventBox
+inven.co.kr###preregiBox
+inven.co.kr###kakaoGame
+inven.co.kr###modRightImart
+inven.co.kr##.imart-w167.imart
+inven.co.kr##DIV[id$="MiddleAd"]
+m.itdaily.kr###articleBody > .word_break.body > div
+fnnews.com##.fn_right_s_banner
+fnnews.com##.fn_left_s_banner
+m.fnnews.com##DIV[style="padding: 15px 0"]
+koreatimes.com##.community_S
+koreatimes.com##.ad_paidS
+koreatimes.com##.jobkoreausa
+koreatimes.com##DIV[class^="bn_"]
+koreatimes.com##DIV[id^="bn_"]
+quasarzone.co.kr##.pull-right.text-center.header-banner
+quasarzone.co.kr###rqlsfgpnhjduetomkic
+quasarzone.co.kr##.h20
+bbs.ruliweb.com###ad_main_top_05
+bbs.ruliweb.com###ad_main_top_11
+ruliweb.com###ad_main_ti
+m.seoul.co.kr###Tab_enter
+m.seoul.co.kr###Tab_current
+m.seoul.co.kr###Tab_movieplaza
+m.seoul.co.kr###Tab_life
+m.seoul.co.kr##.react_right_v
+stv.seoul.co.kr###withpang_p
+stv.seoul.co.kr##div[style="clear:both;float:left;display:inline-block;width:320px;height:250px;text-align:center;"]
+stv.seoul.co.kr##div[style="float:right;display:inline-block;width:320px;height:250px;text-align:center;"]
+m.sports.khan.co.kr###mezzo_ad
+m.sports.khan.co.kr##.ad_thumb_btm
+sports.khan.co.kr##.ad_bigbanner
+sports.khan.co.kr##.ad_movFocus2
+sports.khan.co.kr##.ad_two
+matcl.com##.xe-widget-wrapper[style="float: right; width: 428px; border-width: 0px; border-style: solid; border-color: rgb(204, 204, 204); margin: 0px 0px 10px; background-image: none; background-repeat: repeat; background-position: 0% 0%; height: 250px;"]
+m.mbn.co.kr##.fbanner
+m.mbn.co.kr###bottomBannerAdop
+star.mbn.co.kr##.right_image
+star.mbn.co.kr###article > table[width="670"][style="margin-bottom:30px"]
+star.mbn.co.kr###livereContentsContainer
+m.blog.naver.com##._adPost.end_pl
+m.comic.naver.com###form > .other_webtoon:nth-of-type(5)
+sports.news.naver.com##.sports_home_da
+newsjoy.co.kr##.top-banner-left
+newsjoy.co.kr##.banner-horizon
+newsjoy.co.kr##.bor-top01
+newsjoy.co.kr##.mb-20
+newsjoy.co.kr###realtime-keyword-wrap
+m.sportschosun.com##iframe[style=" z-index:-1;width:100%; height:100px;"]
+m.sportschosun.com###AD_LIVE_AREA_19022764
+m.sportschosun.com###caulyad
+m.sportschosun.com##.ap
+sports.chosun.com##.bn
+sportsseoul.com##DIV[style="height:250px;"]
+sportsseoul.com##DIV[id^="ad_"]
+sportsseoul.com##SPAN[style="margin-top:30px; float:right;padding-right:1px;margin-left:5px;display:inline;z-index:1;"]
+sportsseoul.com##DIV[style="width:100%;height:90px;"]
+tinman.co.kr###container > .snb > ul > li:nth-of-type(5)
+tinman.co.kr###container > .snb > ul > li:nth-of-type(6)
+metalmuscle.tistory.com##div[style="float:right;margin:0 0 10px 10px;width:336px;height:280px"]
+tvreport.co.kr###realTop
+tvreport.co.kr##div[style="position:relative;height:130px"]
+m.zdnet.co.kr## .sub_view_cont > DIV[style="top:0px; position:relative; float:right; width:200px; height:200px; padding:0 0 10px 10px;"]
+m.zdnet.co.kr###wrap > .sub_container > .sub_view_cont > .img
+
+
 www.sisaweek.com###n2s_mg_div_sisaweektjt_31467209782 > iframe
 www.sisaweek.com###n2s_mg_div_sisaweektjt_31467209782
 www.asiatoday.co.kr###section_main > .view_ad_658 > div
