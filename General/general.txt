@@ -820,6 +820,52 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+www.you-times.com###mbr
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(4) > .adpay- > img
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(4)
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(5) > .adpay- > img
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(5)
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(6) > .adpay- > img
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(6)
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(7) > .adpay- > img
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(7)
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(8) > .adpay- > img
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(8)
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(9) > .adpay- > img
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(9)
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(10) > .adpay- > img
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(10)
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(11) > .adpay- > img
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(11)
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(12) > .adpay- > img
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(12)
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(13) > .adpay- > img
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(13)
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(14) > .adpay- > img
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(14)
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(15) > .adpay- > img
+www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(15)
+www.you-times.com###main_banner_div
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(12) > .adpay- > img
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(12)
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(11) > .adpay- > img
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(11)
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(10) > .adpay- > img
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(9) > .adpay- > img
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(9)
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(8) > .adpay- > img
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(8)
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(10)
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(7) > .adpay- > img
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(7)
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(6) > .adpay- > img
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(6)
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(5) > .adpay- > img
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(5)
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(4) > .adpay- > img
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(4)
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(3) > .adpay- > img
+www.you-times.com##.mw-group-page > tbody > tr > td > table:nth-of-type(2) > tbody > tr:nth-of-type(1) > td:nth-of-type(1) > div:nth-of-type(3)
 yasungin5.com###hd_pops_10
 yasungin5.com###leftbanner
 yasungin5.com###rightbanner
