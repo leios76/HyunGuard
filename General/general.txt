@@ -2,13 +2,85 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160702
+! Version: 20160705
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+http://naver-smr.smartmediarep.com/
+bbs.ruliweb.com###ad_news_read_01
+bbs.ruliweb.com###ad_news_list_04
+bbs.ruliweb.com###ad_news_read_02
+bbs.ruliweb.com###ad_board_read_09
+bbs.ruliweb.com###ad_board_read_02
+bbs.ruliweb.com###ad_board_read_03
+www.ruliweb.com###ad_main_top_01
+www.ruliweb.com###ad_main_top_06
+www.ruliweb.com###ad_main_top_08
+www.ruliweb.com###aswift_1
+www.ruliweb.com###aswift_1_anchor
+www.ruliweb.com###ad_main_top_09 > .adsbygoogle
+www.ruliweb.com###ad_main_top_09
+www.ruliweb.com###ad_main_top_11
+www.ruliweb.com###aswift_0
+www.ruliweb.com###ad_main_top_02 > .adsbygoogle
+www.ruliweb.com###ad_main_top_02
+www.ruliweb.com###ad_main_top_03
+www.ruliweb.com###ad_main_top_05
+||http://hlpnowp-c.com/us/frelot/money-survey.php
+sports.news.naver.com###da_300250 > a[href^="http://ad.naver.com/adclick"] > img[alt="광고 이미지"]
+sports.news.naver.com###content > .home_wrap > .home_grid > .home_da2
+||coolenjoy.kr/banner/
+||cooln.kr/banner/
+||cooln.net/banner/
+||pds.inven.co.kr/upload/2016/06/22/intro/i10928928855.png
+||pds.inven.co.kr/upload/2016/06/22/intro/i10935405655.png
+||pds.inven.co.kr/upload/2016/06/22/intro/i10953543381.png
+||pds.inven.co.kr/upload/2016/06/22/intro/i10959568614.png
+||pds.inven.co.kr/upload/2016/06/22/intro/i10965855459.png
+||pds.inven.co.kr/upload/2016/06/22/intro/i11021251464.png
+||pds.inven.co.kr/upload/2016/06/28/intro/i12466751959.png
+||pds.inven.co.kr/upload/2016/06/16/intro/i10944772290.png
+||pds.inven.co.kr/upload/2016/06/14/intro/i13319152561.png
+||pds.inven.co.kr/upload/2016/06/01/intro/i14057223323.png
+||pds.inven.co.kr/upload/2016/06/20/intro/i13549276661.jpg
+||pds.inven.co.kr/upload/2016/06/29/intro/i10571377124.jpg
+||pds.inven.co.kr/upload/2016/06/28/intro/i14094338318.jpg
+||pds.inven.co.kr/upload/2016/06/27/intro/i12409704690.jpg
+||pds.inven.co.kr/upload/2016/06/24/intro/i13096163483.jpg
+||pds.inven.co.kr/upload/2016/06/17/intro/i11544113434.jpg
+||pds.inven.co.kr/upload/2016/06/13/intro/i13599354266.jpg
+||pds.inven.co.kr/upload/2016/06/20/intro/i14040394523.jpg
+stoo.asiae.co.kr##.ad_shoopng
+asiae.co.kr##.ad_hotclick
+clien.net###content > .board_head > .head_btn
+cooln.kr###logo_top3
+cooln.kr###jb-sidebar-right
+cooln.net###jb-sidebar-right
+cooln.net##.tab
+cooln.net##.banner04.simple_banner_wrap
+cooln.net###logo_top3
+coolenjoy.kr##.tab
+coolenjoy.kr##.banner04.simple_banner_wrap
+coolenjoy.kr###logo_top3
+coolenjoy.kr###jb-sidebar-right
+coolenjoy.net###jb-sidebar-right
+m.mediatoday.co.kr##DIV[style="float:left;margin:.3em 1em .2em 0;width:200px;height:200px;background-color:#f4f4f4"]
+||naver.com/likeIt/v1/likeItServiceContentList.jsonp
+||naver.com/videoCenter/null/likeIt/v1/likeItContent.jsonp
+||apis.naver.com/commentBox/cbox/web_naver_list_jsonp.json
+||logapi.tvcast.naver.com/api/open/stats/
+||static.cbox.naver.net/js/cbox.core.js
+||tvcast.naver.com/fragment/*/promotionBanner
+||tvcast.naver.com/fragment/*/banner
+||static.gn.naver.net/js/clickcrD.js
+||logapi.tvcast.naver.com/
+||gn.naver.com/getLoginStatus.nhn
+||static.nid.naver.com/enclogin/nid_tpre.html
+||cc.naver.com/crossdomain.xml
+||naver-smr.smartmediarep.com/smc/naver/single/eng/0/smr/contents/video
 ||compass.adop.cc/RD/e7d1921b-bb98-4787-8f46-62be48e60ace
 ||mtvdaily.asiae.co.kr/img/movie.jpg
 ||tvdaily.asiae.co.kr/mainimg/mynews.gif$image
@@ -217,8 +289,6 @@ tvreport.co.kr###realTop
 tvreport.co.kr##div[style="position:relative;height:130px"]
 m.zdnet.co.kr## .sub_view_cont > DIV[style="top:0px; position:relative; float:right; width:200px; height:200px; padding:0 0 10px 10px;"]
 m.zdnet.co.kr###wrap > .sub_container > .sub_view_cont > .img
-
-
 www.sisaweek.com###n2s_mg_div_sisaweektjt_31467209782 > iframe
 www.sisaweek.com###n2s_mg_div_sisaweektjt_31467209782
 www.asiatoday.co.kr###section_main > .view_ad_658 > div
@@ -1084,6 +1154,8 @@ www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://ditto1004.c
 @@||http://static.danawa.com/js/
 @@||http://wcs.naver.net/wcslog.js
 @@/wcslog.js$script,domain=m.tvcast.naver.com
+@@||http://google-analytics.com/collect
+
 
 !-----------여기서부터 코르셋 필터의 Fork입니다. https://code.google.com/archive/p/abp-corset/ -----------!
 !------------------------------------코르셋 : 일반 차단 필터------------------------------------------!
@@ -1884,7 +1956,6 @@ news.donga.com##.journalLog
 news.donga.com##.pictorialIframe
 news.donga.com##.popularPic.clearfix
 news.donga.com##.starPhoto
-news.naver.com##.nav2
 news.sbs.co.kr##.addArea
 news.yahoo.com###rv1
 newsis.com###div_adnewsis
@@ -2440,3 +2511,6 @@ http://log.$script,image,subdocument,object_subrequest
 ||youtube.com/s?
 !------------------------------------코르셋 프라이버시 : 추적 방지 헤더-----------------------------!
 *$image,~image,donottrack
+
+!----------제거된 필터------------!
+! news.naver.com##.nav2
