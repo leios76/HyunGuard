@@ -9,6 +9,55 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+||coolenjoy.kr/banner/
+||cooln.kr/banner/
+||cooln.net/banner/
+||pds.inven.co.kr/upload/2016/06/22/intro/i10928928855.png
+||pds.inven.co.kr/upload/2016/06/22/intro/i10935405655.png
+||pds.inven.co.kr/upload/2016/06/22/intro/i10953543381.png
+||pds.inven.co.kr/upload/2016/06/22/intro/i10959568614.png
+||pds.inven.co.kr/upload/2016/06/22/intro/i10965855459.png
+||pds.inven.co.kr/upload/2016/06/22/intro/i11021251464.png
+||pds.inven.co.kr/upload/2016/06/28/intro/i12466751959.png
+||pds.inven.co.kr/upload/2016/06/16/intro/i10944772290.png
+||pds.inven.co.kr/upload/2016/06/14/intro/i13319152561.png
+||pds.inven.co.kr/upload/2016/06/01/intro/i14057223323.png
+||pds.inven.co.kr/upload/2016/06/20/intro/i13549276661.jpg
+||pds.inven.co.kr/upload/2016/06/29/intro/i10571377124.jpg
+||pds.inven.co.kr/upload/2016/06/28/intro/i14094338318.jpg
+||pds.inven.co.kr/upload/2016/06/27/intro/i12409704690.jpg
+||pds.inven.co.kr/upload/2016/06/24/intro/i13096163483.jpg
+||pds.inven.co.kr/upload/2016/06/17/intro/i11544113434.jpg
+||pds.inven.co.kr/upload/2016/06/13/intro/i13599354266.jpg
+||pds.inven.co.kr/upload/2016/06/20/intro/i14040394523.jpg
+stoo.asiae.co.kr##.ad_shoopng
+asiae.co.kr##.ad_hotclick
+clien.net###content > .board_head > .head_btn
+cooln.kr###logo_top3
+cooln.kr###jb-sidebar-right
+cooln.net###jb-sidebar-right
+cooln.net##.tab
+cooln.net##.banner04.simple_banner_wrap
+cooln.net###logo_top3
+coolenjoy.kr##.tab
+coolenjoy.kr##.banner04.simple_banner_wrap
+coolenjoy.kr###logo_top3
+coolenjoy.kr###jb-sidebar-right
+coolenjoy.net###jb-sidebar-right
+m.mediatoday.co.kr##DIV[style="float:left;margin:.3em 1em .2em 0;width:200px;height:200px;background-color:#f4f4f4"]
+||naver.com/likeIt/v1/likeItServiceContentList.jsonp
+||naver.com/videoCenter/null/likeIt/v1/likeItContent.jsonp
+||apis.naver.com/commentBox/cbox/web_naver_list_jsonp.json
+||logapi.tvcast.naver.com/api/open/stats/
+||static.cbox.naver.net/js/cbox.core.js
+||tvcast.naver.com/fragment/*/promotionBanner
+||tvcast.naver.com/fragment/*/banner
+||static.gn.naver.net/js/clickcrD.js
+||logapi.tvcast.naver.com/
+||gn.naver.com/getLoginStatus.nhn
+||static.nid.naver.com/enclogin/nid_tpre.html
+||cc.naver.com/crossdomain.xml
+||naver-smr.smartmediarep.com/smc/naver/single/eng/0/smr/contents/video
 ||compass.adop.cc/RD/e7d1921b-bb98-4787-8f46-62be48e60ace
 ||mtvdaily.asiae.co.kr/img/movie.jpg
 ||tvdaily.asiae.co.kr/mainimg/mynews.gif$image
@@ -217,8 +266,6 @@ tvreport.co.kr###realTop
 tvreport.co.kr##div[style="position:relative;height:130px"]
 m.zdnet.co.kr## .sub_view_cont > DIV[style="top:0px; position:relative; float:right; width:200px; height:200px; padding:0 0 10px 10px;"]
 m.zdnet.co.kr###wrap > .sub_container > .sub_view_cont > .img
-
-
 www.sisaweek.com###n2s_mg_div_sisaweektjt_31467209782 > iframe
 www.sisaweek.com###n2s_mg_div_sisaweektjt_31467209782
 www.asiatoday.co.kr###section_main > .view_ad_658 > div
