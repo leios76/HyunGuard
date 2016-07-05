@@ -9,6 +9,11 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+www.ssulwar.com###bd_110_215104 > .clear.rd > .clear.rd_body > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(1)
+www.ssulwar.com###bd_110_215104 > .clear.rd > .clear.rd_body > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(3) > iframe
+www.ssulwar.com###column > .ext:nth-of-type(1) > div:nth-of-type(2) > iframe
+www.ssulwar.com###bd_110_215104 > .clear.rd > .clear.rd_body > div:nth-of-type(5)
+www.ssulwar.com###tj_adflip_flip_wrap
 http://naver-smr.smartmediarep.com/
 bbs.ruliweb.com###ad_news_read_01
 bbs.ruliweb.com###ad_news_list_04
