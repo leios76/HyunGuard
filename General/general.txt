@@ -18,8 +18,6 @@ savedrip.me###sidebar > .panel-default.panel:nth-of-type(3) > div
 savedrip.me###sidebar > .panel-default.panel:nth-of-type(4) > p
 savedrip.me###sidebar > .panel-default.panel:nth-of-type(3)
 savedrip.me###sidebar > .panel-default.panel:nth-of-type(4)
-savedrip.me###bd_1290_165333 > .footer_text > p
-savedrip.me###bd_1290_165333 > .footer_text > center
 savedrip.me###footer > .container > p
 gall.dcinside.com###wif_adx_iframe
 gall.dcinside.com###wif_adx_banner_wrap
