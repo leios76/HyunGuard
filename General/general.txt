@@ -28,7 +28,7 @@ www.ssulwar.com###bd_110_215104 > .clear.rd > .clear.rd_body > div:nth-of-type(1
 www.ssulwar.com###column > .ext:nth-of-type(1) > div:nth-of-type(2) > iframe
 www.ssulwar.com###bd_110_215104 > .clear.rd > .clear.rd_body > div:nth-of-type(5)
 www.ssulwar.com###tj_adflip_flip_wrap
-http://naver-smr.smartmediarep.com/
+||naver-smr.smartmediarep.com/
 bbs.ruliweb.com###ad_news_read_01
 bbs.ruliweb.com###ad_news_list_04
 bbs.ruliweb.com###ad_news_read_02
@@ -40,15 +40,13 @@ www.ruliweb.com###ad_main_top_06
 www.ruliweb.com###ad_main_top_08
 www.ruliweb.com###aswift_1
 www.ruliweb.com###aswift_1_anchor
-www.ruliweb.com###ad_main_top_09 > .adsbygoogle
 www.ruliweb.com###ad_main_top_09
 www.ruliweb.com###ad_main_top_11
 www.ruliweb.com###aswift_0
-www.ruliweb.com###ad_main_top_02 > .adsbygoogle
 www.ruliweb.com###ad_main_top_02
 www.ruliweb.com###ad_main_top_03
 www.ruliweb.com###ad_main_top_05
-||http://hlpnowp-c.com/us/frelot/money-survey.php
+||hlpnowp-c.com/us/frelot/money-survey.php
 sports.news.naver.com###da_300250 > a[href^="http://ad.naver.com/adclick"] > img[alt="광고 이미지"]
 sports.news.naver.com###content > .home_wrap > .home_grid > .home_da2
 ||coolenjoy.kr/banner/
@@ -89,9 +87,7 @@ coolenjoy.net###jb-sidebar-right
 m.mediatoday.co.kr##DIV[style="float:left;margin:.3em 1em .2em 0;width:200px;height:200px;background-color:#f4f4f4"]
 ||naver.com/likeIt/v1/likeItServiceContentList.jsonp
 ||naver.com/videoCenter/null/likeIt/v1/likeItContent.jsonp
-||apis.naver.com/commentBox/cbox/web_naver_list_jsonp.json
 ||logapi.tvcast.naver.com/api/open/stats/
-||static.cbox.naver.net/js/cbox.core.js
 ||tvcast.naver.com/fragment/*/promotionBanner
 ||tvcast.naver.com/fragment/*/banner
 ||static.gn.naver.net/js/clickcrD.js
@@ -99,7 +95,6 @@ m.mediatoday.co.kr##DIV[style="float:left;margin:.3em 1em .2em 0;width:200px;hei
 ||gn.naver.com/getLoginStatus.nhn
 ||static.nid.naver.com/enclogin/nid_tpre.html
 ||cc.naver.com/crossdomain.xml
-||naver-smr.smartmediarep.com/smc/naver/single/eng/0/smr/contents/video
 ||compass.adop.cc/RD/e7d1921b-bb98-4787-8f46-62be48e60ace
 ||mtvdaily.asiae.co.kr/img/movie.jpg
 ||tvdaily.asiae.co.kr/mainimg/mynews.gif$image
