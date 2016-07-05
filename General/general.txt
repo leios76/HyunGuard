@@ -1956,7 +1956,6 @@ news.donga.com##.journalLog
 news.donga.com##.pictorialIframe
 news.donga.com##.popularPic.clearfix
 news.donga.com##.starPhoto
-news.naver.com##.nav2
 news.sbs.co.kr##.addArea
 news.yahoo.com###rv1
 newsis.com###div_adnewsis
@@ -2512,3 +2511,6 @@ http://log.$script,image,subdocument,object_subrequest
 ||youtube.com/s?
 !------------------------------------코르셋 프라이버시 : 추적 방지 헤더-----------------------------!
 *$image,~image,donottrack
+
+!----------제거된 필터------------!
+! news.naver.com##.nav2
