@@ -9,6 +9,15 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+||boannews.com/images/banner/$image
+m.boannews.com##.banner-zone
+boannews.com###livereContentsContainer
+boannews.com###media_right_bn_area
+boannews.com###right_top_banner
+boannews.com###powerbiz_area
+boannews.com###main_banner_B
+boannews.com###main_left_banner
+m.chosun.com##iframe[style="float:right;margin:0 0 10px 10px;"]
 gall.dcinside.com###aswift_1
 gall.dcinside.com###dgn_gallery_wrap > ._BTN_AD_
 gall.dcinside.com###list_right_ad
