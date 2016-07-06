@@ -9,13 +9,18 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+||boannews.com/images/banner/$image
+m.boannews.com##.banner-zone
+boannews.com###livereContentsContainer
+boannews.com###media_right_bn_area
+boannews.com###right_top_banner
+boannews.com###powerbiz_area
+boannews.com###main_banner_B
+boannews.com###main_left_banner
+m.chosun.com##iframe[style="float:right;margin:0 0 10px 10px;"]
 gall.dcinside.com###aswift_1
 gall.dcinside.com###dgn_gallery_wrap > ._BTN_AD_
 gall.dcinside.com###list_right_ad
-m.ruliweb.com###header > .row.ad_wrapper
-m.ruliweb.com###main_page > .main_center > .main_center_inner > .row.ad_wrapper:nth-of-type(4)
-m.ruliweb.com###main_page > .main_center > .main_center_inner > .row.ad_wrapper:nth-of-type(16)
-m.ruliweb.com###main_page > .main_center > .main_center_inner > .row.ad_wrapper:nth-of-type(11)
 m.ruliweb.com##.row.ad_wrapper
 savedrip.me###dialoga
 savedrip.me##.fancybox-opened.fancybox-type-inline.fancybox-desktop.fancybox-wrap > .fancybox-skin > .fancybox-close.fancybox-item
@@ -499,7 +504,6 @@ www.yonhapnews.co.kr###content > .contents > .contents02 > .list-style02.content
 www.yonhapnews.co.kr###content > .contents > .contents02 > .banner-box06.list-style02.contents-box
 www.yonhapnews.co.kr###content > .contents > .contents02 > .aside-banner.contents-box > ul
 www.yonhapnews.co.kr###content > .contents > .contents02 > .aside-banner.contents-box
-||t1.daumcdn.net/section/oc/
 ||giantt.co.kr/wp-content/uploads/2016/03/themeforest-ranking.gif
 ||i.imgur.com/orYIJgz.jpg$image
 ||pds.inven.co.kr/upload/2016/06/16/intro/i12764978750.jpg
