@@ -12,10 +12,6 @@
 gall.dcinside.com###aswift_1
 gall.dcinside.com###dgn_gallery_wrap > ._BTN_AD_
 gall.dcinside.com###list_right_ad
-m.ruliweb.com###header > .row.ad_wrapper
-m.ruliweb.com###main_page > .main_center > .main_center_inner > .row.ad_wrapper:nth-of-type(4)
-m.ruliweb.com###main_page > .main_center > .main_center_inner > .row.ad_wrapper:nth-of-type(16)
-m.ruliweb.com###main_page > .main_center > .main_center_inner > .row.ad_wrapper:nth-of-type(11)
 m.ruliweb.com##.row.ad_wrapper
 savedrip.me###dialoga
 savedrip.me##.fancybox-opened.fancybox-type-inline.fancybox-desktop.fancybox-wrap > .fancybox-skin > .fancybox-close.fancybox-item
