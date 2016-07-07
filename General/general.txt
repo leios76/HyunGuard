@@ -2,13 +2,34 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160708b9
+! Version: 20160708b10
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+www.koreadaily.com###divLayerAd_154035
+www.koreadaily.com###frame_right > .subhotdeal
+www.koreadaily.com##.top > div:nth-of-type(4) > div:nth-of-type(1)
+www.koreadaily.com##.top > div:nth-of-type(4)
+www.koreadaily.com###frame_right > .right_b_dfp_banner
+www.koreadaily.com###frame_right > .right_b_banner
+www.koreadaily.com###aswift_1
+www.koreadaily.com###aswift_1_anchor
+www.koreadaily.com###ad_googlebanner
+www.koreadaily.com###frame_center > table > tbody > tr > td > div:nth-of-type(9)
+www.koreadaily.com###google_ad2 > div
+www.koreadaily.com###google_ad2
+www.koreadaily.com##.footer > table > tbody > tr > td
+www.koreadaily.com###divSearchAdScroll > a[href^="http://ad.koreadaily.com/ad.dll/click"]
+www.koreadaily.com###divLayerAd_HOME > div:nth-of-type(2)
+www.koreadaily.com##.wrap > .body > .right > .block1 > .block1right > .new_ad1
+www.koreadaily.com##.wrap > .body > .right > .block1 > .block1right
+www.koreadaily.com##.wrap > .body > .right > .college_adbanner > .new_ad2
+www.koreadaily.com##.wrap > .body > .right > .rbottom > .new_ad3
+www.koreadaily.com##.wrap > .bottom > .line1 > .deal_scroll
+www.koreadaily.com##.wrap > .bottom > .line1 > .line2 > .coupon > a[href^="http://ad.koreadaily.com/ad.dll/click"]
 news.tf.co.kr##.mg_t30.subWrapper > .subRight > .mg_b30:nth-of-type(2)
 news.tf.co.kr##.readTopAd
 news.tf.co.kr##.tBorder.subWrapper > .readRight > .mg_b30:nth-of-type(2) > iframe
