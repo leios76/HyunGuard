@@ -9,6 +9,8 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+agora.media.daum.net###SponsorBarWrap
+agora.media.daum.net###RIGHT_SPACE_BANNER
 m.agora.daum.net###daumAd > div > div > a[href^="http://analytics.ad.daum.net/act"]
 m.agora.daum.net###daumAd
 www.zdnet.co.kr###divMenu2
