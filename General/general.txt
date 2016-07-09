@@ -9,6 +9,8 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+www.naver.com###veta_top
+www.naver.com###veta_branding
 www.hani.co.kr###ad_top
 www.hani.co.kr###ad_kisa_r02 > iframe
 www.hani.co.kr###a-right-scroll-in > .padding_bottom
