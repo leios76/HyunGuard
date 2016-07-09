@@ -9,6 +9,61 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+||58.120.226.147/files/290/mALemgpLyeO3.gif
+||image3.gamechosun.co.kr/_c_focus/global/hp_bn_r.gif$image
+||image.gamechosun.co.kr/game/webzine/ad_main/ad_df_20160330.jpg$image
+||inews24.com/nexcom/2016/images/banner/$image
+||mediainnews.com/default/image/20150212_01.gif$image
+||mediainnews.com/default/image/20140714_img01.jpg$image
+||mediainnews.com/default/image/20141127.jpg$image
+||mediainnews.com/default/image/20140714_img02.jpg$image
+||image.news1.kr/system/resource/news1_www/images/external_service/comic/banner_comix.gif$image
+||lego.zumst.com/resources/current/images/banner/filler/shopping_filler.jpg
+androidside.com##.mw_basic_view_content > div:nth-of-type(1) > table
+m.dailian.co.kr###ad_layer110
+m.etnews.com##DIV[style="margin:4px 0 4px 0px;padding:0px;height:59px;border:0px;overflow:hidden;width:100%"]
+gamechosun.co.kr##.sky_bn_wrap
+gamefocus.co.kr##DIV[style="width:200; height=80; border-style:solid; border-width:1px; border-color:#c0coc0;"]
+gamefocus.co.kr##DIV[style="width:198; height=80; border-style:solid; border-width:1px; border-color:#FFFFFF;"]
+gamefocus.co.kr##DIV[style="height:800px;width:260px;"]
+gamefocus.co.kr##DIV[style="padding:10px;height:450px;width:665px;"]
+gamefocus.co.kr##DIV[style^="width:450; height="]
+gamefocus.co.kr##DIV[style$="; border-style:solid; border-width:1px; border-color:#c0c0c0;"]
+gamefocus.co.kr##DIV[style$="; border-style:solid; border-width:1px; border-color:#C0C0C0;"]
+imbc.gamemeca.com##.ads_title_bottom
+m.inews24.com##.ad_myadcom
+m.inews24.com##DIV[style="height:75px; background-color:#ebebeb;"]
+inews24.com##.main_top_banner
+m.kukinews.com###sf_plus_modal
+kukinews.com##div[style="float:left; margin-right:10px;"]
+mediainnews.com###livereContentsContainer
+mediainnews.com###flash_obj
+mediainnews.com###cont_center > table:nth-of-type(1)
+m.news1.kr##.ads_zone
+m.news1.kr##.ads_netizen_hotissue
+m.news1.kr##.ads_zone.ads_dreamsearch1
+m.news1.kr##.ads_article_bottom.ads_livere
+m.news1.kr##.render_end.ads_article4
+m.news1.kr##iframe[src^="/template/ads/"]
+news1.kr##DIV[style="float:right;width:300px;height:250px;margin-bottom:12px;"]
+news1.kr###adiBanner
+news1.kr##div[style="margin: 0 auto; height: 270px; display: block; padding-top: 10px;"]
+news1.kr###dablewidget_AOoR98Xy
+news1.kr###article_body_content > a[href="http://comic.news1.kr"]
+news1.kr##.clear
+news1.kr###article_body_content > .tit > div
+news1.kr##.aditop.adistory
+ohmynews.com###livereContentsContainer
+star.ohmynews.com##.ad-250x250
+ssulportal.com##.mbanner
+ssulportal.com##center
+m.stardailynews.co.kr###photoUNDERAD_area_iframe
+m.stardailynews.co.kr###p_under_photo
+yagumania.com##.right
+yagumania.com###ad_comment_bottom
+yagumania.com###ad_view_right1
+yagumania.com###cto_async_content
+zum.com###adx_zum_main_shoppingboxbottom2
 www.ziksir.com###right_banner
 www.ziksir.com###main-cont > .sub-wrap > .page-cont > div:nth-of-type(3) > .ziksir_bnr_bottomrecom
 www.ziksir.com###detail-area > div:nth-of-type(1) > .ziksir_bnr_top
