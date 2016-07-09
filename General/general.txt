@@ -970,6 +970,8 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+mingkyaa.com###layer_popup1
+mingkyaa.com###footer > p:nth-of-type(1)
 www.you-times.com###mbr
 www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(4) > .adpay- > img
 www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(4)
