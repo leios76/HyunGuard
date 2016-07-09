@@ -2,13 +2,83 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160706
+! Version: 20160708
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+www.ziksir.com###right_banner
+www.ziksir.com###main-cont > .sub-wrap > .page-cont > div:nth-of-type(3) > .ziksir_bnr_bottomrecom
+www.ziksir.com###detail-area > div:nth-of-type(1) > .ziksir_bnr_top
+jtbc.joins.com##.index_doc.doc > .doc_area > .container > .secondary > .ad_v2.ad
+news.jtbc.joins.com###articlebody > .article_content > .article_list_wrap
+news.jtbc.joins.com###right_banner250
+news.jtbc.joins.com###form1 > .article_main > .section_contents.article_modules > .articleadnetworkbanner
+news.jtbc.joins.com###form1 > .secondary > .ad_banner_250x250:nth-of-type(4)
+news.jtbc.joins.com###form1 > .secondary > .sponsor_link_combine
+news.jtbc.joins.com###right_top_ad
+www.koreadaily.com###divLayerAd_154035
+www.koreadaily.com###frame_right > .subhotdeal
+www.koreadaily.com##.top > div:nth-of-type(4) > div:nth-of-type(1)
+www.koreadaily.com##.top > div:nth-of-type(4)
+www.koreadaily.com###frame_right > .right_b_dfp_banner
+www.koreadaily.com###frame_right > .right_b_banner
+www.koreadaily.com###aswift_1
+www.koreadaily.com###aswift_1_anchor
+www.koreadaily.com###ad_googlebanner
+www.koreadaily.com###frame_center > table > tbody > tr > td > div:nth-of-type(9)
+www.koreadaily.com###google_ad2 > div
+www.koreadaily.com###google_ad2
+www.koreadaily.com##.footer > table > tbody > tr > td
+www.koreadaily.com###divSearchAdScroll > a[href^="http://ad.koreadaily.com/ad.dll/click"]
+www.koreadaily.com###divLayerAd_HOME > div:nth-of-type(2)
+www.koreadaily.com##.wrap > .body > .right > .block1 > .block1right > .new_ad1
+www.koreadaily.com##.wrap > .body > .right > .block1 > .block1right
+www.koreadaily.com##.wrap > .body > .right > .college_adbanner > .new_ad2
+www.koreadaily.com##.wrap > .body > .right > .rbottom > .new_ad3
+www.koreadaily.com##.wrap > .bottom > .line1 > .deal_scroll
+www.koreadaily.com##.wrap > .bottom > .line1 > .line2 > .coupon > a[href^="http://ad.koreadaily.com/ad.dll/click"]
+news.tf.co.kr##.mg_t30.subWrapper > .subRight > .mg_b30:nth-of-type(2)
+news.tf.co.kr##.readTopAd
+news.tf.co.kr##.tBorder.subWrapper > .readRight > .mg_b30:nth-of-type(2) > iframe
+news.tf.co.kr##.tBorder.subWrapper > .readRight > .mg_b30:nth-of-type(3)
+news.tf.co.kr###SIDE_RIGHT_AD_SCROLL
+news.tf.co.kr##.tBorder.subWrapper > .readRight > .mg_b30:nth-of-type(7)
+news.tf.co.kr###SIDE_LEFT_AD_SCROLL
+news.tf.co.kr###rectingle_spanTag_ad
+news.tf.co.kr##.tBorder.subWrapper > .readRight > .mg_b30:nth-of-type(9)
+news.tf.co.kr###posLeft > .mg_b30:nth-of-type(7) > .mg_b30 > .AD_box
+news.tf.co.kr###posLeft > .mg_b40.readAd:nth-of-type(8)
+news.tf.co.kr###posLeft > iframe
+news.tf.co.kr###skyBanner_view
+news.tf.co.kr###outer_13664
+news.tf.co.kr###posLeft > .mg_b30.readAd
+news.tf.co.kr###taboola-below-article-thumbnails > .trc_rbox_container > div
+www.tf.co.kr###midAd
+m.tf.co.kr###contentswipe > .swipe-wrap > .tCLine.tfContents:nth-of-type(1) > .tbLeft > .adbox
+m.tf.co.kr###skyBanner_view
+m.sports.media.daum.net###daumAd > a[href^="http://analytics.ad.daum.net/act"]
+media.daum.net###RIGHT_SPACE_BANNER
+media.daum.net###mAside > .bnr_ad
+m.gamechosun.co.kr###MobileadAreaDiv > div > div
+m.gamechosun.co.kr##body > div:nth-of-type(5)
+agora.media.daum.net###SponsorBarWrap
+agora.media.daum.net###RIGHT_SPACE_BANNER
+m.agora.daum.net###daumAd > div > div > a[href^="http://analytics.ad.daum.net/act"]
+m.agora.daum.net###daumAd
+www.zdnet.co.kr###divMenu2
+www.zdnet.co.kr###zdnet_banner_layout
+www.zdnet.co.kr###wrap > .pb_0.clfx.m_container > .right_cont_w > .right_cont > .right_bn1
+www.zdnet.co.kr###wrap > .pb_0.clfx.m_container > .right_cont_w > .right_cont > .ad
+www.zdnet.co.kr###wrap > .pb_0.clfx.m_container > .right_cont_w > .right_cont > .right_bn4
+www.zdnet.co.kr###wrap > .pb_0.clfx.m_container > .right_cont_w > .right_cont > .right_bn2
+www.zdnet.co.kr###wrap > .pb_0.clfx.m_container > .right_cont_w > .right_cont > .right_bn3:nth-of-type(9)
+www.zdnet.co.kr###wrap > .pb_0.clfx.m_container > .right_cont_w > .right_cont > .right_bn3:nth-of-type(11)
+www.zdnet.co.kr###openmatch_ad
+www.zdnet.co.kr###wrap > .pb_0.clfx.m_container > .left_cont > .sub_view_container > iframe
+www.zdnet.co.kr###wrap > .pb_0.clfx.m_container > .left_cont > .sub_view_container > .ad_list
 ||boannews.com/images/banner/$image
 m.boannews.com##.banner-zone
 boannews.com###livereContentsContainer
@@ -98,7 +168,6 @@ coolenjoy.kr###logo_top3
 coolenjoy.kr###jb-sidebar-right
 coolenjoy.net###jb-sidebar-right
 m.mediatoday.co.kr##DIV[style="float:left;margin:.3em 1em .2em 0;width:200px;height:200px;background-color:#f4f4f4"]
-||naver.com/likeIt/v1/likeItServiceContentList.jsonp
 ||naver.com/videoCenter/null/likeIt/v1/likeItContent.jsonp
 ||logapi.tvcast.naver.com/api/open/stats/
 ||tvcast.naver.com/fragment/*/promotionBanner
@@ -1227,6 +1296,7 @@ www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://ditto1004.c
 @@||http://wcs.naver.net/wcslog.js
 @@/wcslog.js$script,domain=m.tvcast.naver.com
 @@||http://google-analytics.com/collect
+@@||naver.com/likeIt/v1/likeItServiceContentList.jsonp
 
 
 !-----------여기서부터 코르셋 필터의 Fork입니다. https://code.google.com/archive/p/abp-corset/ -----------!
