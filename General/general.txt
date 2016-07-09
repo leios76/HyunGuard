@@ -2,13 +2,92 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160708
+! Version: 20160709
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+bbs.ruliweb.com###ad_news_read_07
+bbs.ruliweb.com###ad_sub_top_05
+bbs.ruliweb.com###ad_sub_top_04
+bbs.ruliweb.com###ad_sub_top_02
+miznet.daum.net###SponsorBarWrap > .bar
+miznet.daum.net###SponsorBarWrap
+auto.daum.net###mRight > .bnr_ad
+media.daum.net###SponsorBarWrap > .bar
+media.daum.net###SponsorBarWrap
+media.daum.net###mAside > .wing_shopping.wing_comm
+||adimg.daumcdn.net/$image
+media.daum.net###shoppingboxWrap
+media.daum.net###mAside > .wing_shopping > .aside_tit
+||display.ad.daum.net/$subdocument
+news.zum.com###div-gpt-ad-1354847169772-0
+news.zum.com###div-gpt-ad-1354847194908-0
+news.zum.com###right_box > .d_aside_shopping_box_div.right_shopping_box
+sports.khan.co.kr##.ad_top
+file.daum.net###RMenu > iframe
+news.mtn.co.kr###contentWrap > div:nth-of-type(1)
+news.mtn.co.kr###sideBar > .sideContainer > .common:nth-of-type(1)
+news.mtn.co.kr###sideBar > .sideContainer > .common:nth-of-type(11)
+news.mtn.co.kr###newsContent > div:nth-of-type(1) > a[href^="http://www.815tv.co.kr/"]
+news.mtn.co.kr###NeoInteractiveScreenViewLayer
+||58.120.226.147/files/290/mALemgpLyeO3.gif
+||image3.gamechosun.co.kr/_c_focus/global/hp_bn_r.gif$image
+||image.gamechosun.co.kr/game/webzine/ad_main/ad_df_20160330.jpg$image
+||inews24.com/nexcom/2016/images/banner/$image
+||mediainnews.com/default/image/20150212_01.gif$image
+||mediainnews.com/default/image/20140714_img01.jpg$image
+||mediainnews.com/default/image/20141127.jpg$image
+||mediainnews.com/default/image/20140714_img02.jpg$image
+||image.news1.kr/system/resource/news1_www/images/external_service/comic/banner_comix.gif$image
+||lego.zumst.com/resources/current/images/banner/filler/shopping_filler.jpg
+androidside.com##.mw_basic_view_content > div:nth-of-type(1) > table
+m.dailian.co.kr###ad_layer110
+m.etnews.com##DIV[style="margin:4px 0 4px 0px;padding:0px;height:59px;border:0px;overflow:hidden;width:100%"]
+gamechosun.co.kr##.sky_bn_wrap
+gamefocus.co.kr##DIV[style="width:200; height=80; border-style:solid; border-width:1px; border-color:#c0coc0;"]
+gamefocus.co.kr##DIV[style="width:198; height=80; border-style:solid; border-width:1px; border-color:#FFFFFF;"]
+gamefocus.co.kr##DIV[style="height:800px;width:260px;"]
+gamefocus.co.kr##DIV[style="padding:10px;height:450px;width:665px;"]
+gamefocus.co.kr##DIV[style^="width:450; height="]
+gamefocus.co.kr##DIV[style$="; border-style:solid; border-width:1px; border-color:#c0c0c0;"]
+gamefocus.co.kr##DIV[style$="; border-style:solid; border-width:1px; border-color:#C0C0C0;"]
+imbc.gamemeca.com##.ads_title_bottom
+m.inews24.com##.ad_myadcom
+m.inews24.com##DIV[style="height:75px; background-color:#ebebeb;"]
+inews24.com##.main_top_banner
+m.kukinews.com###sf_plus_modal
+kukinews.com##div[style="float:left; margin-right:10px;"]
+mediainnews.com###livereContentsContainer
+mediainnews.com###flash_obj
+mediainnews.com###cont_center > table:nth-of-type(1)
+m.news1.kr##.ads_zone
+m.news1.kr##.ads_netizen_hotissue
+m.news1.kr##.ads_zone.ads_dreamsearch1
+m.news1.kr##.ads_article_bottom.ads_livere
+m.news1.kr##.render_end.ads_article4
+m.news1.kr##iframe[src^="/template/ads/"]
+news1.kr##DIV[style="float:right;width:300px;height:250px;margin-bottom:12px;"]
+news1.kr###adiBanner
+news1.kr##div[style="margin: 0 auto; height: 270px; display: block; padding-top: 10px;"]
+news1.kr###dablewidget_AOoR98Xy
+news1.kr###article_body_content > a[href="http://comic.news1.kr"]
+news1.kr##.clear
+news1.kr###article_body_content > .tit > div
+news1.kr##.aditop.adistory
+ohmynews.com###livereContentsContainer
+star.ohmynews.com##.ad-250x250
+ssulportal.com##.mbanner
+ssulportal.com##center
+m.stardailynews.co.kr###photoUNDERAD_area_iframe
+m.stardailynews.co.kr###p_under_photo
+yagumania.com##.right
+yagumania.com###ad_comment_bottom
+yagumania.com###ad_view_right1
+yagumania.com###cto_async_content
+zum.com###adx_zum_main_shoppingboxbottom2
 www.ziksir.com###right_banner
 www.ziksir.com###main-cont > .sub-wrap > .page-cont > div:nth-of-type(3) > .ziksir_bnr_bottomrecom
 www.ziksir.com###detail-area > div:nth-of-type(1) > .ziksir_bnr_top
@@ -915,6 +994,8 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+mingkyaa.com###layer_popup1
+mingkyaa.com###footer > p:nth-of-type(1)
 www.you-times.com###mbr
 www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(4) > .adpay- > img
 www.you-times.com###main > tbody > tr > td:nth-of-type(3) > div:nth-of-type(4)
