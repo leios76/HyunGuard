@@ -9,6 +9,11 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+news.mtn.co.kr###contentWrap > div:nth-of-type(1)
+news.mtn.co.kr###sideBar > .sideContainer > .common:nth-of-type(1)
+news.mtn.co.kr###sideBar > .sideContainer > .common:nth-of-type(11)
+news.mtn.co.kr###newsContent > div:nth-of-type(1) > a[href^="http://www.815tv.co.kr/"]
+news.mtn.co.kr###NeoInteractiveScreenViewLayer
 ||58.120.226.147/files/290/mALemgpLyeO3.gif
 ||image3.gamechosun.co.kr/_c_focus/global/hp_bn_r.gif$image
 ||image.gamechosun.co.kr/game/webzine/ad_main/ad_df_20160330.jpg$image
