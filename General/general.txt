@@ -9,6 +9,8 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+media.daum.net###shoppingboxWrap
+media.daum.net###mAside > .wing_shopping > .aside_tit
 ||display.ad.daum.net/$subdocument
 news.zum.com###div-gpt-ad-1354847169772-0
 news.zum.com###div-gpt-ad-1354847194908-0
