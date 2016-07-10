@@ -9,6 +9,12 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+humorbook.co.kr##.ko.wrapper > .container
+humorbook.co.kr##.ad_side
+humorbook.co.kr##.side_right
+humorbook.co.kr##.side_right_list
+humorbook.co.kr##.ko.wrapper > .at-content > .container > .row > .col-md-4 > .radius-gray.bg-white:nth-of-type(9) > div
+humorbook.co.kr##.ko.wrapper > .at-content > .container > .row > .col-md-4 > .radius-gray.bg-white:nth-of-type(9)
 www.ilwar.com##.u.b.ash > .adsbygoogle
 www.ilwar.com###content > .wrap > .rmenu > .asb > .adsbygoogle
 www.ilwar.com###content > .wrap > .sbody > .asv > .adsbygoogle
