@@ -9,6 +9,36 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+||img.imgtong.com/sea139.gif$image
+||img.imgtong.com/skskt.gif$image
+||img.imgtong.com/sman2120.gif$image
+||img.imgtong.com/eggckor120.gif$image
+||img.imgtong.com/rimdia.gif$image
+||img.imgtong.com/oldlove.gif$image
+||img.imgtong.com/worldfree1.gif$image
+||img.imgtong.com/eggckor728.gif$image
+||img.imgtong.com/idc_728_2.gif$image
+||img.imgtong.com/idc600.jpg$image
+||img.imgtong.com/69a.gif$image
+||img.imgtong.com/iHerb.png$image
+||mblogthumb1.phinf.naver.net/20131216_136/dbscnddyd_1387204575924hu7lg_PNG/capture-20131216-233546.png$image
+||tcaferr.com/img/reward.gif$image
+m.edaily.co.kr##.AD_07
+m.edaily.co.kr###ad_view_list
+m.edaily.co.kr##DIV[style="float:right;width:200px;height:200px;background-color:#f0f0f0;margin-bottom:5px;margin-left:5px;"]
+edaily.co.kr###w_read_right
+edaily.co.kr###newmainheader > .newcont > .fr
+m.enter.etoday.co.kr##DIV[style="background-color:#fff;padding:10px 0 10px 0;margin-top:10px"]
+m.enter.etoday.co.kr##DIV[style="width:100%;background-color:#fff;padding:10px 0 10px 0;overflow: hidden;"]
+m.enter.etoday.co.kr##DIV[style="background-color:#fff;padding:10px;"]
+m.enter.etoday.co.kr###livereContentsContainer
+m.iworldtoday.com##DIV[style="width:205px; height:205px; float:right; text-align:right; padding10px;"]
+iworldtoday.com###ND_Warp > table:nth-of-type(3) > tbody > tr > td > table > tbody > tr > td > table:nth-of-type(1)
+news.mt.co.kr##.bigthum
+news.mt.co.kr##.cboth
+news.mt.co.kr###aside > .asidebox > .aside_bundle:nth-of-type(10)
+news.mt.co.kr##DIV[style="float:right; width:200px; height:200px;"]
+m.blog.naver.com##.fx._img > img[src^="http://mblogthumb1.phinf.naver.net/20131216_136/dbscnddyd_1387204575924hu7lg_PNG/capture-20131216-233546.png"]
 humorbook.co.kr##.ko.wrapper > .container
 humorbook.co.kr##.ad_side
 humorbook.co.kr##.side_right
