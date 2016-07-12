@@ -9,6 +9,23 @@
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+nownews.seoul.co.kr###container > .ncontent > div:nth-of-type(1)
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_banner
+nownews.seoul.co.kr###container > .naside > .Rad
+nownews.seoul.co.kr###header > .hed_ad
+nownews.seoul.co.kr###iframeLivereW
+nownews.seoul.co.kr###livereWDiv
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_txt > p:nth-of-type(4)
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_txt > p:nth-of-type(5)
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_txt > p:nth-of-type(9)
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_txt > p:nth-of-type(10)
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_txt > p:nth-of-type(7)
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_txt > p:nth-of-type(8)
+nownews.seoul.co.kr###container > .naside > p:nth-of-type(1)
+nownews.seoul.co.kr###container > .naside > div:nth-of-type(4)
+nownews.seoul.co.kr###container > .naside > p:nth-of-type(3)
+nownews.seoul.co.kr###container > .naside > p:nth-of-type(2)
+nownews.seoul.co.kr###container > .ncontent > p:nth-of-type(2)
 bbs.ruliweb.com###ad_board_read_10
 bbs.ruliweb.com###ad_board_read_07
 ||img.imgtong.com/sea139.gif$image
