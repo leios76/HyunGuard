@@ -2,13 +2,80 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160710
+! Version: 20160713
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
 ! 광고 차단 요청, 제안, 잘못된 필터 신고는 Github로 부탁드립니다.
 ! HyunGuard의 필터는 Creative Commons CC BY-NC-SA 3.0 (저작자표시-비영리-동일조건변경허락) 에 의해 사용할 수 있습니다.
 
 !-----------HyunGuard 시작------------!
+go.seoul.co.kr###livereWDiv
+go.seoul.co.kr###container > .content > p:nth-of-type(3)
+go.seoul.co.kr###container > .content > p:nth-of-type(4)
+go.seoul.co.kr###container > .content > p:nth-of-type(7)
+go.seoul.co.kr###container > .content > p:nth-of-type(6)
+www.seoul.co.kr##.wrap > .middle:nth-of-type(2) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(1) > .space
+www.seoul.co.kr##.wrap > .middle:nth-of-type(2) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(2) > .space
+www.seoul.co.kr##.wrap > .middle:nth-of-type(2) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(3) > .space
+www.seoul.co.kr##.wrap > .middle:nth-of-type(2) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(4) > .space
+www.seoul.co.kr##.wrap > .middle:nth-of-type(4) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(1) > .space
+www.seoul.co.kr##.wrap > .middle:nth-of-type(4) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(2) > .space
+www.seoul.co.kr##.wrap > .middle:nth-of-type(4) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(3) > .space
+www.seoul.co.kr##.wrap > .middle:nth-of-type(4) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(4) > .space
+www.seoul.co.kr##.wrap > .middle:nth-of-type(4) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(5) > .space
+www.seoul.co.kr##.wrap > .middle:nth-of-type(4) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(6) > .space
+www.seoul.co.kr##.wrap > .middle:nth-of-type(4) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(7) > .space
+www.seoul.co.kr##.wrap > .middle:nth-of-type(4) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(8) > .space
+www.seoul.co.kr##.wrap > .middle:nth-of-type(4) > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .space
+nownews.seoul.co.kr###container > .ncontent > div:nth-of-type(1)
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_banner
+nownews.seoul.co.kr###container > .naside > .Rad
+nownews.seoul.co.kr###header > .hed_ad
+nownews.seoul.co.kr###iframeLivereW
+nownews.seoul.co.kr###livereWDiv
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_txt > p:nth-of-type(4)
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_txt > p:nth-of-type(5)
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_txt > p:nth-of-type(9)
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_txt > p:nth-of-type(10)
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_txt > p:nth-of-type(7)
+nownews.seoul.co.kr###container > .ncontent > .now_cnt > .now_txt > p:nth-of-type(8)
+nownews.seoul.co.kr###container > .naside > p:nth-of-type(1)
+nownews.seoul.co.kr###container > .naside > div:nth-of-type(4)
+nownews.seoul.co.kr###container > .naside > p:nth-of-type(3)
+nownews.seoul.co.kr###container > .naside > p:nth-of-type(2)
+nownews.seoul.co.kr###container > .ncontent > p:nth-of-type(2)
+bbs.ruliweb.com###ad_board_read_10
+bbs.ruliweb.com###ad_board_read_07
+||img.imgtong.com/sea139.gif$image
+||img.imgtong.com/skskt.gif$image
+||img.imgtong.com/sman2120.gif$image
+||img.imgtong.com/eggckor120.gif$image
+||img.imgtong.com/rimdia.gif$image
+||img.imgtong.com/oldlove.gif$image
+||img.imgtong.com/worldfree1.gif$image
+||img.imgtong.com/eggckor728.gif$image
+||img.imgtong.com/idc_728_2.gif$image
+||img.imgtong.com/idc600.jpg$image
+||img.imgtong.com/69a.gif$image
+||img.imgtong.com/iHerb.png$image
+||mblogthumb1.phinf.naver.net/20131216_136/dbscnddyd_1387204575924hu7lg_PNG/capture-20131216-233546.png$image
+||tcaferr.com/img/reward.gif$image
+m.edaily.co.kr##.AD_07
+m.edaily.co.kr###ad_view_list
+m.edaily.co.kr##DIV[style="float:right;width:200px;height:200px;background-color:#f0f0f0;margin-bottom:5px;margin-left:5px;"]
+edaily.co.kr###w_read_right
+edaily.co.kr###newmainheader > .newcont > .fr
+m.enter.etoday.co.kr##DIV[style="background-color:#fff;padding:10px 0 10px 0;margin-top:10px"]
+m.enter.etoday.co.kr##DIV[style="width:100%;background-color:#fff;padding:10px 0 10px 0;overflow: hidden;"]
+m.enter.etoday.co.kr##DIV[style="background-color:#fff;padding:10px;"]
+m.enter.etoday.co.kr###livereContentsContainer
+m.iworldtoday.com##DIV[style="width:205px; height:205px; float:right; text-align:right; padding10px;"]
+iworldtoday.com###ND_Warp > table:nth-of-type(3) > tbody > tr > td > table > tbody > tr > td > table:nth-of-type(1)
+news.mt.co.kr##.bigthum
+news.mt.co.kr##.cboth
+news.mt.co.kr###aside > .asidebox > .aside_bundle:nth-of-type(10)
+news.mt.co.kr##DIV[style="float:right; width:200px; height:200px;"]
+m.blog.naver.com##.fx._img > img[src^="http://mblogthumb1.phinf.naver.net/20131216_136/dbscnddyd_1387204575924hu7lg_PNG/capture-20131216-233546.png"]
 humorbook.co.kr##.ko.wrapper > .container
 humorbook.co.kr##.ad_side
 humorbook.co.kr##.side_right
@@ -1014,6 +1081,9 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ||img.mk.co.kr/main/2015/mk_new/bn_bottom3.jpg
 
 !------HyunGuard 불법,유해및 성인 광고 차단------!
+xxtorrent.net##body > div:nth-of-type(2) > div:nth-of-type(2) > a[href="/to_toy.html"] > img
+xxtorrent.net##body > div:nth-of-type(2) > div:nth-of-type(2) > div
+xxtorrent.net###layer_fixed
 mingkyaa.com###layer_popup1
 mingkyaa.com###footer > p:nth-of-type(1)
 www.you-times.com###mbr
