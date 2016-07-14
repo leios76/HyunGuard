@@ -1162,6 +1162,8 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ! HyunGuard 유해광고 목록은 한국 웹의 유해한 광고(불법, 음란 등등...) 목록입니다.
 ! This is Harmful and Illegal Ads List for Korean web.
 !------HyunGuard 불법, 유해 광고 목록 (HyunGuard Harmful and Illegal Ads List) ------
+www.yaboja14.com##.ko.wrapper > .at-content > .container > .row > .sideArea.pull-left.col-md-3 > p:nth-of-type(2)
+www.yaboja14.com##.ko.wrapper > .at-content > .container > .row > .sideArea.pull-left.col-md-3 > .__se_tbl > tbody
 www.dosin8.com###left_bn_a
 xxtorrent.net##body > div:nth-of-type(2) > div:nth-of-type(2) > a[href="/to_toy.html"] > img
 xxtorrent.net##body > div:nth-of-type(2) > div:nth-of-type(2) > div
