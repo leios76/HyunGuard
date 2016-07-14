@@ -1161,7 +1161,7 @@ www.ytn.co.kr###newsContent > .articleAd_new
 
 ! HyunGuard 유해광고 목록은 한국 웹의 유해한 광고(불법, 음란 등등...) 목록입니다.
 ! This is Harmful and Illegal Ads List for Korean web.
-!------HyunGuard 불법, 유해 광고 목록 (HyunGuard Harmful and Illegal Ads List)------!
+!------HyunGuard 불법, 유해 광고 목록 (HyunGuard Harmful and Illegal Ads List) ------
 xxtorrent.net##body > div:nth-of-type(2) > div:nth-of-type(2) > a[href="/to_toy.html"] > img
 xxtorrent.net##body > div:nth-of-type(2) > div:nth-of-type(2) > div
 xxtorrent.net###layer_fixed
@@ -1551,9 +1551,9 @@ www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://ditto1004.c
 @@||naver.com/likeIt/v1/likeItServiceContentList.jsonp
 
 
-!-----------여기서부터 코르셋 필터의 Fork입니다. https://code.google.com/archive/p/abp-corset/ -----------!
-!-----------Corset filter fork starts here. https://code.google.com/archive/p/abp-corset/ -----------!
-!------------------------------------코르셋 : 일반 차단 필터------------------------------------------!
+! ----- 여기서부터 코르셋 필터의 Fork입니다. https://code.google.com/archive/p/abp-corset/ -----
+! ----- Corset filter fork starts here. https://code.google.com/archive/p/abp-corset/ -----
+! ----- 코르셋 : 일반 차단 필터 -----
 .co.kr/images/ad/
 .com/ad/
 .com/img/banner/
@@ -1656,7 +1656,7 @@ _view_ad_
 |http://adver.
 |http://advert.
 |http://banner.
-!------------------------------------코르셋 : 대량 광고원----------------------------------------------!
+! ----- 코르셋 : 대량 광고원 -----
 ||118.107.162.195^$third-party
 ||2beon.co.kr^$third-party
 ||about.co.kr^$third-party
@@ -1787,7 +1787,7 @@ _view_ad_
 ||yieldmanager.com^$third-party
 ||zeroclub.co.kr^$third-party
 |http://ad.wo.to^
-!------------------------------------코르셋 : 사이트 특정 차단 필터-----------------------------------!
+! ----- 코르셋 : 사이트 특정 차단 필터 -----
 /inpross/naeil_
 ||ad.cache.newdaily.co.kr^*/naon_
 ||adbay.programbay.co.kr/banner/
@@ -2022,7 +2022,7 @@ _view_ad_
 ||ohmynews.com^*/ljuro_
 ||ohmynews.com^*/seokplant_
 ||phoneinside.co.kr^*/bn230200.
-!------------------------------------코르셋 : 기타 필터------------------------------------------------!
+! ----- 코르셋 : 기타 필터 -----
 ||careview.chosun.com/common/slide/
 ||chosun.com/common/sliding/
 ||chosun.com/common/slidingphoto/
@@ -2062,7 +2062,7 @@ _view_ad_
 ||star.mk.co.kr/all/iframeTheme.php?
 ||star.mk.co.kr^*/view_slide_$domain=mnews.mk.co.kr
 ! [요소 숨김 필터]/elemhide
-!------------------------------------코르셋 : 일반 요소 숨김 필터-------------------------------------!
+! ----- 코르셋 : 일반 요소 숨김 필터 -----
 ###ad_view
 ###ad250
 ###apDiv1
@@ -2077,7 +2077,7 @@ _view_ad_
 ##.ad_box
 ##.ad2
 ##.ad250
-!------------------------------------코르셋 : 사이트 특정 요소 숨김 필터----------------------------!
+! ----- 코르셋 : 사이트 특정 요소 숨김 필터 -----
 ~channel.pandora.tv##.ad3
 agora.media.daum.net###rBanner
 asiae.co.kr###ad240240
@@ -2476,7 +2476,7 @@ zdnet.co.kr###main_right_Floating_banner2
 zdnet.co.kr###zdkr_adfloating_main
 zdnet.co.kr###zdkr_adfloating_main2
 zdnet.co.kr##.sub_cont_topnews_today
-!------------------------------------코르셋 : 기타 필터------------------------------------------------!
+! ----- 코르셋 : 기타 필터 -----
 chosun.com##.photo_video1
 ddaily.co.kr###relation_area
 etnews.com##.real_box
@@ -2487,7 +2487,7 @@ nocutnews.co.kr###bible_sky
 ohmynews.com###star_open
 reviewstar.hankooki.com###photo_top2
 ! [허용 필터]/whitelist
-!------------------------------------코르셋 : 허용 필터------------------------------------------------!
+! ----- 코르셋 : 허용 필터 -----
 @@.ems/site=$domain=ytn.co.kr
 @@||11st.co.kr/NetInsight/
 @@||11st.co.kr^$elemhide
@@ -2541,7 +2541,7 @@ reviewstar.hankooki.com###photo_top2
 @@||wikitree.co.kr/ad/$image,subdocument
 @@||yes24.com^*/banner/bn_
 
-!------------------------------------코르셋 프라이버시 : 일반 사이트--------------------------------!
+! ----- 코르셋 프라이버시 : 일반 사이트 -----
 .com/logger/
 .loginside.
 .roi.tracer.
@@ -2834,7 +2834,7 @@ http://log.$script,image,subdocument,object_subrequest
 ||wiselog.com^$third-party
 ||woopra.com^$third-party
 ||zerocounter.com^$third-party
-!------------------------------------코르셋 프라이버시 : 특정 사이트---------------------------------!
+! ----- 코르셋 프라이버시 : 특정 사이트 -----
 ||addthiscdn.com/live/
 ||alexa.com/site_stats/
 ||amazonaws.com/new.cetrk.com/
@@ -2904,8 +2904,8 @@ http://log.$script,image,subdocument,object_subrequest
 ||yonsei.ac.kr//stat/
 ||youtube.com/generate_204
 ||youtube.com/s?
-!------------------------------------코르셋 프라이버시 : 추적 방지 헤더-----------------------------!
+! ----- 코르셋 프라이버시 : 추적 방지 헤더 -----
 *$image,~image,donottrack
 
-!----------HyunGuard 제거된 필터 (HyunGuard Removed Filter)------------!
+! ----- HyunGuard 제거된 필터 (HyunGuard Removed Filter) -----
 ! news.naver.com##.nav2
