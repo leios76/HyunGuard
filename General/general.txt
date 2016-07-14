@@ -1162,6 +1162,13 @@ www.ytn.co.kr###newsContent > .articleAd_new
 ! HyunGuard 유해광고 목록은 한국 웹의 유해한 광고(불법, 음란 등등...) 목록입니다.
 ! This is Harmful and Illegal Ads List for Korean web.
 !------HyunGuard 불법, 유해 광고 목록 (HyunGuard Harmful and Illegal Ads List) ------
+19bam.com###bo_v_atc > table:nth-of-type(1)
+19bam.com###bo_v_atc > table:nth-of-type(2)
+19bam.com###bo_v_atc > table:nth-of-type(3)
+19bam.com###bo_v > table:nth-of-type(1)
+19bam.com###bo_v > table:nth-of-type(2) > tbody
+19bam.com###bo_v > table:nth-of-type(3) > tbody > tr
+19bam.com###pop2
 www.bog79.com###left_bn
 www.bog79.com###hd_pops_1
 www.bog79.com###top_bn
