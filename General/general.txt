@@ -21,6 +21,28 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+seoul.co.kr##.wrap > .top > .hed_ad
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(5) > .space
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(6) > .space
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(4) > .space
+seoul.co.kr##.wrap > div:nth-of-type(2) > div
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(7) > .space
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(8) > .space
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(9) > .space
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(10) > .space
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(11) > .space
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(12) > .space
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(14) > .space
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(1) > .divisionLeft.division > .innerDiv:nth-of-type(7) > div:nth-of-type(3)
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(1) > .divisionLeft.division > .innerDiv:nth-of-type(8) > div:nth-of-type(2)
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(1) > .divisionLeft.division > .innerDiv:nth-of-type(9) > div
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(1) > .divisionLeft.division > .innerDiv:nth-of-type(10) > div
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(1) > .divisionLeft.division > .innerDiv:nth-of-type(11) > div
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(16) > .space
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(17) > .space
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(2) > .divisionRight.division > .innerDiv:nth-of-type(18) > .space
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(1) > .divisionLeft.division > .innerDiv:nth-of-type(14) > div
+seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(1) > .divisionLeft.division > .innerDiv:nth-of-type(13) > div
 www.seoul.co.kr##.wrap > .middle:nth-of-type(2)
 www.seoul.co.kr##.wrap > .top > .hed_ad
 www.seoul.co.kr##.wrap > div:nth-of-type(2) > div
