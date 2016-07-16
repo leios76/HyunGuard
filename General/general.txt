@@ -15,6 +15,12 @@
 ! 테스트 필터는 아직 성능을 검증중인 필터입니다. 일정기간동안 운용 후 효용성이 없다고 판단되면 삭제됩니다. 웹 서핑에 지장을 주지 않습니다.
 ! Test Filter is being verified for filter performance. After operating for a period of time it will be deleted if it is determined that there is no availability. It doesn't interfere with your web surfing.
 ! ----- HyunGuard 테스트 필터(HyunGuard Test Filter) -----
+
+! 현재 테스트 필터가 없습니다. No Test Filter in this release.
+
+! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
+! ----- HyunGuard General is general Korean web ads. -----
+! ----- HyunGuard 일반 (HyunGuard General) -----
 www.seoul.co.kr##.wrap > .middle:nth-of-type(2)
 www.seoul.co.kr##.wrap > .top > .hed_ad
 www.seoul.co.kr##.wrap > div:nth-of-type(2) > div
@@ -58,10 +64,6 @@ www.seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(1
 www.seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(1) > .divisionLeft.division > .innerDiv:nth-of-type(13) > div
 www.seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(1) > .divisionLeft.division > .innerDiv:nth-of-type(14) > div
 www.seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(1) > .divisionLeft.division > .innerDiv:nth-of-type(7) > div:nth-of-type(3)
-
-! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
-! ----- HyunGuard General is general Korean web ads. -----
-! ----- HyunGuard 일반 (HyunGuard General) -----
 www.ytn.co.kr###zone1 > .articleAd_marketing
 www.ytn.co.kr###aside > .adright_box:nth-of-type(1) > iframe
 www.ytn.co.kr###aside > .adright_box:nth-of-type(9) > iframe
