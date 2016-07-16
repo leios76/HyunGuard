@@ -62,6 +62,10 @@ www.seoul.co.kr##.wrap > .middle > .middle_inner > .division_outer:nth-of-type(1
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+www.donga.com###aside > .main_AD02:nth-of-type(3)
+www.donga.com###aside > .promotion > h2
+www.donga.com###aside > .promotion > .promotion_box
+www.donga.com###aside > .main_AD02:nth-of-type(15)
 www.chosun.com###csWrap > .ad_gnb_left:nth-of-type(4)
 www.chosun.com###left_adtest
 www.chosun.com###ad_gnb_right
