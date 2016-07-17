@@ -21,6 +21,14 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+tvexciting.com###content > .entry.module > .article > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(1)
+tvexciting.com###content > .entry.module > .article > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(3)
+tvexciting.com###content > .entry.module > .article > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(2)
+tvexciting.com###content > .entry.module > .article > div:nth-of-type(1) > table
+tvexciting.com###content > .entry.module > .article > table > tbody > tr > td:nth-of-type(3)
+tvexciting.com###content > .entry.module > .article > table > tbody > tr > td:nth-of-type(1)
+tvexciting.com###content > .entry.module > .article > table > tbody > tr > td:nth-of-type(2)
+tvexciting.com###content > .entry.module > .article > table
 zipbogo.net###popup_01 > form > table > tbody
 zipbogo.net###sidebar1 > ul > li:nth-of-type(2)
 zipbogo.net###sidebar1 > ul > li:nth-of-type(3)
