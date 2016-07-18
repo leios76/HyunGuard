@@ -21,6 +21,36 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+||advod.smartmediarep.com/
+dailygame.co.kr###BigDDRightSkyID
+||menupan.com/gpcard/image/banner/gpcard_750_01.gif
+menupan.com###lyforWeb_mobile_popup
+menupan.com###id_bnr_top_global
+menupan.com###B080411
+menupan.com###B080414
+||m.xportsnews.com/scripts/remon_xports2.html$subdocument
+m.xportsnews.com##.con_dbar
+m.xportsnews.com##.responsive_col2
+m.xportsnews.com##DIV[style="width:300px;height:250px;text-align:center;margin:0 auto;margin-top:10px;margin-bottom:10px; "]
+||amn.kr/data/dj_hinews_asia/banner/$image
+amn.kr##.bn
+amn.kr###r_aside > center > .bn:nth-of-type(5) > table > tbody > tr > td
+news.donga.com##.adView03
+m.ytn.co.kr###sf_plus_modal
+||58.120.226.147/files/291/3V4N3Fr7fttm.png$image
+m.isplus.joins.com##DIV[id^="article_banner"]
+m.khan.co.kr##.social_btm
+m.biz.khan.co.kr###mezzo_ad
+m.biz.khan.co.kr##.social_btm
+m.biz.khan.co.kr##.ad_thumb_btm
+mbiz.heraldcorp.com##.ad
+mbiz.heraldcorp.com##.impo_top
+||img.imgtong.com/skskt2.gif$image
+||img.imgtong.com/bt7_120.gif$image
+||img.imgtong.com/sea728.gif$image
+||img.imgtong.com//ifif99.gif$image
+||img.imgtong.com/bt7_728.gif$image
+joins.com##[class^="ad_"]$domain=~mnews.jtbc.joins.com
 tvexciting.com###content > .entry.module > .article > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(1)
 tvexciting.com###content > .entry.module > .article > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(3)
 tvexciting.com###content > .entry.module > .article > div:nth-of-type(1) > table > tbody > tr > td:nth-of-type(2)
