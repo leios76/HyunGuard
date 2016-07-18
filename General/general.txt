@@ -21,6 +21,8 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+news.joins.com###wide_ad_bottom
+news.joins.com###sub > .sub_premium_link.rts
 ||advod.smartmediarep.com/
 dailygame.co.kr###BigDDRightSkyID
 ||menupan.com/gpcard/image/banner/gpcard_750_01.gif
