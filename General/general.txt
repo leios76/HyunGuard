@@ -21,6 +21,12 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+www.instiz.net###sidead3 > div > div > .aview9
+www.instiz.net##body > div:nth-of-type(5) > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(4) > td > .mainad
+www.instiz.net###sidead2
+www.instiz.net##.board_img_foot
+www.instiz.net###sidead3
+www.instiz.net###powerlink
 m.hankooki.com###mflick > .ads_t3.shopping
 m.hankooki.com###viewPanel > .adpromotion > .ad_icon_wrap > .v_ad_icon
 sports.hankooki.com###contents > div:nth-of-type(5) > div:nth-of-type(2)
