@@ -21,6 +21,9 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+||adex.ednplus.com/xc/h/Fz53rK4J$subdocument
+www.moneyweek.co.kr###article > .related_article:nth-of-type(7) > .related > ul > li:nth-of-type(1)
+www.moneyweek.co.kr###article > .related_article:nth-of-type(7) > .related > ul > li:nth-of-type(2)
 newsis.com###action_view_container
 newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > td > table > tbody > tr:nth-of-type(1) > td > .article_b_right > .google_banner_right
 newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(5) > td > table > tbody > tr > td:nth-of-type(3)
