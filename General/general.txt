@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160717
+! Version: 20160719
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! Welcome to use HyunGuard! HyunGuard is AdBlock filter list for Korean web.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
@@ -21,6 +21,71 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+m.kmib.co.kr###mainConSlide > .mainSlide_wrap > .mainContent:nth-of-type(2) > .CMain.con_wrap > .tp_cnt > .bnr_cmain01
+m.kmib.co.kr###cnt > .Arti.CMain.con_wrap > .dw_cnt > .ban:nth-of-type(5)
+m.kmib.co.kr###adMall_popup_00g5
+m.kmib.co.kr###cnt > .Arti.CMain.con_wrap > .dw_cnt > .ban:nth-of-type(6) > .list_issue
+m.kmib.co.kr###cnt > .Arti.CMain.con_wrap > .dw_cnt > .ban:nth-of-type(7)
+m.kmib.co.kr###cnt > .Arti.CMain.con_wrap > .tp_cnt > .article_wrap > .article_con > .pb0px.bt0px.mo_bnr
+m.kmib.co.kr###cnt > .Arti.CMain.con_wrap > .tp_cnt > .article_wrap > .article_con > .kmib_txbnr:nth-of-type(3) > div
+m.kmib.co.kr###adMall_popup_00g5
+m.kmib.co.kr##.css_remon_wiki1
+m.kmib.co.kr###adMall_popup_00g5
+liverex.net###googleTop
+www.instiz.net###sidead3 > div > div > .aview9
+www.instiz.net##body > div:nth-of-type(5) > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(4) > td > .mainad
+www.instiz.net###sidead2
+www.instiz.net##.board_img_foot
+www.instiz.net###sidead3
+www.instiz.net###powerlink
+m.hankooki.com###mflick > .ads_t3.shopping
+m.hankooki.com###viewPanel > .adpromotion > .ad_icon_wrap > .v_ad_icon
+sports.hankooki.com###contents > div:nth-of-type(5) > div:nth-of-type(2)
+sports.hankooki.com###contents > div:nth-of-type(5) > div:nth-of-type(1) > h4:nth-of-type(1)
+sports.hankooki.com###contents > div:nth-of-type(5) > div:nth-of-type(1) > .num3_1 > dl:nth-of-type(1)
+sports.hankooki.com###contents > div:nth-of-type(5) > div:nth-of-type(1) > .num3_1
+sports.hankooki.com###conbottom > .lifebanner > .w690 > .pos_r.brt45.contents_bottom
+||ad.adinc.kr/$subdocument
+sports.hankooki.com###conbottom > .lifebanner > .w690 > .pos_r.contents_bottom:nth-of-type(2) > h4
+sports.hankooki.com###conbottom > .lifebanner > .w690 > .pos_r.contents_bottom:nth-of-type(2) > .adlife
+sports.hankooki.com###conbottom > .lifebanner > .w690 > .banner690_m
+sports.hankooki.com###conbottom > .lifebanner > .w690 > .brt45.contents_bottom:nth-of-type(4)
+sports.hankooki.com###adThumb01
+sports.hankooki.com###GS_Group > .gsleft > .wrap_over_72890:nth-of-type(8)
+sports.hankooki.com###adIssueTrend
+||adex.ednplus.com/xc/h/Fz53rK4J$subdocument
+www.moneyweek.co.kr###article > .related_article:nth-of-type(7) > .related > ul > li:nth-of-type(1)
+www.moneyweek.co.kr###article > .related_article:nth-of-type(7) > .related > ul > li:nth-of-type(2)
+newsis.com###action_view_container
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(1) > td > table > tbody > tr:nth-of-type(1) > td > .article_b_right > .google_banner_right
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(5) > td > table > tbody > tr > td:nth-of-type(3)
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(3) > table > tbody > tr:nth-of-type(1) > td > table > tbody > tr > td > table > tbody > tr > td > table:nth-of-type(1) > tbody > tr:nth-of-type(2) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(3) > table > tbody > tr:nth-of-type(2) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(3) > table > tbody > tr:nth-of-type(4) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(3) > table > tbody > tr:nth-of-type(6) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(3) > table > tbody > tr:nth-of-type(7) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(3) > table > tbody > tr:nth-of-type(8) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(3) > table > tbody > tr:nth-of-type(10) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(3) > table > tbody > tr:nth-of-type(11) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(3) > table > tbody > tr:nth-of-type(12) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(3) > table > tbody > tr:nth-of-type(14) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(3) > table > tbody > tr:nth-of-type(17) > td
+||pub.adpnut.com$subdocument
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(23) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(22) > td > table > tbody > tr > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(21) > td
+||adpingpong.co.kr/newsis_wg.html$subdocument
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(19) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(17) > td
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(2)
+||www.adpingpong.co.kr/newsis_wby.html$subdocument
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(3) > td > table > tbody
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(4) > td > table > tbody
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(5) > td > table > tbody
+newsis.com##body > table:nth-of-type(2) > tbody > tr > td > table > tbody > tr:nth-of-type(2) > td > table > tbody > tr:nth-of-type(9) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(6) > td > table > tbody
+kin.naver.com###content > .broadcast_kin
+news.joins.com###wide_ad_bottom
+news.joins.com###sub > .sub_premium_link.rts
 ||advod.smartmediarep.com/
 dailygame.co.kr###BigDDRightSkyID
 ||menupan.com/gpcard/image/banner/gpcard_750_01.gif
