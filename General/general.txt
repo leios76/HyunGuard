@@ -21,6 +21,19 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+sports.hankooki.com###contents > div:nth-of-type(5) > div:nth-of-type(2)
+sports.hankooki.com###contents > div:nth-of-type(5) > div:nth-of-type(1) > h4:nth-of-type(1)
+sports.hankooki.com###contents > div:nth-of-type(5) > div:nth-of-type(1) > .num3_1 > dl:nth-of-type(1)
+sports.hankooki.com###contents > div:nth-of-type(5) > div:nth-of-type(1) > .num3_1
+sports.hankooki.com###conbottom > .lifebanner > .w690 > .pos_r.brt45.contents_bottom
+||ad.adinc.kr/$subdocument
+sports.hankooki.com###conbottom > .lifebanner > .w690 > .pos_r.contents_bottom:nth-of-type(2) > h4
+sports.hankooki.com###conbottom > .lifebanner > .w690 > .pos_r.contents_bottom:nth-of-type(2) > .adlife
+sports.hankooki.com###conbottom > .lifebanner > .w690 > .banner690_m
+sports.hankooki.com###conbottom > .lifebanner > .w690 > .brt45.contents_bottom:nth-of-type(4)
+sports.hankooki.com###adThumb01
+sports.hankooki.com###GS_Group > .gsleft > .wrap_over_72890:nth-of-type(8)
+sports.hankooki.com###adIssueTrend
 ||adex.ednplus.com/xc/h/Fz53rK4J$subdocument
 www.moneyweek.co.kr###article > .related_article:nth-of-type(7) > .related > ul > li:nth-of-type(1)
 www.moneyweek.co.kr###article > .related_article:nth-of-type(7) > .related > ul > li:nth-of-type(2)
