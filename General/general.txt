@@ -21,6 +21,16 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+m.kmib.co.kr###mainConSlide > .mainSlide_wrap > .mainContent:nth-of-type(2) > .CMain.con_wrap > .tp_cnt > .bnr_cmain01
+m.kmib.co.kr###cnt > .Arti.CMain.con_wrap > .dw_cnt > .ban:nth-of-type(5)
+m.kmib.co.kr###adMall_popup_00g5
+m.kmib.co.kr###cnt > .Arti.CMain.con_wrap > .dw_cnt > .ban:nth-of-type(6) > .list_issue
+m.kmib.co.kr###cnt > .Arti.CMain.con_wrap > .dw_cnt > .ban:nth-of-type(7)
+m.kmib.co.kr###cnt > .Arti.CMain.con_wrap > .tp_cnt > .article_wrap > .article_con > .pb0px.bt0px.mo_bnr
+m.kmib.co.kr###cnt > .Arti.CMain.con_wrap > .tp_cnt > .article_wrap > .article_con > .kmib_txbnr:nth-of-type(3) > div
+m.kmib.co.kr###adMall_popup_00g5
+m.kmib.co.kr##.css_remon_wiki1
+m.kmib.co.kr###adMall_popup_00g5
 liverex.net###googleTop
 www.instiz.net###sidead3 > div > div > .aview9
 www.instiz.net##body > div:nth-of-type(5) > table > tbody > tr > td:nth-of-type(2) > table > tbody > tr:nth-of-type(2) > td:nth-of-type(1) > table > tbody > tr:nth-of-type(4) > td > .mainad
