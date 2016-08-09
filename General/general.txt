@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160729
+! Version: 20160808
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! Welcome to use HyunGuard! HyunGuard is AdBlock filter list for Korean web.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
@@ -21,6 +21,21 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+news.heraldcorp.com###HB_Sub_MIDTOP02
+news.heraldcorp.com###CmAdContent > .subpg_news_body > div:nth-of-type(1)
+news.heraldcorp.com###content_container_news > .clear.news_content_section > .news_content > .news_detail_area > div:nth-of-type(8)
+news.heraldcorp.com###g20150812Herald44
+www.11st.co.kr###idPowerLink > .sponsor_link
+www.11st.co.kr###leftWingBanner
+www.11st.co.kr###newFooterAdArea > .ftr_banner
+www.11st.co.kr###wb_recomm_MainLayer
+www.11st.co.kr###productInfoMain > .prdc_top_right > .prdc_cate_choice
+www.11st.co.kr###floatingRealy
+www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .fn_view_bot_ad
+www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(9)
+www.fnnews.com###wrap > .main_default > .sub_layer > .cent > .cent_com > .sub_cont > .news_wrap > .ncont > .sub_ad_sect > .fn_view_right_ad > .fn_ad_part:nth-of-type(4)
+view.asiae.co.kr###content > .news_view_ad
+view.asiae.co.kr###content > .ad_today2
 radio1230.com###new-royalslider-5
 radio1230.com###new-royalslider-6 > .grab-cursor.rsOverflow > .rsContainer
 radio1230.com###new-royalslider-6 > .grab-cursor.rsOverflow
