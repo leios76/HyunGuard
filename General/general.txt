@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160808
+! Version: 20160813
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! Welcome to use HyunGuard! HyunGuard is AdBlock filter list for Korean web.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
@@ -15,12 +15,20 @@
 ! 테스트 필터는 아직 성능을 검증중인 필터입니다. 일정기간동안 운용 후 효용성이 없다고 판단되면 삭제됩니다. 웹 서핑에 지장을 주지 않습니다.
 ! Test Filter is being verified for filter performance. After operating for a period of time it will be deleted if it is determined that there is no availability. It doesn't interfere with your web surfing.
 ! ----- HyunGuard 테스트 필터(HyunGuard Test Filter) -----
-
-! 현재 테스트 필터가 없습니다. No Test Filter in this release.
+tcaferr.com###cssImg > tbody > tr:nth-of-type(3) > td:nth-of-type(1) > table:nth-of-type(1) > tbody > tr:nth-of-type(18) > td
+tcaferr.com###s_word > .section_ol > ol > li:nth-of-type(24) > center
+tcaferr.com###s_word > .section_ol > ol > li:nth-of-type(29) > center
 
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+te31.com###left > a[href="http://taling.me/"]:nth-of-type(1) > img
+te31.com###content > .box1 > tbody > tr > td
+te31.com###content > .box1
+te31.com###left > a[href="http://www.seouleyegroup.co.kr/event/online_event_80.php"]
+te31.com###left > a[href="http://taling.me/"]:nth-of-type(3) > img
+te31.com###left > a[href="http://add4s.co.kr/"] > img
+m.ohmynews.com###mobitree
 news.heraldcorp.com###HB_Sub_MIDTOP02
 news.heraldcorp.com###CmAdContent > .subpg_news_body > div:nth-of-type(1)
 news.heraldcorp.com###content_container_news > .clear.news_content_section > .news_content > .news_detail_area > div:nth-of-type(8)
