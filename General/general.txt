@@ -21,6 +21,12 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+te31.com###left > a[href="http://taling.me/"]:nth-of-type(1) > img
+te31.com###content > .box1 > tbody > tr > td
+te31.com###content > .box1
+te31.com###left > a[href="http://www.seouleyegroup.co.kr/event/online_event_80.php"]
+te31.com###left > a[href="http://taling.me/"]:nth-of-type(3) > img
+te31.com###left > a[href="http://add4s.co.kr/"] > img
 m.ohmynews.com###mobitree
 news.heraldcorp.com###HB_Sub_MIDTOP02
 news.heraldcorp.com###CmAdContent > .subpg_news_body > div:nth-of-type(1)
