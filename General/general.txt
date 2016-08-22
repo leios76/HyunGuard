@@ -22,6 +22,175 @@ tcaferr.com###s_word > .section_ol > ol > li:nth-of-type(29) > center
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+forums.androidcentral.com$$div[class="adunit"][parent-elements="div"]
+forums.androidcentral.com###navbar_notice_50
+||img.appstory.co.kr/monthly.appstory.co.kr/renew/banner_left_nvpost01.jpg
+cwstoo.asiae.co.kr###close_mask
+m.asiae.co.kr##DIV[style="padding:10px 0px;text-align: center;"]
+m.asiatoday.co.kr##TABLE[style="width:200px !important; height:200px; float:right !important; margin:2px 0 0 0;"]
+m.asiatoday.co.kr###btm
+m.asiatoday.co.kr###swipe_center > DIV.tac
+||img.asiatoday.co.kr/webdata/content/57ae5cd429f3e.jpg
+||img.asiatoday.co.kr/webdata/content/57a5298092003.jpg
+m.asiatoday.co.kr##.vb2a
+cnet.co.kr##.vc_empty_space
+||dvdprime.donga.com/g2/data/cheditor5/1607/20160715111423_papznede.jpg$image
+||dvdprime.donga.com/g2/data/cheditor5/1606/a34181ea2b34a27fe37d21ef44b80af1_20160619175517_iajpmmep.jpg$image
+||dvdprime.donga.com/g2/img/banner/side/amazon.png$image
+||dvdprime.donga.com/g2/data/cheditor5/1606/a34181ea2b34a27fe37d21ef44b80af1_20160619175334_ldyssvre.jpg$image
+||dvdprime.donga.com/g2/data/cheditor5/1607/20160714112457_fovsrucs.jpg$image
+||dvdprime.donga.com/g2/data/cheditor5/1607/20160715111332_wdgfuwff.jpg$image
+||dvdprime.donga.com/g2/data/cheditor5/1606/a34181ea2b34a27fe37d21ef44b80af1_20160619175424_uvpkvspq.jpg$image
+||dvdprime.donga.com/g2/data/cheditor5/1606/a34181ea2b34a27fe37d21ef44b80af1_20160619174742_gjrbbhgy.gif$image
+||dvdprime.donga.com/g2/data/cheditor5/1607/20160715110901_igqsuqua.jpg$image
+||dvdprime.donga.com/g2/data/cheditor5/1606/a34181ea2b34a27fe37d21ef44b80af1_20160619175610_ibebkkvc.gif$image
+||dvdprime.donga.com/g2/data/cheditor5/1607/20160714112555_uducwhix.jpg$image
+||dvdprime.donga.com/g2/data/cheditor5/1606/a34181ea2b34a27fe37d21ef44b80af1_20160623211841_trwjiqwl.jpg$image
+||dvdprime.donga.com/g2/data/cheditor5/1606/a34181ea2b34a27fe37d21ef44b80af1_20160619174644_goydotji.jpg$image
+dvdprime.donga.com##.relative[style="border-top: 1px solid #efefef; margin-top: 40px; padding: 34px 0; height: 200px; "]
+dvdprime.donga.com###cto_async_content
+dvdprime.donga.com###cto_async
+dvdprime.donga.com###ad_comment_bottom
+dvdprime.donga.com###empty_right
+dvdprime.donga.com###empty_left
+dvdprime.donga.com###menubar_doubleclick
+dvdprime.donga.com###sidebar_doubleclick
+dvdprime.donga.com##.float_left.box_shadow_3
+dvdprime.donga.com##DIV[class="relative"][style="border-top: 1px solid #efefef; margin-top: 20px; padding: 29px 0 29px; height: 200px; "]
+m.ezday.co.kr##DIV[style="margin: 0px;padding: 15px"]
+gesomoon.com###divNews > DIV.trans:last-child > DIV:last-child
+/gg/files/attach/images/14360/379/014/5b3eaa9c04aad48467d80991b7b10394.jpg$domain=gigglehd.com
+/gg/files/attach/images/14360/385/014/0fdc86eb453381a7aba71863f9538e75.gif$domain=gigglehd.com
+/gg/files/attach/images/14360/383/014/52e0fe6f4366063f70f3ac835dc89e81.jpg$domain=gigglehd.com
+/gg/files/attach/images/14393/398/014/bc8ac2ec1cf9928c67eef12785a4f5ac.jpg$domain=gigglehd.com
+/gg/files/attach/images/14393/390/217/49f5d336e61d98d808d4e0a327a9a004.jpg$domain=gigglehd.com
+/gg/files/attach/images/14395/404/014/94540a7ed92fa27dcb0f98cee7efc3e3.jpg$domain=gigglehd.com
+/gg/files/attach/images/14395/402/014/9054f183d9ea110aaf9ac81431860805.jpg$domain=gigglehd.com
+||gigglehd.com/gg/files/thumbnails/376/014/160x40.crop.jpg
+||gigglehd.com/gg/files/thumbnails/374/014/160x40.crop.jpg
+||gigglehd.com/gg/files/thumbnails/372/014/160x40.crop.jpg
+||gigglehd.com/gg/files/thumbnails/370/014/160x40.crop.jpg
+||gigglehd.com/gg/files/thumbnails/368/014/160x40.crop.jpg
+||gigglehd.com/gg/files/thumbnails/366/014/160x40.crop.jpg
+||gigglehd.com/gg/files/thumbnails/430/060/160x40.crop.jpg
+biz.heraldcorp.com##.sub_viewpag_headline
+mbiz.heraldcorp.com##DIV[id^="ad20"]
+||js.hnscom.com/etc/hns/black_x.png
+||image.cauly.co.kr:15151^
+||imagizer.imageshack.com/img922/5017/fDoDCo.gif
+||imagizer.imageshack.com/img921/299/Q0Nr19.gif
+||img.imgtong.com/bt7_1201.gif
+||img.imgtong.com/eggkor600.gif
+||img.imgtong.com/3sea139.gif
+||img.imgtong.com//ifif99_1.gif
+||img.imgtong.com/bt7_600.gif
+||img.imgtong.com/3sea728.gif
+||i.imgur.com/oKrLJTa.gif
+||i.imgur.com/TPqbZIi.gif
+||imgur.com/3lORJMu.gif
+||imgur.com/hwMlCNJ.gif.gif
+||techquiz.itworld.co.kr/_common/banner/quiz_banner.php
+itworld.co.kr###techlibrary_left_slide_banner
+itworld.co.kr###tq_banner
+m.inven.co.kr##DIV.cauly_ad_area3
+inven.co.kr##DIV[id$="AdMidLeft"]
+inven.co.kr##DIV[id$="AdMidRight"]
+inven.co.kr##DIV.adPart
+||pds.inven.co.kr/upload/2016/08/01/intro/i13114142344.jpg
+||pds.inven.co.kr/upload/2016/07/20/intro/i13066723578.jpg
+||pds.inven.co.kr/upload/2016/07/11/intro/i12518702391.jpg
+inven.co.kr##DIV.bannerList
+left_banner4.png$domain=justice21.org
+lifeqna.kr##NAV.navbar.navbar-default.navbar-fixed-bottom
+lmobile.kr##.ft_adslot1
+mnews.joins.com###zone_band_ad_top
+mnews.joins.com###zone_band_ad_bottom
+mnews.joins.com##.ad_h100.band_ad_middle
+mnews.joins.com##.ad_h100,.band_ad_middle
+mnews.joins.com###zone_band_ad_top
+jtbc.joins.com##DIV.sponsor_link_combine
+culture.jtbc.joins.com###right_banner250
+culture.jtbc.joins.com##DIV.ad_shoppingnlife_bottom
+news.jtbc.joins.com##DIV.sponsor_link_area.sponsor_link_area_v2
+m.joongangwatch.com##.gsc-promotion.gsc-result.gsc-webResult
+joongangwatch.com###layer_fixed
+joongangwatch.com##DIV[class="gsc-webResult gsc-result gsc-promotion"]
+||menupan.com/gpcard/image/banner/gpcard_750_02.gif$image
+menupan.com##.magazine_bnr
+msportalkorea.mt.co.kr##.ad_viewin
+||nabers.co.kr/img/y_3.jpg$image
+nabers.co.kr###bo_v > div[style="width:500px;border:1px solid #ccc;margin:auto;padding:10px;"]
+m.comic.naver.com##.banner_lnk
+m.newspim.com###a4c83c79
+m.newspim.com###container > IFRAME[src^="http://www.dreamsearch.or.kr/servlet/adbnMobileBanner"]
+m.newspim.com##DIV[style="float:right; width:200px; height:200px;margin-top:5px; "]
+m.newspim.com##IFRAME[src="http://ad.adinc.kr/cgi-bin/PelicanC.dll"]
+||playwares.com/files/attach/images/47072103/467/024/050/a0599eca5070ab8b11a0eb467607102a.jpg$image
+||playwares.com/files/attach/images/47072103/060/200/047/919ec80542fb9a9b8c1d50c53efabffe.jpg$image
+||playwares.com/files/attach/images/47072103/099/200/047/09305fd8df5a734eba9ae11a1933df80.jpg$image
+||playwares.com/files/attach/images/47072103/034/200/047/29d6f27f1f438e1347a0c1feb363b3d4.jpg$image
+||playwares.com/files/attach/images/47072103/086/200/047/01a2e22267fb76c97b8da4dd3e084273.jpg$image
+||playwares.com/files/attach/images/47072103/412/645/048/3ee34412328c514065d14b787bed1ee7.jpg$image
+||playwares.com/files/attach/images/47072103/960/199/047/c6c94e116631149fdcbd3f8ec553e9c9.gif$image
+||playwares.com/files/attach/images/47072103/046/200/047/e8ee691682468877d093e377fc26077c.jpg$image
+||playwares.com/files/attach/images/47072103/924/194/049/de05cc218737a7e77e86cb0046018366.jpg$image
+||playwares.com/files/attach/images/47072103/087/446/049/f125bb9ce8a80c05784c794caa1dc493.jpg$image
+||playwares.com/files/attach/images/47072103/071/200/047/2d884ecc1f4d0a4ba2469515440d84a2.jpg$image
+||playwares.com/files/attach/images/47072103/797/261/047/0fee374cd3a27bcc33bb8a2560df7155.jpg$image
+||playwares.com/pcreview/files/attach/images/47072103/113/200/047/86e93b253b0e25c26c7dfb14ea5682cc.JPG$image
+||playwares.com/files/attach/images/47072103/495/157/050/a954a14cb2881e8fce9ad8aad7842d76.jpg$image
+||playwares.com/files/attach/images/47072103/805/261/047/d5504ca5a9fb52185a86ed2956e9dfc3.jpg$image
+||playwares.com/files/attach/images/47072103/984/199/047/4ce3b7728791cf1d223aa6c05631be6f.jpg$image
+||playwares.com/files/attach/images/47072103/051/200/047/bfeacdf8920aca90e2a92ce424749253.jpg$image
+||playwares.com/files/attach/images/47072103/065/947/049/255df9ec385fa568f436bfa5583fb277.jpg$image
+||playwares.com/files/attach/images/47072103/988/199/047/d7f3e320096eb0970e13f7d48fcf25fa.jpg$image
+||playwares.com/files/attach/images/47072103/608/460/049/646617d91eebde9a0fa4e19397be5acd.jpg$image
+||playwares.com/files/attach/images/47072103/110/200/047/859408a5b965dcbf7b35607eae8443ee.jpg$image
+||playwares.com/files/attach/images/47072103/964/199/047/9e3b6874aa93a95164555573bb8c72a6.gif$image
+||playwares.com/files/attach/images/47072103/458/024/050/0ef4107818376f3c3a6813e7e678a433.jpg$image
+||playwares.com/files/attach/images/47072103/581/363/049/7822bc602a8eac7f6c5d949233dab37d.png$image
+||playwares.com/files/attach/images/47072103/088/391/049/56b0302fd8904eb95789d89af0308b96.jpg$image
+||playwares.com/files/attach/images/47072103/970/199/047/9ef4822a670a71e8b2dc62245bfacae4.jpg$image
+||playwares.com/files/attach/images/47072103/101/200/047/264221aa0dcbd15ec573e2675f66115f.jpg$image
+||playwares.com/files/attach/images/47072103/280/476/047/78513bd96f6b6c91078e1ba5cfbdbd2d.jpg$image
+||playwares.com/files/attach/images/47072103/032/200/047/39078c79c57bdf5302d5b5a376cebe6a.jpg$image
+playwares.com###bd_62191_36195222 > .clear.rd_nav_style2.rd > .clear.rd_body > center > .sub_banner_element
+boptho.postype.com###guide-tooltip
+boptho.postype.com###top-menu
+||primeranks.com/reserve/img/rec728.jpg
+||primeranks.com/reserve/img/rec300.jpg
+||ad.s99.co.kr/img/$image
+||scweeny.net/wp-content/themes/material-gaze/images/headers/blue.jpg
+seoul.co.kr###openmatch_ad
+seoul.co.kr##DIV[style="clear:both;width:100%;text-align:center;"]
+tailstar.net###s_ts_adsense
+tailstar.net###right
+||te31.com/rgr/ad/add4s_banner_366x280_02.jpg
+||te31.com/rgr/eyepc_2.jpg
+||te31.com/rgr/ad/koit_728.gif
+||te31.com/rgr/taling_pc_2.jpg
+||te31.com/rgr/taling_pc_1.jpg
+||te31.com/rgr/tagme_rg.png
+te31.com##IMG[src$="taling_pc_1.jpg"]
+te31.com##IMG[src$="tagme_rg.png"]
+te31.com###Promotion2
+te31.com##TABLE.box1[style="padding-bottom:5px;margin-bottom:5px;"]
+tfreeca22.com##DIV[style="height:100px; text-align:center"]
+180pet.tistory.com##DIV.txc-textbox
+tqzoa.info##DIV[id^="poplayer"]
+||tqzoa.info/files/_etc/etc/manag.gif
+||tqzoa.info/files/_etc/etc/root60.gif
+||tqzoa.info/files/_etc/etc/roota.gif
+||tqzoa.info/files/_etc/etc/yatong02.png
+||tqzoa.info/files/_etc/etc/tpy345.gif
+||tqzoa.info/files/_etc/etc/ddoletv.gif
+||tqzoa.info/files/_etc/etc/macao.gif
+||tqzoa.info/files/_etc/etc/surem.gif
+||tqzoa.info/files/_etc/etc/orkser.gif
+||tqzoa.info/files/_etc/etc/webleft.gif
+||tqzoa.info/files/_etc/etc/eggc.gif
+yagumania.com##.box_shadow_3.mobile_responsive_1_div
+m.ytn.co.kr##.banner
 te31.com###left > a[href="http://taling.me/"]:nth-of-type(1) > img
 te31.com###content > .box1 > tbody > tr > td
 te31.com###content > .box1
