@@ -22,7 +22,6 @@ tcaferr.com###s_word > .section_ol > ol > li:nth-of-type(29) > center
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
-forums.androidcentral.com$$div[class="adunit"][parent-elements="div"]
 forums.androidcentral.com###navbar_notice_50
 ||img.appstory.co.kr/monthly.appstory.co.kr/renew/banner_left_nvpost01.jpg
 cwstoo.asiae.co.kr###close_mask
