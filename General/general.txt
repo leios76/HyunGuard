@@ -19,22 +19,6 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
-www.acrofan.com###secWrap > .viewAddW > .viewAddRDiv
-www.acrofan.com###secWrap > .viewAddW
-www.acrofan.com###secWrap > .viewBannerW:nth-of-type(5)
-www.acrofan.com###secWrap > .viewBannerW:nth-of-type(9) > ul
-www.acrofan.com###secWrap > .viewBannerW:nth-of-type(9)
-www.acrofan.com###banner3
-www.acrofan.com###topLbanner2
-torrentkim3.net###side1 > a[href="/to_toy.html"]
-torrentkim3.net###side2 > div:nth-of-type(1)
-torrentkim3.net###rb > center
-torrentkim3.net###rb
-www.torbest.net###left > div:nth-of-type(7)
-www.torbest.net###right > div:nth-of-type(1)
-www.torbest.net###right
-www.torbest.net###contents > center
-www.yonhapnews.co.kr###content > .contents > .contents02 > .wiki-box.list-style02.contents-box > p
 m.clien.net##DIV[style="width:92%; height:84px; margin:0 auto; background-color:#eaf3e8;  padding:16px 12px 16px 12px;"]
 www.iplocation.net###wrapper > section > .container > .row > .col_4_of_12.col > .widget:nth-of-type(4) > div:nth-of-type(2)
 www.iplocation.net###wrapper > section > .container > .row > .col_4_of_12.col > .widget:nth-of-type(4) > .widget_title
