@@ -19,6 +19,10 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+torrentkim3.net###side1 > a[href="/to_toy.html"]
+torrentkim3.net###side2 > div:nth-of-type(1)
+torrentkim3.net###rb > center
+torrentkim3.net###rb
 www.torbest.net###left > div:nth-of-type(7)
 www.torbest.net###right > div:nth-of-type(1)
 www.torbest.net###right
