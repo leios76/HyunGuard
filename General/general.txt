@@ -19,6 +19,13 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+www.acrofan.com###secWrap > .viewAddW > .viewAddRDiv
+www.acrofan.com###secWrap > .viewAddW
+www.acrofan.com###secWrap > .viewBannerW:nth-of-type(5)
+www.acrofan.com###secWrap > .viewBannerW:nth-of-type(9) > ul
+www.acrofan.com###secWrap > .viewBannerW:nth-of-type(9)
+www.acrofan.com###banner3
+www.acrofan.com###topLbanner2
 torrentkim3.net###side1 > a[href="/to_toy.html"]
 torrentkim3.net###side2 > div:nth-of-type(1)
 torrentkim3.net###rb > center
