@@ -19,6 +19,29 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+||china-market.co.kr/img/out_banner_1100.gif
+fastpost.oceanmate.co.kr##TABLE[style="border:5px solid #eee;margin-top:10px;"]
+/data/banner/*$domain=kakaobam.net,image
+kakaobam.net##.aside-banner
+kakaobam.net##.lt-hit-shop
+||img.etomato.com/banner/2015/20151202113657.jpg
+||img.etomato.com/banner/2016/20160329111253.gif
+imbc.com###rectangle_banner
+||img.linkoooo.com/ikon61_750.gif
+||img.linkoooo.com/3sea139.gif
+||img.linkoooo.com/bt_mb3.gif
+||imgur.com/EmjUgdt.gif
+||imgur.com/9ALLy1A.gif
+||i.imgur.com/cUsHMQP.gif
+/assets/images/banners/incapsula/incapsula-calculator-336x280.png$domain=iplocation.net
+||ad.ilbe.com^
+ilbe.com###madlayer_top
+ilbe.com###madlayer_middle
+ilbe.com###madlayer_bottom
+ilbe.com###shoppingbox
+m.sports.khan.co.kr##.social_btm
+comic.naver.com##TR[class="band_banner"]
+||naver-webtoon.phinf.naver.net/20160826_75/1472204613426w5y81_JPEG/PC-_694x44.jpg
 m.clien.net##DIV[style="width:92%; height:84px; margin:0 auto; background-color:#eaf3e8;  padding:16px 12px 16px 12px;"]
 www.iplocation.net###wrapper > section > .container > .row > .col_4_of_12.col > .widget:nth-of-type(4) > div:nth-of-type(2)
 www.iplocation.net###wrapper > section > .container > .row > .col_4_of_12.col > .widget:nth-of-type(4) > .widget_title
