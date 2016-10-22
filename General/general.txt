@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20161002
+! Version: 20161022
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! Welcome to use HyunGuard! HyunGuard is AdBlock filter list for Korean web.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
@@ -19,6 +19,14 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+gall.dcinside.com###dgn_content_de > div:nth-of-type(10)
+www.todayhumor.co.kr##.whole_box > .cf.vertical_container > .table_container > .table_list > tbody > tr:nth-of-type(1) > .list_ad
+buy.11st.co.kr###myAddIframe
+buy.11st.co.kr###wb_recomm_MainLayer > .had_wrap > h4
+buy.11st.co.kr###wb_recomPrd
+buy.11st.co.kr###wb_recomm_MainLayer
+news.khan.co.kr###container > .art_side > .noline.pl00.rt_box:nth-of-type(3) > .ad_movFocus
+news.khan.co.kr###container > .art_cont > .ad_two
 torrentwiz.com###main-menu-wrapper > ul > li:nth-of-type(19) > .left_banner.clearfix > .pr_left_banner
 torrentwiz.com###bg-content > .row > .col-md-pull-0.col-md-9 > .top_banner > .fleft
 torrentwiz.com###bg-content > .row > .col-md-pull-0.col-md-9 > .top_banner
