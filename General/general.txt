@@ -1361,8 +1361,6 @@ news.inews24.com##DIV[class^="ma_w_"]
 ||news.inews24.com/inc/right_file_banner_125.php$subdocument
 ||inews24.com/tools/adpresso/inc_middle_banner2nd2.php$subdocument
 news.inews24.com##DIV[style="float:right; width:200px; height:200px; margin-left:10px;  margin-bottom:10px;overflow:hidden;"]
-clien.net###content > .board_main > div:nth-of-type(4)
-www.clien.net###content > .board_main > div:nth-of-type(4)
 daily.hankooki.com###slot02 > .bodyfr_v3 > .ad_icon
 daily.hankooki.com###BizCBox_1 > .num_pro
 daily.hankooki.com###slot10 > .bodyfr_v3 > .dotlist_n3 > .num_pro
@@ -3395,3 +3393,5 @@ http://log.$script,image,subdocument,object_subrequest
 
 ! ----- HyunGuard 제거된 필터 (HyunGuard Removed Filter) -----
 ! news.naver.com##.nav2
+! clien.net###content > .board_main > div:nth-of-type(4)
+! www.clien.net###content > .board_main > div:nth-of-type(4)
