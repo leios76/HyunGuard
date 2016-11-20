@@ -2,7 +2,7 @@
 ! Homepage: https://github.com/NativeHyun/HyunGuard
 ! Title: HyunGuard
 ! Expires: 12 hours
-! Version: 20160908
+! Version: 20161023
 ! HyunGuard사용을 환영합니다. HyunGuard는 한국 웹의 광고를 차단하는 한국형 필터입니다.
 ! Welcome to use HyunGuard! HyunGuard is AdBlock filter list for Korean web.
 ! HyunGuard 프로젝트는 https://github.com/NativeHyun/HyunGuard 에서 참여할 수 있습니다.
@@ -19,6 +19,63 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+gall.dcinside.com###dgn_content_de > div:nth-of-type(10)
+www.todayhumor.co.kr##.whole_box > .cf.vertical_container > .table_container > .table_list > tbody > tr:nth-of-type(1) > .list_ad
+buy.11st.co.kr###myAddIframe
+buy.11st.co.kr###wb_recomm_MainLayer > .had_wrap > h4
+buy.11st.co.kr###wb_recomPrd
+buy.11st.co.kr###wb_recomm_MainLayer
+news.khan.co.kr###container > .art_side > .noline.pl00.rt_box:nth-of-type(3) > .ad_movFocus
+news.khan.co.kr###container > .art_cont > .ad_two
+torrentwiz.com###main-menu-wrapper > ul > li:nth-of-type(19) > .left_banner.clearfix > .pr_left_banner
+torrentwiz.com###bg-content > .row > .col-md-pull-0.col-md-9 > .top_banner > .fleft
+torrentwiz.com###bg-content > .row > .col-md-pull-0.col-md-9 > .top_banner
+torrentwiz.com###bg-content > .row > .col-md-push-0.col-md-3 > .idx-sidebox > .hiddenpage.clearfix:nth-of-type(4) > .pr_main_right_2
+torrentwiz.com###bg-content > .row > .col-md-push-0.col-md-3 > .idx-sidebox > .hiddenpage.clearfix:nth-of-type(4) > .h10
+torrentwiz.com###bg-content > .row > .col-md-push-0.col-md-3 > .idx-sidebox > .hiddenpage.clearfix:nth-of-type(7) > .pr_main_right_3
+torrentwiz.com###bg-content > .row > .col-md-push-0.col-md-3 > .idx-sidebox > .hiddenpage.clearfix:nth-of-type(7) > .h10
+torrentwiz.com###bg-content > .row > .col-md-push-0.col-md-3 > .idx-sidebox > .hiddenpage.clearfix:nth-of-type(10) > .pr_main_right_1
+torrentwiz.com###bg-content > .row > .col-md-push-0.col-md-3 > .idx-sidebox > .hiddenpage.clearfix:nth-of-type(10) > .h10
+torrentkim3.net###toto
+www.acrofan.com###secWrap > .viewAddW > .viewAddRDiv
+www.acrofan.com###secWrap > .viewAddW
+www.acrofan.com###secWrap > .viewBannerW:nth-of-type(5)
+www.acrofan.com###secWrap > .viewBannerW:nth-of-type(9) > ul
+www.acrofan.com###secWrap > .viewBannerW:nth-of-type(9)
+www.acrofan.com###banner3
+www.acrofan.com###topLbanner2
+torrentkim3.net###side1 > a[href="/to_toy.html"]
+torrentkim3.net###side2 > div:nth-of-type(1)
+torrentkim3.net###rb > center
+torrentkim3.net###rb
+www.torbest.net###left > div:nth-of-type(7)
+www.torbest.net###right > div:nth-of-type(1)
+www.torbest.net###right
+www.torbest.net###contents > center
+www.yonhapnews.co.kr###content > .contents > .contents02 > .wiki-box.list-style02.contents-box > p
+||china-market.co.kr/img/out_banner_1100.gif
+fastpost.oceanmate.co.kr##TABLE[style="border:5px solid #eee;margin-top:10px;"]
+/data/banner/*$domain=kakaobam.net,image
+kakaobam.net##.aside-banner
+kakaobam.net##.lt-hit-shop
+||img.etomato.com/banner/2015/20151202113657.jpg
+||img.etomato.com/banner/2016/20160329111253.gif
+imbc.com###rectangle_banner
+||img.linkoooo.com/ikon61_750.gif
+||img.linkoooo.com/3sea139.gif
+||img.linkoooo.com/bt_mb3.gif
+||imgur.com/EmjUgdt.gif
+||imgur.com/9ALLy1A.gif
+||i.imgur.com/cUsHMQP.gif
+/assets/images/banners/incapsula/incapsula-calculator-336x280.png$domain=iplocation.net
+||ad.ilbe.com^
+ilbe.com###madlayer_top
+ilbe.com###madlayer_middle
+ilbe.com###madlayer_bottom
+ilbe.com###shoppingbox
+m.sports.khan.co.kr##.social_btm
+comic.naver.com##TR[class="band_banner"]
+||naver-webtoon.phinf.naver.net/20160826_75/1472204613426w5y81_JPEG/PC-_694x44.jpg
 m.clien.net##DIV[style="width:92%; height:84px; margin:0 auto; background-color:#eaf3e8;  padding:16px 12px 16px 12px;"]
 www.iplocation.net###wrapper > section > .container > .row > .col_4_of_12.col > .widget:nth-of-type(4) > div:nth-of-type(2)
 www.iplocation.net###wrapper > section > .container > .row > .col_4_of_12.col > .widget:nth-of-type(4) > .widget_title
@@ -1304,8 +1361,6 @@ news.inews24.com##DIV[class^="ma_w_"]
 ||news.inews24.com/inc/right_file_banner_125.php$subdocument
 ||inews24.com/tools/adpresso/inc_middle_banner2nd2.php$subdocument
 news.inews24.com##DIV[style="float:right; width:200px; height:200px; margin-left:10px;  margin-bottom:10px;overflow:hidden;"]
-clien.net###content > .board_main > div:nth-of-type(4)
-www.clien.net###content > .board_main > div:nth-of-type(4)
 daily.hankooki.com###slot02 > .bodyfr_v3 > .ad_icon
 daily.hankooki.com###BizCBox_1 > .num_pro
 daily.hankooki.com###slot10 > .bodyfr_v3 > .dotlist_n3 > .num_pro
@@ -1978,7 +2033,7 @@ www.car-vov.com###doc > .header > .top_area > .logo > a[href="http://ditto1004.c
 @@/wcslog.js$script,domain=m.tvcast.naver.com
 @@||http://google-analytics.com/collect
 @@||naver.com/likeIt/v1/likeItServiceContentList.jsonp
-
+@@||naver-smr.smartmediarep.com/
 
 ! ----- 여기서부터 코르셋 필터의 Fork입니다. https://code.google.com/archive/p/abp-corset/ -----
 ! ----- Corset filter fork starts here. https://code.google.com/archive/p/abp-corset/ -----
@@ -3338,3 +3393,5 @@ http://log.$script,image,subdocument,object_subrequest
 
 ! ----- HyunGuard 제거된 필터 (HyunGuard Removed Filter) -----
 ! news.naver.com##.nav2
+! clien.net###content > .board_main > div:nth-of-type(4)
+! www.clien.net###content > .board_main > div:nth-of-type(4)
