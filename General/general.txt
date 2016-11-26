@@ -19,6 +19,124 @@
 ! ----- HyunGuard 일반 필터는 일반적인 한국 웹의 광고 목록입니다. -----
 ! ----- HyunGuard General is general Korean web ads. -----
 ! ----- HyunGuard 일반 (HyunGuard General) -----
+||2cpu.co.kr##table[class="table table-condensed table-hover table-bordered"]
+||avnana.com/img/*.gif
+./files/2016/10/27/425d72161d543ed3464c841935a2d17c172626.gif$domain=avsnoop.co.uk
+./files/2016/09/21/f27ea277970dbb13067c094ae51c8306165027.gif$domain=avsnoop.co.uk
+||china-market.co.kr/img/out_banner_1100.gif
+m.clien.net##DIV[style="width:92%; height:84px; margin:0 auto; background-color:#eaf3e8;  padding:16px 12px 16px 12px;"]
+clien.net##DIV[style="clear:both;width:780px; height:115px; padding:0px; text-align:center;padding-left:5px;"]
+dspdaily.com##.m_banner01
+||aimg.fc2.com/imgs//201604/bnr-multilang2-b.png
+||static.fc2.com/share/fc2footermenu/blank.gif
+||static.fc2.com/video/img/fb_saymove_en.png
+gamecodi.com##TD[bgcolor="#eeeeee"]
+||gamecodi.com/ad_board_list_728x90_20161011.jpg
+||gamecodi.com/ad_comment_728x90_20161011.jpg
+||gamecodi.com/procademy_167x90_20161108.png
+||gamecodi.com/ad_board_bottom_320x100_20161011.jpg
+||gamecodi.com/ad_board_top_250x90_20161011.jpg
+||lab.gamecodi.com/gamecodi_lab_board_400x90_20160617.png
+||lab.gamecodi.com/gamecodi_lab_board_250x90_20160818.png
+||img.gevolution.co.kr/common/banner/*
+/gg/files/attach/images/13833/912/428/bb005b40f3d5b05c1e2296066ee6cb6b.jpg$domain=gigglehd.com
+/gg/files/attach/images/13833/044/014/34ccbb8f4a7af847df980ce7e36a5f9d.jpg$domain=gigglehd.com
+/gg/files/attach/images/14393/710/421/4d9a5917a25f6a1f4b2a25582dc28a12.jpg$domain=gigglehd.com
+||ad.ilbe.com^
+ilbe.com###madlayer_top
+ilbe.com###madlayer_middle
+ilbe.com###madlayer_bottom
+ilbe.com###shoppingbox
+||imgur.com/EmjUgdt.gif
+||imgur.com/9ALLy1A.gif
+||img.imgtong.com/s1-hi.gif
+||img.imgtong.com/3dsea_139.gif
+||img.imgtong.com/matv728.gif
+||img.imgtong.com/3dsea_728.gif
+||img.imgtong.com/matv600_200.gif
+||imgur.com/E93kKKf.gif
+||imgur.com/MU8T7jg.gif
+||i.imgur.com/cUsHMQP.gif
+||dgate.joins.com/hc.aspx
+m.isplus.joins.com##DIV[id^="article_banner"]
+m.isplus.joins.com###s3dpop_wrap_div
+naver.com###veta_autoplay
+news.joins.com###criteo_network
+news.joins.com##.ab_adtxt_wrap.clearfx
+news.joins.com##.rts.sub_da_300
+news.joins.com##.rts.sub_da_250
+/data/banner/*$domain=kakaobam.net,image
+kakaobam.net##.aside-banner
+kakaobam.net##.lt-hit-shop
+||img.etomato.com/banner/2015/20151202113657.jpg
+||img.etomato.com/banner/2016/20160329111253.gif
+imbc.com###rectangle_banner
+||img.linkoooo.com/ikon61_750.gif
+||img.linkoooo.com/3sea139.gif
+||img.linkoooo.com/bt_mb3.gif
+||img.linkoooo.com/idc_tc120.gif
+||img.linkoooo.com/eggckor120.gif
+||img.linkoooo.com/s1-hi.gif
+||img.linkoooo.com/idc_tc728.gif
+||img.linkoooo.com/rs7979_120.gif
+||img.linkoooo.com/oldlove.gif
+||img.linkoooo.com/3dbada_139a.gif
+||img.linkoooo.com/rs79_120a.gif
+||img.linkoooo.com/onawang.gif
+||img.linkoooo.com/3dbada_728a.gif
+||img.linkoooo.com/egg250.gif
+/assets/images/banners/incapsula/incapsula-calculator-336x280.png$domain=iplocation.net
+m.sports.khan.co.kr##.social_btm
+||img.linkoooo.com/3dsea_728.gif
+||img.linkoooo.com/3dsea_139.gif
+||img.linkoooo.com/matv728.gif
+||img.linkoooo.com/idc_728_2.gif
+||img.linkoooo.com/eggckor728.gif
+||img.linkoooo.com/matv600_200.gif
+||img.linkoooo.com/idc600.jpg
+||img.linkoooo.com/3dbada550.jpg
+||img.linkoooo.com/eggkor600.gif
+||img.linkoooo.com/seaaa728.gif
+||img.linkoooo.com/agame114a.gif
+||img.linkoooo.com/shshop2.gif
+||img.linkoooo.com/obcell.gif
+||img.linkoooo.com/nolz728.gif
+||img.linkoooo.com/nolz728_3.gif
+||img.linkoooo.com/3d780_3.gif
+||img.linkoooo.com/3d728_3.gif
+||extmovie.maxmovie.com/xe/files/attach/images/10058537/0d325551827052ddb1426723f646121b.jpg
+||extmovie.maxmovie.com/xe/files/attach/images/10058537/a910af1efe268199375769741def0e09.jpg
+||extmovie.maxmovie.com/xe/files/attach/images/292/a624d9c244738f9155022673fab26559.jpg$domain=extmovie.maxmovie.com
+||extmovie.maxmovie.com/xe/files/attach/images/292/722d1667944384bef47f9426e2038d6e.jpg
+||himage.negagea.kr/201611/bn_00000049_171796.jpg
+osen.mt.co.kr##.advertising
+comic.naver.com##TR[class="band_banner"]
+comic.naver.com##.ads_sc
+||naver-webtoon.phinf.naver.net$domain=comic.naver.com,image
+||himage.negagea.kr/201610/bn_00000039_475381.jpg
+||himage.negagea.kr/201610/bn_00000045_045991.jpg
+||naver-webtoon.phinf.naver.net/20160826_75/1472204613426w5y81_JPEG/PC-_694x44.jpg
+nbamania.com###comment_full_size > DIV.box_shadow_3.mobile_responsive_1_div
+fastpost.oceanmate.co.kr##TABLE[style="border:5px solid #eee;margin-top:10px;"]
+||popco.net/openx/www/images/b4773e3200407d625a58288815972f75.jpg
+popco.net##DIV[id=""][class="pin_image"]
+ppomppu.co.kr##DIV[class="ad-banner middle-banner"]
+m.ruliweb.com###push_bar
+sportsseoul.com###vod_banner
+sportsseoul.com###banner_imgurl
+||image.sportsseoul.com/images/banner/
+||sundayjournalusa.com/wp-content/uploads/2016/09/BOH_Sundayjournal.jpg$domain=sundayjournalusa.com
+/wp-content/uploads/2016/02/스파텔슬라이더-웹용.png$domain=sundayjournalusa.com
+tcafe1.com###divpop
+tcafe1.com###divpop2
+tfreeca22.com##.left_ad_img
+tfreeca22.com###ad_right
+tfreeca22.com###ad_left
+tistory.com##A[href="http://shoping.dothome.co.kr/board_gNVz95"]
+tistory.com###mArticle > DIV.section_relation
+torrentkim3.net###toto
+||torrentwiz.com/data/zn_banner/
+/templates/js_2016/mobile_fixed_ad_*.js$domain=vop.co.kr
 gall.dcinside.com###dgn_content_de > div:nth-of-type(10)
 www.todayhumor.co.kr##.whole_box > .cf.vertical_container > .table_container > .table_list > tbody > tr:nth-of-type(1) > .list_ad
 buy.11st.co.kr###myAddIframe
