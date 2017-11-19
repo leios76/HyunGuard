@@ -3515,3 +3515,14 @@ http://log.$script,image,subdocument,object_subrequest
 ! clien.net###content > .board_main > div:nth-of-type(4)
 ! www.clien.net###content > .board_main > div:nth-of-type(4)
 ! zipbogo.net###sidebar2 > ul > li:nth-of-type(2) > h2
+
+!------ Naver, 카카오 TV 광고 차단 -------
+||ams.rmcnmv.naver.com
+||naver-smr.smartmediarep.com
+||damoive.dn.naver.com
+||cpv.ad.naver.com
+||ad.smartmediarep.com
+||advod.smartmediarep.com
+||smr.tvpot.daum.net
+||daumkakao-smr.smartmediarep.com
+||vads-api.ad.daum.net
